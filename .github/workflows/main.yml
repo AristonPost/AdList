@@ -1,0 +1,40 @@
+name: Process Hosts and Whitelist
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  process_files:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download Hosts File (Fake News)
+        run: |
+          curl -o fake-news-hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts
+
+      - name: Download Whitelist File
+        run: |
+          curl -o whitelist https://raw.githubusercontent.com/AristonPost/AdList/refs/heads/main/whitelist
+
+      - name: Run Docker Container to Process Hosts and Whitelist
+        run: |
+          docker run --rm \
+            -v $(pwd)/fake-news-hosts:/etc/hosts \
+            -v $(pwd)/whitelist:/hosts/whitelist \
+            ghcr.io/stevenblack/hosts:latest \
+            updateHostsFile.py --auto --replace
+
+      - name: Commit and Push the Updated Hosts File
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add fake-news-hosts
+          git commit -m "Update fake-news-hosts file"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
