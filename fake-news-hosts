@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 08 March 2025 01:21:16 (UTC)
-# Number of unique domains: 131,248
+# Date: 08 March 2025 06:24:45 (UTC)
+# Number of unique domains: 131,260
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 12e62e384cfc
-127.0.0.53 12e62e384cfc
+127.0.1.1 9d175e34d838
+127.0.0.53 9d175e34d838
 
 # Start StevenBlack
 
@@ -3025,6 +3025,18 @@ ff02::3 ip6-allhosts
 # Added February 17, 2025
 0.0.0.0 hoppingtheglobe.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+
+# Added March 7, 2025
+0.0.0.0 cdn.yektanet.com
+0.0.0.0 biscotti.yektanet.com
+0.0.0.0 ua.yektanet.com
+0.0.0.0 static1.intrack.ir
+0.0.0.0 kilo.intrack.ir
+0.0.0.0 mq.intrack.ir
+0.0.0.0 static.adverge.ir
+0.0.0.0 cdn.goftino.com
+0.0.0.0 beta.kaprila.com
+0.0.0.0 panel.kaprila.com
 
 # End StevenBlack
 
@@ -135022,7 +135034,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-08 01:14:20 (UTC)                      #
+# Last updated: 2025-03-08 06:19:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -135030,8 +135042,10 @@ ff02::3 ip6-allhosts
 #
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.haory.cn
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 559236.na3.to
 0.0.0.0 abissnet.net
+0.0.0.0 acusense.ae
 0.0.0.0 adf6.adf6.com
 0.0.0.0 admin.aishangzhua.com
 0.0.0.0 admin.gestroom.it
@@ -135046,10 +135060,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.accueil-coinbase.com
 0.0.0.0 api.aide-coinbase.com
+0.0.0.0 api.co-operativefinance.com
 0.0.0.0 api.ewfiles.net
 0.0.0.0 api.information-binance.com
 0.0.0.0 api.rappel-coinbase.com
-0.0.0.0 applepistudios.com
+0.0.0.0 app.houseforma.com.br
 0.0.0.0 apps-actions.com
 0.0.0.0 armanayegh.com
 0.0.0.0 aulist.com
@@ -135071,9 +135086,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 booking.guestitemsfound.com
 0.0.0.0 booking.idguset-reserve.com
-0.0.0.0 bryceresortpatrol.com
 0.0.0.0 buscascolegios.diit.cl
-0.0.0.0 cambodiatouristservice.com
 0.0.0.0 casalomaminca.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cattozzo.it
@@ -135105,6 +135118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 check.zoxog.icu
 0.0.0.0 chinaapper.com
 0.0.0.0 chneiu.icu
+0.0.0.0 chromeupd-mo.com
 0.0.0.0 ciscocdn.com
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
@@ -135114,9 +135128,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 crystalpvp.ru
 0.0.0.0 csg-app.com
 0.0.0.0 dangtienluc.com
-0.0.0.0 daralquwa.com
 0.0.0.0 data.yhydl.com
-0.0.0.0 deliceschezfabi.com
+0.0.0.0 dcwblida.dz
 0.0.0.0 deturistaenjapon.com
 0.0.0.0 dev.gestroom.it
 0.0.0.0 device.redirec.com
@@ -135129,6 +135142,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dow.andylab.cn
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.gmexiochappt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
@@ -135136,12 +135150,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
-0.0.0.0 drmarlenemd.com
 0.0.0.0 e4l4.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 elnas.com
 0.0.0.0 eoufaoeuhoauengi.su
-0.0.0.0 epanpano.com
 0.0.0.0 esgroupnet.com
 0.0.0.0 expay.ru
 0.0.0.0 fastfreight-loads.com
@@ -135153,45 +135165,49 @@ ff02::3 ip6-allhosts
 0.0.0.0 first-security-verden.de
 0.0.0.0 floatnightlife.com
 0.0.0.0 fox-news-checker.cc
+0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
+0.0.0.0 gachetroi.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gebi.dorklifedubbed.shop
 0.0.0.0 genericfixer.com
+0.0.0.0 glennmedina.com
 0.0.0.0 growthinsightit.com
 0.0.0.0 grupobramam.com.br
 0.0.0.0 guestdocfound.com
 0.0.0.0 guestitemsfound.com
 0.0.0.0 highway-loads.com
 0.0.0.0 hitman-pro.ru
+0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 horno-rafelet.es
 0.0.0.0 hseda.com
 0.0.0.0 idguset-reserve.com
 0.0.0.0 immo-etoiles.fr
-0.0.0.0 information-binance.com
 0.0.0.0 ini.sh-pp.com
 0.0.0.0 inspirepk.org
-0.0.0.0 ivadragostinovacounselling.com
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
 0.0.0.0 javierlopez.eu
 0.0.0.0 jessespridecharters.com
+0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jrqh-hk.com
 0.0.0.0 js.telega.cn
 0.0.0.0 karoonpc.com
 0.0.0.0 kevinzhangadmin.jintsume.net
-0.0.0.0 library.arihantmbainstitute.ac.in
+0.0.0.0 kismetguzelim.com
+0.0.0.0 laborpartyjo.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
 0.0.0.0 livemap-loads.com
 0.0.0.0 livemap-trucks.com
+0.0.0.0 livetrack.in
 0.0.0.0 lostheaven.com.cn
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lucprofessional.com.br
-0.0.0.0 lucprofessional.grupomoltz.com.br
 0.0.0.0 m.gutousoft.com
 0.0.0.0 mail.cambodiatouristservice.com
 0.0.0.0 mail.finocci.com
@@ -135216,7 +135232,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nationwideavast.com
 0.0.0.0 ningbocrm.jintsume.net
 0.0.0.0 noithaticon.vn
-0.0.0.0 norflux.com
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 ojang.pe.kr
 0.0.0.0 ooriginalused.com
@@ -135230,6 +135245,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pid.fly160.com
 0.0.0.0 pns.org.pk
 0.0.0.0 pqoqllalll.com
+0.0.0.0 protechasia.com
 0.0.0.0 pulseon.top
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
@@ -135242,22 +135258,25 @@ ff02::3 ip6-allhosts
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
 0.0.0.0 rgueapp.com
+0.0.0.0 riverview-pools.com
 0.0.0.0 rocketibt.com
+0.0.0.0 ronnin-v2.com
+0.0.0.0 rtsfinancal.com
 0.0.0.0 rustbakingtable.com
 0.0.0.0 s02-welcome.cfd
+0.0.0.0 safe.ywxww.net
 0.0.0.0 sales.mypetapp.co.za
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 scrigno-popsologin.com
 0.0.0.0 security-service-api-link.cc
+0.0.0.0 sfa.com.ar
 0.0.0.0 shell.dimitrimedia.com
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sirault.be
 0.0.0.0 sms-szfang.com
 0.0.0.0 smsfastersend.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soportegira.net
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 sporcketngearforu.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
@@ -135274,11 +135293,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 tests.yjzj.org
 0.0.0.0 thesignaturemag.salviatech.com
-0.0.0.0 tigo-sa.com
 0.0.0.0 titrans-cd.com
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
-0.0.0.0 twitch.cx
 0.0.0.0 twitch.tj
 0.0.0.0 twizt.net
 0.0.0.0 u1.drizzleraving.shop
@@ -135306,31 +135323,31 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.cambodiatouristservice.com
+0.0.0.0 www.cmcmarkets.work
 0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.fastfreight-loads.com
 0.0.0.0 www.fastfreightloads.com
 0.0.0.0 www.finocci.com
-0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.flechabusretiro.com.ar
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hseda.com
 0.0.0.0 www.immo-etoiles.fr
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.kevinzhangadmin.jintsume.net
-0.0.0.0 www.laborpartyjo.com
+0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.livemap-loads.com
 0.0.0.0 www.livemap-trucks.com
-0.0.0.0 www.lucprofessional.grupomoltz.com.br
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.ningbocrm.jintsume.net
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.opolis.io
 0.0.0.0 www.qfs-securityledger.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rphingenieria.com
 0.0.0.0 www.sales.mypetapp.co.za
-0.0.0.0 www.seventools.de
+0.0.0.0 www.sis.houseforma.com.br
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.tdejb.com
@@ -135357,7 +135374,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zamilgroups.com
 0.0.0.0 zettagc.com
 0.0.0.0 znrq.zifwxq.cn
-# Number of entries: 330
+# Number of entries: 335
 # End URLHaus
 
 # Start yoyo.org
@@ -135366,8 +135383,8 @@ ff02::3 ip6-allhosts
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 17 Feb 2025 13:58:07 GMT
-# entries:        3472
+# last updated:   Thu, 06 Mar 2025 17:47:12 GMT
+# entries:        3468
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -135433,7 +135450,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 actualdeals.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
-0.0.0.0 actuallything.com
 0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 ad-balancer.at
@@ -135648,7 +135664,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.epi.sk
 0.0.0.0 ads.epltalk.com
-0.0.0.0 ads.expat-blog.biz
 0.0.0.0 ads.fastcomgroup.it
 0.0.0.0 ads.fasttrack-ignite.com
 0.0.0.0 ads.femmefab.nl
@@ -135732,6 +135747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.tripod.lycos.it
 0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tso.dennisnet.co.uk
+0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.unison.bg
@@ -135992,7 +136008,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 aswpapius.com
 0.0.0.0 at-o.net
-0.0.0.0 ato.mx
 0.0.0.0 attractionbanana.com
 0.0.0.0 attribution.report
 0.0.0.0 auctionads.com
@@ -136569,6 +136584,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 getintent.com
 0.0.0.0 getxmlisi.com
 0.0.0.0 giddycoat.com
+0.0.0.0 glasscoyote.com
 0.0.0.0 glisteningsign.com
 0.0.0.0 globalismedia.com
 0.0.0.0 gloriousbeef.com
@@ -136714,7 +136730,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 internalcondition.com
 0.0.0.0 internetfuel.com
 0.0.0.0 interreklame.de
-0.0.0.0 intnotif.club
 0.0.0.0 ioam.de
 0.0.0.0 ip.ro
 0.0.0.0 ip193.cn
@@ -136758,7 +136773,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 klclick1.com
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
-0.0.0.0 kmpiframe.keepmeposted.com.mt
 0.0.0.0 knitstamp.com
 0.0.0.0 knottyswing.com
 0.0.0.0 komoona.com
@@ -136776,7 +136790,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 launchbit.com
 0.0.0.0 layer-ad.de
 0.0.0.0 lbn.ru
-0.0.0.0 lead02.com
 0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
 0.0.0.0 leadinfo.net
@@ -136817,6 +136830,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 link.email.usmagazine.com
 0.0.0.0 link.go.chase
 0.0.0.0 link.sbstck.com
+0.0.0.0 link.team.hyperoptic.com
 0.0.0.0 link.theatlantic.com
 0.0.0.0 link.uk.expediamail.com
 0.0.0.0 linkexchange.com
@@ -136825,6 +136839,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 linkreferral.com
 0.0.0.0 links-ranking.de
 0.0.0.0 links.email.crunchbase.com
+0.0.0.0 links.housekeep.com
 0.0.0.0 links.prosservice.fr
 0.0.0.0 links.zoopla.co.uk
 0.0.0.0 linkstorms.com
@@ -137029,7 +137044,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 newsadsppush.com
 0.0.0.0 nexage.com
 0.0.0.0 nitroclicks.com
-0.0.0.0 nocturnalloom.com
 0.0.0.0 noiselessplough.com
 0.0.0.0 nondescriptcrowd.com
 0.0.0.0 nondescriptnote.com
@@ -137059,6 +137073,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerforge.com
 0.0.0.0 offermatica.com
+0.0.0.0 offshoregeology.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 ogury.com
@@ -137242,8 +137257,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
 0.0.0.0 pureclarity.net
-0.0.0.0 pushame.com
-0.0.0.0 pushazer.com
 0.0.0.0 pushengage.com
 0.0.0.0 pushtrack.co
 0.0.0.0 pushwhy.com
@@ -137671,6 +137684,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
 0.0.0.0 touchclarity.com
+0.0.0.0 tr.api.fanbyte.com
 0.0.0.0 track-eu.customer.io
 0.0.0.0 track-on.eu
 0.0.0.0 track-on.pl
