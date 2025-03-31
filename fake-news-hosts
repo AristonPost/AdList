@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 31 March 2025 01:57:42 (UTC)
-# Number of unique domains: 130,921
+# Date: 31 March 2025 06:34:22 (UTC)
+# Number of unique domains: 130,918
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 9aaf9b47d1c9
-127.0.0.53 9aaf9b47d1c9
+127.0.1.1 9f3a73f08503
+127.0.0.53 9f3a73f08503
 
 # Start StevenBlack
 
@@ -20373,8 +20373,8 @@ ff02::3 ip6-allhosts
 # Start hostsVN
 
 # Title: hostsVN
-# Last modified: 27 Mar 2025 23:00 UTC+7
-# Version: 2503272300
+# Last modified: 31 Mar 2025 10:39 UTC+7
+# Version: 2503311039
 # Blocked: 1.759 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -134537,7 +134537,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-03-31 01:47:06 (UTC)                      #
+# Last updated: 2025-03-31 06:27:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -134546,13 +134546,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
 0.0.0.0 1support.top
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 a.uueui.shop
 0.0.0.0 abissnet.net
 0.0.0.0 acc.biyhelp.top
 0.0.0.0 acc.cbihelp.top
 0.0.0.0 acc.crjhelp.top
 0.0.0.0 acc.lwhelp.top
-0.0.0.0 acc.mcohelp.top
 0.0.0.0 acc.nmphelp.top
 0.0.0.0 acc.qsehelp.top
 0.0.0.0 acc.tishelp.top
@@ -134568,7 +134568,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aeropeakpro.com
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 agd-yrr1.top
-0.0.0.0 aghayezayeat.ir
 0.0.0.0 ai-kling.online
 0.0.0.0 alephmim.com
 0.0.0.0 alien-training.com
@@ -134591,13 +134590,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitkiselurunsiparis.com
 0.0.0.0 bkrmbigokg.com
 0.0.0.0 blessdayservices.org
+0.0.0.0 bmdcompany.com
 0.0.0.0 bmw4i428.su
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 bt.appokset.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 bwg-kundendaten.com
+0.0.0.0 bzsew-4ew.top
 0.0.0.0 cambodiatouristservice.com
-0.0.0.0 casalomaminca.com
 0.0.0.0 castellanquette.com
 0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
@@ -134667,9 +134667,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 down.gmexiochappt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
-0.0.0.0 download.suxiazai.com
 0.0.0.0 downsexv.com
 0.0.0.0 downssaup.top
 0.0.0.0 drmarlenemd.com
@@ -134683,7 +134681,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 endurancefloorferqecrace.de
 0.0.0.0 enterscreens.com
 0.0.0.0 eoufaoeuhoauengi.su
-0.0.0.0 epanpano.com
 0.0.0.0 erde3-ew5.top
 0.0.0.0 eu-gangbang24.cfd
 0.0.0.0 eversioneweb.com
@@ -134693,9 +134690,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 fastfreight-loads.com
 0.0.0.0 fastfreightloads.com
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.edunet.ac
 0.0.0.0 finocci.com
 0.0.0.0 first-security-verden.de
-0.0.0.0 floatnightlife.com
 0.0.0.0 fox-news-checker.cc
 0.0.0.0 fran2.vpnhome.org
 0.0.0.0 fter-po5.top
@@ -134704,7 +134701,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 funletters.net
 0.0.0.0 furnyso.ro
 0.0.0.0 fyrq-4cx.top
-0.0.0.0 gachetroi.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gbnace7.top
 0.0.0.0 gcxew-33w.top
@@ -134715,14 +134711,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 gmthelp.top
 0.0.0.0 grhhelp.top
 0.0.0.0 grupobramam.com.br
+0.0.0.0 gthelp.top
 0.0.0.0 gzeed-33w.top
 0.0.0.0 helpmysupport.top
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 horno-rafelet.es
-0.0.0.0 hseda.com
-0.0.0.0 ini.sh-pp.com
 0.0.0.0 innaflux.com
 0.0.0.0 inspirepk.org
 0.0.0.0 instantsupport.top
@@ -134732,10 +134727,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 javierlopez.eu
 0.0.0.0 jdsfrw-11.top
 0.0.0.0 jeionxuqnoonline.xyz
-0.0.0.0 jessespridecharters.com
 0.0.0.0 jnhelp.top
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
+0.0.0.0 jrqh-hk.com
 0.0.0.0 kadabraoffers.com
 0.0.0.0 karoonpc.com
 0.0.0.0 kevinzhangadmin.jintsume.net
@@ -134744,7 +134739,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kvsdf11.top
 0.0.0.0 laborpartyjo.com
 0.0.0.0 lebron18shoes.icu
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemtlogistics.net
@@ -134754,14 +134748,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 lovpnl2.top
 0.0.0.0 lpxzw-76.top
 0.0.0.0 ls-xsg.screensconnectpro.com
-0.0.0.0 lucprofessional.com.br
+0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lucprofessional.grupomoltz.com.br
 0.0.0.0 m.anphelp.top
 0.0.0.0 m.biyhelp.top
 0.0.0.0 m.eqhelp.top
 0.0.0.0 m.ewlhelp.top
 0.0.0.0 m.fiqhelp.top
-0.0.0.0 m.gutousoft.com
 0.0.0.0 m.hlghelp.top
 0.0.0.0 m.iqhelp.top
 0.0.0.0 m.kbhelp.top
@@ -134773,20 +134766,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.qxfhelp.top
 0.0.0.0 m.rwhelp.top
 0.0.0.0 mabsa13.top
+0.0.0.0 magnapratama.com
 0.0.0.0 mail.cambodiatouristservice.com
 0.0.0.0 mail.finocci.com
+0.0.0.0 mail.laborpartyjo.com
 0.0.0.0 mail.lucprofessional.com.br
 0.0.0.0 mail.ningbocrm.com
 0.0.0.0 mandarin.net.au
 0.0.0.0 masgrave.com
 0.0.0.0 mcpperformance.com.br
-0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
 0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
 0.0.0.0 molatorier.icu
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 multi-canale.com
+0.0.0.0 mxews5.top
 0.0.0.0 my.salviatech.com
 0.0.0.0 nabawitransport.com
 0.0.0.0 namthaibinh.net
@@ -134816,7 +134811,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 onyxprotector.de
 0.0.0.0 onyxsafecrypt.de
 0.0.0.0 onyxsafenova.de
-0.0.0.0 onyxsafetrack.de
 0.0.0.0 onyxscorpio.de
 0.0.0.0 onyxsecuregate.de
 0.0.0.0 onyxsentinelx.de
@@ -134831,17 +134825,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 orhelp.top
 0.0.0.0 os.fphelp.top
 0.0.0.0 os.ujhelp.top
+0.0.0.0 oxtt-76r.top
 0.0.0.0 p.iqhelp.top
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 parallels.ltd
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pid.fly160.com
-0.0.0.0 planachiever.au
+0.0.0.0 pnbf-gv.top
 0.0.0.0 pns.org.pk
 0.0.0.0 profitboosterhubs.com
 0.0.0.0 pthkpanl.top
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
@@ -134855,12 +134849,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 rjpanelplus.top
 0.0.0.0 rmkaio1.top
 0.0.0.0 rocketibt.com
-0.0.0.0 ronnin-v2.com
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 secure8v67ea.com
 0.0.0.0 security-service-api-link.cc
+0.0.0.0 sfa.com.ar
 0.0.0.0 sharegolem.com
 0.0.0.0 shell.dimitrimedia.com
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sinoveo.com
 0.0.0.0 sirault.be
 0.0.0.0 sleepwellmagazine.com
@@ -134874,7 +134869,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stdown.dinju.com
 0.0.0.0 storage.soowim.co.kr
 0.0.0.0 sutmopanel.top
-0.0.0.0 symbietic.com
 0.0.0.0 syntheticalabspro.com
 0.0.0.0 t.uyoya.shop
 0.0.0.0 t7m.top
@@ -134883,9 +134877,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.aionclassic.pro
-0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 tests.yjzj.org
 0.0.0.0 theneerbreak.com
 0.0.0.0 thesignaturemag.salviatech.com
@@ -134897,6 +134891,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 twizt.net
 0.0.0.0 tylhelp.top
 0.0.0.0 u1.equatedisbelief.shop
+0.0.0.0 u1.festerattire.shop
 0.0.0.0 u1.glorysmell.shop
 0.0.0.0 u9b.top
 0.0.0.0 ubftr3.top
@@ -134921,9 +134916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 watchonlinemoveis.net
 0.0.0.0 web.affinity-accountservices.com
 0.0.0.0 web.bqxhelp.top
-0.0.0.0 web.bxhelp.top
 0.0.0.0 web.ewlhelp.top
-0.0.0.0 web.fiqhelp.top
 0.0.0.0 web.getsupportbr.com
 0.0.0.0 web.hlghelp.top
 0.0.0.0 web.ishelp.top
@@ -134933,6 +134926,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 web.qrhelp.top
 0.0.0.0 web.qxfhelp.top
 0.0.0.0 web.wlphelp.top
+0.0.0.0 web.xbvhelp.top
 0.0.0.0 web3.bxhelp.top
 0.0.0.0 web3.ishelp.top
 0.0.0.0 web3.qrhelp.top
@@ -134943,6 +134937,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 werito.cyou
 0.0.0.0 win-network-checker.cc
+0.0.0.0 wjhelp.top
 0.0.0.0 wk3699log.iethelp.top
 0.0.0.0 wlop10.top
 0.0.0.0 wnhelp.top
@@ -134950,9 +134945,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 wrphelp.top
 0.0.0.0 www.affinity-accountservices.com
 0.0.0.0 www.amun.jintsume.net
+0.0.0.0 www.aqianniao.com
 0.0.0.0 www.atc-secure.com
 0.0.0.0 www.automobile-bk.de
-0.0.0.0 www.axhelp.top
 0.0.0.0 www.bchelp.top
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
@@ -134974,6 +134969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.iptvhddechile.com
 0.0.0.0 www.ivhelp.top
 0.0.0.0 www.kahelp.top
+0.0.0.0 www.kevinzhangadmin.jintsume.net
 0.0.0.0 www.laborpartyjo.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.livhelp.top
@@ -134997,6 +134993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.rolc4.top
 0.0.0.0 www.rphingenieria.com
+0.0.0.0 www.seventools.de
 0.0.0.0 www.sporcketngearforu.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-data.com
@@ -135010,10 +135007,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wjhelp.top
 0.0.0.0 www.wkhelp.top
 0.0.0.0 www.xn--on3b15m2lco2u.com
+0.0.0.0 www.xshelp.top
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zhikey.com
-0.0.0.0 www1.bwg-kundendaten.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 wzuhelp.top
@@ -135037,7 +135034,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zx4qtc.me
 0.0.0.0 zxtwe-3x.top
-# Number of entries: 495
+# Number of entries: 492
 # End URLHaus
 
 # Start yoyo.org
