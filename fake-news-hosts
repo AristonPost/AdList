@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 01 April 2025 02:04:22 (UTC)
-# Number of unique domains: 131,502
+# Date: 01 April 2025 06:34:29 (UTC)
+# Number of unique domains: 131,534
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 8a57d0f544b3
-127.0.0.53 8a57d0f544b3
+127.0.1.1 42fe52786289
+127.0.0.53 42fe52786289
 
 # Start StevenBlack
 
@@ -915,6 +915,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smartlock.google.com
 0.0.0.0 bot2.googlerenewals.net
 0.0.0.0 linux2.googlerenewals.net
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 cdn.googletoolservices.com
 0.0.0.0 goooooooooogle.com
 0.0.0.0 www.goooooooooogle.com
@@ -2525,6 +2526,7 @@ ff02::3 ip6-allhosts
 
 # Added March 7, 2023
 0.0.0.0 a125375509.cdn.optimizely.com
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.indexww.com
 
 # Added March 25, 2023
@@ -4590,6 +4592,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gma.alicdn.com
 
 # [aliexpress.com]
+0.0.0.0 s.click.aliexpress.com
 
 # [aliyun.com]
 0.0.0.0 acjs.aliyun.com
@@ -7014,6 +7017,7 @@ ff02::3 ip6-allhosts
 # [doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 fls.doubleclick.net
@@ -8013,6 +8017,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 s0-2mdn-net.l.google.com
 
 # [googleadservices.com]
+0.0.0.0 googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 www.googleadservices.com
 
 # [googleadsserving.cn]
 0.0.0.0 static.googleadsserving.cn
@@ -10854,6 +10861,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onetag-sys.com
 
 # [onetrust.com]
+0.0.0.0 geolocation.onetrust.com
 
 # [online-metrix.net]
 0.0.0.0 online-metrix.net
@@ -118769,6 +118777,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 fls.au.doubleclick.net
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 video-stats.video.google.com
+0.0.0.0 4.afs.googleadservices.com
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.linksalpha.com
 # [Gossamer][AS36483][172.255.48.0 - 172.255.63.255]
@@ -135179,7 +135189,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-04-01 01:59:05 (UTC)                      #
+# Last updated: 2025-04-01 06:25:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -135205,15 +135215,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aflacltd.top
 0.0.0.0 agapi.cqjjb.cn
-0.0.0.0 ai-kling.online
+0.0.0.0 agd-yrr1.top
 0.0.0.0 alephmim.com
 0.0.0.0 alien-training.com
 0.0.0.0 ankaglobal.net
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.co-operativefinance.com
-0.0.0.0 api.ewfiles.net
+0.0.0.0 api.faleze.com
 0.0.0.0 apps-actions.com
-0.0.0.0 armanayegh.com
 0.0.0.0 artplantsindia.com
 0.0.0.0 aulist.com
 0.0.0.0 axhelp.top
@@ -135226,13 +135235,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 bmdcompany.com
 0.0.0.0 bmw4i428.su
 0.0.0.0 book-decision-one.click
-0.0.0.0 book.rollingvideogames.com
 0.0.0.0 bretux.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 bzsew-4ew.top
 0.0.0.0 cambodiatouristservice.com
 0.0.0.0 casalomaminca.com
-0.0.0.0 cat.dashabi.in
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cattozzo.it
 0.0.0.0 cdaonline.com.ar
@@ -135265,17 +135272,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 check.zixit.icu
 0.0.0.0 check.zuxod.icu
 0.0.0.0 chillyhiss.update-checker-status.cc
+0.0.0.0 chinaapper.com
 0.0.0.0 cnc.kotomari-vn.dev
 0.0.0.0 cnc.visionproxy.cc
 0.0.0.0 coach.028csc.com
 0.0.0.0 coadymarine.com
 0.0.0.0 cobolrationumelawrtewarms.com
+0.0.0.0 coconnexion.com
 0.0.0.0 comwebdisk.webprocediweb.com
 0.0.0.0 conecwinlab.com
+0.0.0.0 conn.masjesu.zip
 0.0.0.0 continueoraweb.com
 0.0.0.0 cooptraexon.com
 0.0.0.0 cooptraexxon.com
-0.0.0.0 cpt-exmple.com
 0.0.0.0 cpte-view.com
 0.0.0.0 cpthe-srch.click
 0.0.0.0 crystalpvp.ru
@@ -135309,15 +135318,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 employees.medicalcenterclinic.com
 0.0.0.0 endurancefloorferqecrace.de
+0.0.0.0 enterscreens.com
 0.0.0.0 eoufaoeuhoauengi.su
 0.0.0.0 epanpano.com
 0.0.0.0 erde3-ew5.top
 0.0.0.0 eversioneweb.com
 0.0.0.0 evolve.sx
-0.0.0.0 expay.ru
 0.0.0.0 extranet-captcha.com
-0.0.0.0 fastfreight-loads.com
-0.0.0.0 fastfreightloads.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 finocci.com
@@ -135325,22 +135332,24 @@ ff02::3 ip6-allhosts
 0.0.0.0 floatnightlife.com
 0.0.0.0 fox-news-checker.cc
 0.0.0.0 fran2.vpnhome.org
+0.0.0.0 fter-po5.top
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 furkanitriyatkozmetik.com
-0.0.0.0 furnyso.ro
 0.0.0.0 gachetroi.com
 0.0.0.0 galerisenimutiara.com
+0.0.0.0 gbnace7.top
+0.0.0.0 gcxew-33w.top
 0.0.0.0 gestisciweb.com
 0.0.0.0 ghmjpanel.top
+0.0.0.0 gian.com.ar
 0.0.0.0 glennmedina.com
 0.0.0.0 gmthelp.top
 0.0.0.0 grhhelp.top
 0.0.0.0 grupoarbolito.cl
 0.0.0.0 grupobramam.com.br
 0.0.0.0 gthelp.top
-0.0.0.0 gzeed-33w.top
 0.0.0.0 hitiotppppalfkjfk.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
@@ -135351,6 +135360,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 innaflux.com
 0.0.0.0 inspirepk.org
 0.0.0.0 ip78.ip-51-195-19.eu
+0.0.0.0 iran-bitumen.com
 0.0.0.0 jacrcell.com
 0.0.0.0 jade-associates.com.br
 0.0.0.0 jahez.me
@@ -135379,31 +135389,37 @@ ff02::3 ip6-allhosts
 0.0.0.0 lpxzw-76.top
 0.0.0.0 lsks.volamngayxua.net
 0.0.0.0 lucprofessional.com.br
-0.0.0.0 lucprofessional.grupomoltz.com.br
 0.0.0.0 m.anphelp.top
 0.0.0.0 m.biyhelp.top
-0.0.0.0 m.fiqhelp.top
+0.0.0.0 m.eqhelp.top
+0.0.0.0 m.gutousoft.com
 0.0.0.0 m.hlghelp.top
 0.0.0.0 m.iqhelp.top
 0.0.0.0 m.ivhelp.top
 0.0.0.0 m.kbhelp.top
 0.0.0.0 m.klhelp.top
+0.0.0.0 m.mzihelp.top
 0.0.0.0 m.nexhelp.top
 0.0.0.0 m.niahelp.top
 0.0.0.0 m.qxfhelp.top
 0.0.0.0 m.rwhelp.top
+0.0.0.0 mabsa13.top
 0.0.0.0 magnapratama.com
 0.0.0.0 mail.cambodiatouristservice.com
 0.0.0.0 mail.finocci.com
 0.0.0.0 mail.laborpartyjo.com
+0.0.0.0 mail.lucprofessional.com.br
 0.0.0.0 mail.ningbocrm.com
 0.0.0.0 mandarin.net.au
 0.0.0.0 masgrave.com
 0.0.0.0 mcpperformance.com.br
+0.0.0.0 memetrump.pro
 0.0.0.0 mfktiaoaolfkfjzjk.com
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-auth-network.cc
+0.0.0.0 miner-tolken.com
 0.0.0.0 misljen.net
+0.0.0.0 moonloaderupdate.ru
 0.0.0.0 multi-canale.com
 0.0.0.0 mxews5.top
 0.0.0.0 my.salviatech.com
@@ -135411,15 +135427,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 namthaibinh.net
 0.0.0.0 navistatux.website
 0.0.0.0 ndxs439.top
-0.0.0.0 netflix.ethiotask.com
 0.0.0.0 nexofleer.icu
 0.0.0.0 ningbocrm.jintsume.net
 0.0.0.0 noithaticon.vn
 0.0.0.0 nphelp.top
+0.0.0.0 nxsw-tq2.top
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 ojang.pe.kr
 0.0.0.0 onyxaquarius.de
 0.0.0.0 onyxcipherx.de
+0.0.0.0 onyxcyberapex.de
 0.0.0.0 onyxdefendx.de
 0.0.0.0 onyxfortifypro.de
 0.0.0.0 onyxfortitech.de
@@ -135431,8 +135448,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onyxprotector.de
 0.0.0.0 onyxsafecrypt.de
 0.0.0.0 onyxsafenova.de
-0.0.0.0 onyxsafetrack.de
-0.0.0.0 onyxsecuregate.de
+0.0.0.0 onyxscorpio.de
 0.0.0.0 onyxsentinelx.de
 0.0.0.0 onyxshieldify.de
 0.0.0.0 onyxshieldpro.de
@@ -135440,20 +135456,23 @@ ff02::3 ip6-allhosts
 0.0.0.0 onyxtrustmesh.de
 0.0.0.0 ooriginalused.com
 0.0.0.0 ora-0-web.com
-0.0.0.0 orhelp.top
 0.0.0.0 os.fphelp.top
 0.0.0.0 os.ujhelp.top
+0.0.0.0 oxtt-76r.top
 0.0.0.0 p.iqhelp.top
 0.0.0.0 palharesinformatica.com.br
-0.0.0.0 parallels.ltd
 0.0.0.0 park.chuitian.cn
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pid.fly160.com
+0.0.0.0 planachiever.au
+0.0.0.0 pnbf-gv.top
+0.0.0.0 pns.org.pk
 0.0.0.0 proarte.rs
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanly.jxmienphi.net
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 rato.ws
 0.0.0.0 raw.intenseproxy.zip
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 reifenquick.de
@@ -135462,7 +135481,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 riverview-pools.com
 0.0.0.0 rmkaio1.top
 0.0.0.0 rocketibt.com
-0.0.0.0 ronnin-v2.com
 0.0.0.0 roundcube.lamoillerealtors.com
 0.0.0.0 saveyourcinema.ca
 0.0.0.0 sec-check.mosco.cc
@@ -135486,15 +135504,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 symbietic.com
 0.0.0.0 t7m.top
 0.0.0.0 talentrecruitments.com
+0.0.0.0 tcrm-m3.top
+0.0.0.0 technik-tipps.at
 0.0.0.0 tecni-soft.com
 0.0.0.0 tecunonline.com
 0.0.0.0 telegramcn.co
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.aionclassic.pro
 0.0.0.0 test.peperoncinochepassione.it
+0.0.0.0 tests.yjzj.org
+0.0.0.0 theneerbreak.com
 0.0.0.0 thesignaturemag.salviatech.com
 0.0.0.0 thetileboutique.in
 0.0.0.0 ticai20.com
+0.0.0.0 tranquilityparadise.com.np
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 turkey-ivf.org
 0.0.0.0 twitch.tj
@@ -135502,10 +135526,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 u1.equatedisbelief.shop
 0.0.0.0 u1.festerattire.shop
 0.0.0.0 u9b.top
-0.0.0.0 ubftr3.top
+0.0.0.0 uhmd-rw2.top
 0.0.0.0 upchemicals.co.in
+0.0.0.0 update-checker-status.cc
 0.0.0.0 update.cg100iii.com
-0.0.0.0 update.vlnguba.com
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 updateappdd.com
 0.0.0.0 utorrent-server-api.cc
@@ -135529,7 +135553,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 web.xbvhelp.top
 0.0.0.0 web3.bxhelp.top
 0.0.0.0 web3.ishelp.top
-0.0.0.0 web3.qrhelp.top
 0.0.0.0 web3.rwbhelp.top
 0.0.0.0 webdisk.webprocediweb.comwebdisk.webprocediweb.com
 0.0.0.0 webdiskwebdisk.webprocediweb.com
@@ -135538,13 +135561,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 werito.cyou
 0.0.0.0 win-network-checker.cc
 0.0.0.0 wjhelp.top
+0.0.0.0 wlop10.top
 0.0.0.0 wnhelp.top
 0.0.0.0 wplhelp.top
 0.0.0.0 wrphelp.top
+0.0.0.0 www.amun.jintsume.net
 0.0.0.0 www.aqianniao.com
+0.0.0.0 www.asistani.com.tr
 0.0.0.0 www.atc-secure.com
 0.0.0.0 www.automobile-bk.de
-0.0.0.0 www.axhelp.top
 0.0.0.0 www.bchelp.top
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
@@ -135555,22 +135580,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.eahelp.top
 0.0.0.0 www.elefantenfutter.de
 0.0.0.0 www.eqhelp.top
-0.0.0.0 www.fastfreight-loads.com
-0.0.0.0 www.fastfreightloads.com
 0.0.0.0 www.finocci.com
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.flechabusretiro.com.ar
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.inhelp.top
+0.0.0.0 www.invoicesservicesofficessolution.live
 0.0.0.0 www.iptvhddechile.com
 0.0.0.0 www.ivhelp.top
 0.0.0.0 www.kahelp.top
-0.0.0.0 www.kevinzhangadmin.jintsume.net
 0.0.0.0 www.laborpartyjo.com
 0.0.0.0 www.littlemoroccanthings.com
 0.0.0.0 www.livhelp.top
 0.0.0.0 www.lucprofessional.grupomoltz.com.br
 0.0.0.0 www.luuk-lifestyle.eu
+0.0.0.0 www.lzhelp.top
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.mokt4.top
@@ -135581,6 +135606,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ningbocrm.jintsume.net
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.onhelp.top
+0.0.0.0 www.opolis.io
 0.0.0.0 www.ozhelp.top
 0.0.0.0 www.polersx.top
 0.0.0.0 www.qlhelp.top
@@ -135593,15 +135619,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.support-data.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
+0.0.0.0 www.test.peperoncinochepassione.it
 0.0.0.0 www.texanssolenoids.click
 0.0.0.0 www.thesignaturemag.salviatech.com
 0.0.0.0 www.uhhelp.top
 0.0.0.0 www.uxhelp.top
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.wjhelp.top
+0.0.0.0 www.wkhelp.top
+0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.xshelp.top
-0.0.0.0 www.ysbaojia.com
-0.0.0.0 www.zamilgroups.com
+0.0.0.0 www.zhikey.com
 0.0.0.0 wynecare.com
 0.0.0.0 wz.3911.com
 0.0.0.0 wzuhelp.top
@@ -135610,6 +135638,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xkhelp.top
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 xohelp.top
+0.0.0.0 xqwa87.top
 0.0.0.0 xshelp.top
 0.0.0.0 yn.noyoo.cn
 0.0.0.0 yzkzixun.com
@@ -135617,8 +135646,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 zaimsonly.top
 0.0.0.0 zamilgroups.com
 0.0.0.0 zetrax.shop
+0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zx4qtc.me
-# Number of entries: 434
+0.0.0.0 zxtwe-3x.top
+# Number of entries: 455
 # End URLHaus
 
 # Start yoyo.org
@@ -136849,6 +136880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 goingplatinum.com
 0.0.0.0 gondolagnome.com
 0.0.0.0 googleanalytics.com
+0.0.0.0 googletagmanager.com
 0.0.0.0 gothamads.com
 0.0.0.0 gotraffic.net
 0.0.0.0 gp.dejanews.com
