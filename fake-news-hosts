@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 September 2025 01:46:43 (UTC)
-# Number of unique domains: 96,837
+# Date: 27 September 2025 06:31:06 (UTC)
+# Number of unique domains: 96,849
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 2462deb64309
-127.0.0.53 2462deb64309
+127.0.1.1 e21f9a2a4400
+127.0.0.53 e21f9a2a4400
 
 # Start StevenBlack
 
@@ -100335,7 +100335,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-09-27 01:37:19 (UTC)                      #
+# Last updated: 2025-09-27 06:23:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -100351,6 +100351,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1i.myzj.ru
 0.0.0.0 2.kunb.ru
 0.0.0.0 37.wugh.ru
+0.0.0.0 3brosstore.com
 0.0.0.0 3i.kunb.ru
 0.0.0.0 4.derl.ru
 0.0.0.0 4revergreen.com
@@ -100368,6 +100369,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.wuhp.ru
 0.0.0.0 aa9.i-574.ru
 0.0.0.0 aa9.i-661.ru
+0.0.0.0 aa9.u-885.ru
 0.0.0.0 abissnet.net
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 access.skaparade.com
@@ -100395,11 +100397,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ap.nybh.ru
 0.0.0.0 apkglimpse.com
 0.0.0.0 apple-service93.ru
+0.0.0.0 areyouready.co.za
 0.0.0.0 arhitectpitesti.ro
 0.0.0.0 arkanmep.com
 0.0.0.0 artacom.com.br
 0.0.0.0 artscreenstudio.ru
-0.0.0.0 asiaengrs.com
 0.0.0.0 asl-company.ru
 0.0.0.0 augsburg-auto.com
 0.0.0.0 aulist.com
@@ -100421,7 +100423,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blackhatusa.com
 0.0.0.0 blaiz.me
 0.0.0.0 blessdayservices.org
-0.0.0.0 blit.co.za
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 bmdcompany.com
 0.0.0.0 boat.1339team.vc
@@ -100440,6 +100441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ca.mijk.ru
 0.0.0.0 camp.organzoperate.com
 0.0.0.0 cast.organzoperate.com
+0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 ccilogistica.com.br
 0.0.0.0 cdaonline.com.ar
@@ -100458,6 +100460,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 city.organzoperate.com
 0.0.0.0 classroomseven.com
+0.0.0.0 clearsoundclinic.com
 0.0.0.0 clks.sweatscissors.com
 0.0.0.0 cludchpfile.click
 0.0.0.0 coach.028csc.com
@@ -100476,8 +100479,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cs.go.kg
 0.0.0.0 csg-app.com
 0.0.0.0 ct3-24.ru
+0.0.0.0 ctsfactory.com
+0.0.0.0 d.14yaa.com
 0.0.0.0 d.1z2p9.ru
-0.0.0.0 d.coka.la
 0.0.0.0 d.e-134.ru
 0.0.0.0 d.pymz.ru
 0.0.0.0 d.x331e.ru
@@ -100495,7 +100499,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 detail-booking.com.br
 0.0.0.0 device.redirec.com
 0.0.0.0 dezcom.com
-0.0.0.0 dezino.ir
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 di.xyqd.ru
 0.0.0.0 digitalvisionglobal.com
@@ -100575,8 +100578,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 futurenaturallistic.com
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 g.i-661.ru
+0.0.0.0 g.u-885.ru
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 glaustralia.com
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 googletagamnager.com
 0.0.0.0 gordon-and-son.com
 0.0.0.0 gq.wugh.ru
@@ -100600,7 +100605,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotel-city.net
 0.0.0.0 hotellacastellana.com.uy
 0.0.0.0 hranenie.pereezd-24.com
-0.0.0.0 hseda.com
 0.0.0.0 hu.myzj.ru
 0.0.0.0 humble-photo.com
 0.0.0.0 ia.wuhp.ru
@@ -100619,6 +100623,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 itssprout.com
 0.0.0.0 ix.wuhp.ru
 0.0.0.0 izocab.com
+0.0.0.0 izogard.com
 0.0.0.0 jakestrack.com
 0.0.0.0 jayexecutive.co.ke
 0.0.0.0 jkshaonv.com
@@ -100634,7 +100639,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kamin-premium.ru
 0.0.0.0 karoonpc.com
 0.0.0.0 katyache.com
-0.0.0.0 kavacanada.ca
 0.0.0.0 khavar.com
 0.0.0.0 klar.gg
 0.0.0.0 knbjjirdso.pro
@@ -100682,6 +100686,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobi-dl-a.com
 0.0.0.0 mogimall.com
 0.0.0.0 mundocarnes.cl
+0.0.0.0 muzzumilruheel.com
 0.0.0.0 mvnruskg.com
 0.0.0.0 mvnruskg.info
 0.0.0.0 mx1.sweatscissors.com
@@ -100696,6 +100701,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 noithaticon.vn
 0.0.0.0 np.xyqd.ru
 0.0.0.0 numberpold.com
+0.0.0.0 nusatoyota.co.id
+0.0.0.0 nvtai.id.vn
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 ojang.pe.kr
@@ -100725,6 +100732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onyxsecuregate.de
 0.0.0.0 onyxsentinelx.de
 0.0.0.0 onyxshieldcore.de
+0.0.0.0 onyxstealthnet.de
 0.0.0.0 openaigrok.com
 0.0.0.0 ortopie.phuyufact.com
 0.0.0.0 ossbtvestaffcics.com
@@ -100745,12 +100753,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 pobedastaff.ru
 0.0.0.0 pomofight.com
 0.0.0.0 pq9.x874a.ru
-0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pz7.x331e.ru
 0.0.0.0 pz8.1z2p9.ru
 0.0.0.0 pz8.e-134.ru
 0.0.0.0 q.myzj.ru
+0.0.0.0 q3n.i-215.ru
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qk1.e-815.ru
 0.0.0.0 qk2.a-342.ru
@@ -100762,7 +100770,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 qz9.o-554.ru
 0.0.0.0 r.a-342.ru
 0.0.0.0 ramactools.net
-0.0.0.0 ransokk.de
 0.0.0.0 ray2me.com
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 reauthenticator.com
@@ -100771,7 +100778,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 reusable-flex.com
 0.0.0.0 rk8.d597o.ru
 0.0.0.0 robertrowe.com
-0.0.0.0 roraffle.net
 0.0.0.0 rpperformance.com.br
 0.0.0.0 rt.lobd.ru
 0.0.0.0 rxquickpay.com
@@ -100781,6 +100787,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s5.nybh.ru
 0.0.0.0 s8.xavv.ru
 0.0.0.0 sanhack.com
+0.0.0.0 sanjaydharmraj.in
 0.0.0.0 scainseto.com.br
 0.0.0.0 scanwellhaulage.com
 0.0.0.0 schenckel.com.br
@@ -100795,7 +100802,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 shark-watewer.com
 0.0.0.0 shippingua.xo.je
 0.0.0.0 shop.mediasova.ru
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sk-comtel.com
 0.0.0.0 skynetx.com.br
 0.0.0.0 smeetspost.nl
@@ -100809,7 +100815,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 solutelco.com
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spider-wamp.com
-0.0.0.0 spoar.org.in
 0.0.0.0 spst.hqup.in
 0.0.0.0 sq.mizx.ru
 0.0.0.0 src1.minibai.com
@@ -100829,6 +100834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 t.6n2q7.ru
 0.0.0.0 t.d597o.ru
 0.0.0.0 t.xavv.ru
+0.0.0.0 t1.i-215.ru
 0.0.0.0 t1.o-554.ru
 0.0.0.0 taipeibangla.com
 0.0.0.0 tanscarattorneys.co.tz
@@ -100848,6 +100854,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tm7.z413y.ru
 0.0.0.0 tn.e-410.ru
 0.0.0.0 topfiles.cfd
+0.0.0.0 topmedsolution.com
 0.0.0.0 tourkrloyar.icu
 0.0.0.0 tq.derl.ru
 0.0.0.0 tq1.bw-06.ru
@@ -100857,6 +100864,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trtmyanmar.com
 0.0.0.0 trungtambaohanhmaylanh.com
 0.0.0.0 tuvnlsqa.pro
+0.0.0.0 tv-garden.app
 0.0.0.0 u.pymh.ru
 0.0.0.0 u1.6q8v0.ru
 0.0.0.0 u1.j287y.ru
@@ -100876,6 +100884,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vagler.ru
 0.0.0.0 vcpesaas.com
 0.0.0.0 vd.padj.ru
+0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
 0.0.0.0 viedvnie.pro
@@ -100926,9 +100935,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.frontier.net.pk
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hseda.com
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
 0.0.0.0 www.khavar.com
 0.0.0.0 www.konsor.ru
+0.0.0.0 www.luuk-lifestyle.eu
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.messias.org.br
 0.0.0.0 www.mi2think.com
@@ -100937,7 +100948,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.newkey.co.kr
-0.0.0.0 www.njzmfcls.com
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
 0.0.0.0 www.opolis.io
@@ -100946,6 +100956,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.salonmarketing.ca
+0.0.0.0 www.silver-hubdachwohnwagen.de
 0.0.0.0 www.stakloram.rs
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-data.com
@@ -100959,6 +100970,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tobeart.ru
 0.0.0.0 www.udobrit.ru
 0.0.0.0 www.uralmetalloprokat.ru
+0.0.0.0 www.usaayurveda.com
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.websitedesigningindia.biz
 0.0.0.0 www.xn--on3b15m2lco2u.com
@@ -100998,7 +101010,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zdrytehy.cloud
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zs.kunb.ru
-# Number of entries: 658
+# Number of entries: 670
 # End URLHaus
 
 # Start yoyo.org
