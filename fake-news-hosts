@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 13 October 2025 01:58:51 (UTC)
-# Number of unique domains: 92,584
+# Date: 13 October 2025 06:37:40 (UTC)
+# Number of unique domains: 92,586
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 fba24c57ea9c
-127.0.0.53 fba24c57ea9c
+127.0.1.1 dae24edf2558
+127.0.0.53 dae24edf2558
 
 # Start StevenBlack
 
@@ -3101,6 +3101,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.cookieyes.com
 0.0.0.0 directory.cookieyes.com
 
+# Added October 12, 2025
+0.0.0.0 xpoalswwkjddsljsy.com
+0.0.0.0 xoiiasdpsdoasdpojas.com
 
 # End StevenBlack
 
@@ -95659,7 +95662,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-10-13 01:49:06 (UTC)                      #
+# Last updated: 2025-10-13 06:27:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -95683,6 +95686,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1717.1000uc.com
 0.0.0.0 17s.dk9a6.ru
 0.0.0.0 1e.nqyf7.ru
+0.0.0.0 1h.qzad3.ru
 0.0.0.0 1jd.bvuf2.ru
 0.0.0.0 1je.gc0o9.ru
 0.0.0.0 1k.vbep3.ru
@@ -95727,6 +95731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5u.pf4i2.ru
 0.0.0.0 65.tvoj5.ru
 0.0.0.0 67.rjuq3.ru
+0.0.0.0 69c.dzem4.ru
 0.0.0.0 6c.rjuq3.ru
 0.0.0.0 6ci.gc0o9.ru
 0.0.0.0 6ci.zv-1-a-0.ru
@@ -95742,11 +95747,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 7ff.mw-9-y-4.ru
 0.0.0.0 7i.bqet3.ru
 0.0.0.0 7k.kjyx7.ru
+0.0.0.0 7k5.qzad3.ru
 0.0.0.0 7m.wtok2.ru
 0.0.0.0 7n.vbep3.ru
 0.0.0.0 7r.ll-7-y-5.ru
 0.0.0.0 7r.qrow6.ru
-0.0.0.0 7zt.vqod2.ru
 0.0.0.0 837.bw-6-u-0.ru
 0.0.0.0 85.ndoq0.ru
 0.0.0.0 88.xr6u9.ru
@@ -95763,7 +95768,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 9h2.rk-8-y-6.ru
 0.0.0.0 9ki.vw0e1.ru
 0.0.0.0 9m.ls-2-a-9.ru
-0.0.0.0 9r.gtus4.ru
 0.0.0.0 9w.mw-9-y-4.ru
 0.0.0.0 a.d44yy.ru
 0.0.0.0 a.da2yw.ru
@@ -95816,6 +95820,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b.sa8yn.ru
 0.0.0.0 b1.0y-pm.ru
 0.0.0.0 b2.5u-zk.ru
+0.0.0.0 b2vt.plig5.ru
 0.0.0.0 b5d.rjuq3.ru
 0.0.0.0 b6v.pf-6-o-2.ru
 0.0.0.0 backupso.com
@@ -95826,7 +95831,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beesoft.id.vn
 0.0.0.0 beesoft.vn
 0.0.0.0 bestieslos.com
-0.0.0.0 blackhatusa.com
 0.0.0.0 blaiz.me
 0.0.0.0 blessdayservices.org
 0.0.0.0 blogs.sokun.jp
@@ -95839,6 +95843,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bravoteam6.org
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
+0.0.0.0 brp.dzem4.ru
 0.0.0.0 bt.jt4o0.ru
 0.0.0.0 buzz.organzoperate.com
 0.0.0.0 bz.ktox5.ru
@@ -95846,6 +95851,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c2n.da2yw.ru
 0.0.0.0 c5.1y-zt.ru
 0.0.0.0 c7.0o-js.ru
+0.0.0.0 c7pa.hpap6.ru
 0.0.0.0 c8.s91ii.ru
 0.0.0.0 c8l.kj-4-o-0.ru
 0.0.0.0 c9q.fq-1-y-8.ru
@@ -95867,6 +95873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chiptune.com
 0.0.0.0 city.organzoperate.com
 0.0.0.0 classroomseven.com
+0.0.0.0 clearsoundclinic.com
 0.0.0.0 clks.sweatscissors.com
 0.0.0.0 cm.li7ut.ru
 0.0.0.0 cm.su6ak.ru
@@ -95954,6 +95961,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ent.bw-6-u-0.ru
 0.0.0.0 ep.nqyf7.ru
 0.0.0.0 epanpano.com
+0.0.0.0 et1.dzem4.ru
 0.0.0.0 evangroup.ru
 0.0.0.0 ew4.qj-4-y-4.ru
 0.0.0.0 ew4.xr6u9.ru
@@ -95962,9 +95970,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 f1.tvoj5.ru
 0.0.0.0 f3l.fp-0-y-9.ru
 0.0.0.0 f6l.su
+0.0.0.0 f6ud.nmys4.ru
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
-0.0.0.0 fe.vqod2.ru
 0.0.0.0 ffu.sd4o7.ru
 0.0.0.0 fg7.tvoj5.ru
 0.0.0.0 file.blackint3.com
@@ -95972,7 +95980,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 file.uhsea.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 fj.dk2o1.ru
-0.0.0.0 fj.gtus4.ru
 0.0.0.0 flyingmutts.com
 0.0.0.0 fta.fq-1-y-8.ru
 0.0.0.0 ftp.ywxww.net
@@ -96021,6 +96028,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hashi-net.com
 0.0.0.0 hb9.bqet3.ru
 0.0.0.0 hd.pf-6-o-2.ru
+0.0.0.0 hd5r.plig5.ru
 0.0.0.0 he.mcej9.ru
 0.0.0.0 hetenyikorhaz.hu
 0.0.0.0 hf.qj-4-y-4.ru
@@ -96042,9 +96050,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hm.ls2a9.ru
 0.0.0.0 hm.mg1u5.ru
 0.0.0.0 hm.mw9y4.ru
-0.0.0.0 hm.pf6o2.ru
 0.0.0.0 hm.rd1a2.ru
-0.0.0.0 hm.rk8y6.ru
 0.0.0.0 hm.ss9y4.ru
 0.0.0.0 hm.zk5e7.ru
 0.0.0.0 hm.zv1a0.ru
@@ -96056,6 +96062,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hr.bqet3.ru
 0.0.0.0 hranenie.pereezd-24.com
 0.0.0.0 hseda.com
+0.0.0.0 hui.dzem4.ru
 0.0.0.0 hv.da2yw.ru
 0.0.0.0 hv.fa6ic.ru
 0.0.0.0 hx.v57eo.ru
@@ -96114,7 +96121,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 k.ls2a9.ru
 0.0.0.0 k.mg1u5.ru
 0.0.0.0 k.mw9y4.ru
-0.0.0.0 k.pf6o2.ru
 0.0.0.0 k.qj4y4.ru
 0.0.0.0 k.rd1a2.ru
 0.0.0.0 k.rk8y6.ru
@@ -96136,7 +96142,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kamin-premium.ru
 0.0.0.0 karoonpc.com
 0.0.0.0 katyache.com
-0.0.0.0 kavacanada.ca
 0.0.0.0 kf.bvuf2.ru
 0.0.0.0 khavar.com
 0.0.0.0 kib.zqof0.ru
@@ -96152,6 +96157,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 l0a.bqet3.ru
 0.0.0.0 l2v.kjyx7.ru
 0.0.0.0 l3.gc0o9.ru
+0.0.0.0 l8.dzem4.ru
 0.0.0.0 l9.zqof0.ru
 0.0.0.0 lakhrl.sweatscissors.com
 0.0.0.0 lf8.rjuq3.ru
@@ -96160,9 +96166,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 lio.vbep3.ru
 0.0.0.0 lj3u5.ru
 0.0.0.0 lk.bh-3-i-6.ru
+0.0.0.0 ln.qzad3.ru
 0.0.0.0 loadstopdocs.com
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
+0.0.0.0 lt3b.nmys4.ru
 0.0.0.0 lv.gdyl2.ru
 0.0.0.0 lw.dk2o1.ru
 0.0.0.0 lw.fj-4-i-6.ru
@@ -96170,6 +96178,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lyh.tvoj5.ru
 0.0.0.0 m-global.hksty.net
 0.0.0.0 m.bal-stroi.ru
+0.0.0.0 m1yl.hpap6.ru
 0.0.0.0 m2.1y-zt.ru
 0.0.0.0 m2.v57eo.ru
 0.0.0.0 m2.vi8im.ru
@@ -96197,7 +96206,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 michellegraci.com
 0.0.0.0 microsoft-telemetry.at
 0.0.0.0 microsoft-telemetry.cc
-0.0.0.0 milleniuninformatica.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 ml.mw-9-y-4.ru
 0.0.0.0 mmd.zqof0.ru
@@ -96222,6 +96230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 n5.g26ia.ru
 0.0.0.0 n7.gay
 0.0.0.0 ncj.nq-8-e-9.ru
+0.0.0.0 ncxps.com
 0.0.0.0 ndirection.kr
 0.0.0.0 newshostingsupdate.com
 0.0.0.0 ni.vqod2.ru
@@ -96230,6 +96239,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nnnpanel.top
 0.0.0.0 no.ll-7-y-5.ru
 0.0.0.0 noithaticon.vn
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 nvtai.id.vn
 0.0.0.0 nw.hnaq6.ru
@@ -96307,7 +96317,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
 0.0.0.0 pocopa.co.za
-0.0.0.0 protherapycenter.com
 0.0.0.0 prr.mcej9.ru
 0.0.0.0 ptgut.co.id
 0.0.0.0 public.demo.securecloudsandbox.com
@@ -96363,7 +96372,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 qz9.ls2a9.ru
 0.0.0.0 qz9.mg1u5.ru
 0.0.0.0 qz9.mw9y4.ru
-0.0.0.0 qz9.pf6o2.ru
 0.0.0.0 qz9.qj4y4.ru
 0.0.0.0 qz9.rd1a2.ru
 0.0.0.0 qz9.rk8y6.ru
@@ -96374,6 +96382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r1.s80ye.ru
 0.0.0.0 r2.0o-js.ru
 0.0.0.0 r2.mg-1-u-5.ru
+0.0.0.0 r2cz.nmys4.ru
 0.0.0.0 r3.6i-xm.ru
 0.0.0.0 r3.li7ut.ru
 0.0.0.0 r3.su6ak.ru
@@ -96385,7 +96394,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rc.kj-4-o-0.ru
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 reauthenticator.com
-0.0.0.0 records.dennisign.se
 0.0.0.0 redlk.com
 0.0.0.0 reifenquick.de
 0.0.0.0 reusable-flex.com
@@ -96394,7 +96402,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 robertrowe.com
 0.0.0.0 rpperformance.com.br
 0.0.0.0 rw.gdyl2.ru
-0.0.0.0 rwh.gtus4.ru
 0.0.0.0 rxquickpay.com
 0.0.0.0 s.s91ii.ru
 0.0.0.0 s.vi8im.ru
@@ -96411,9 +96418,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s4.ls2a9.ru
 0.0.0.0 s4.mg1u5.ru
 0.0.0.0 s4.mw9y4.ru
-0.0.0.0 s4.pf6o2.ru
 0.0.0.0 s4.rd1a2.ru
-0.0.0.0 s4.rk8y6.ru
 0.0.0.0 s4.ss9y4.ru
 0.0.0.0 s4.zk5e7.ru
 0.0.0.0 s4.zv1a0.ru
@@ -96432,11 +96437,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 securedocusharex.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 sg123.net
+0.0.0.0 shaderm.com
 0.0.0.0 shkb-info.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 si3.nq-8-e-9.ru
 0.0.0.0 sigdalokanolkas.com
+0.0.0.0 sinergiaconstruccion.com.mx
 0.0.0.0 sk-comtel.com
 0.0.0.0 skillnorequired.cc
 0.0.0.0 skz.jt4o0.ru
@@ -96448,7 +96455,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 solutelco.com
 0.0.0.0 sp1.tvoj5.ru
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 spoar.org.in
 0.0.0.0 spst.hqup.in
 0.0.0.0 src1.minibai.com
 0.0.0.0 st7.fj-2-e-0.ru
@@ -96463,6 +96469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sv.nqyf7.ru
 0.0.0.0 svirtual.sanviatorperu.edu.pe
 0.0.0.0 sx.bw-6-u-0.ru
+0.0.0.0 sx.qzad3.ru
 0.0.0.0 t.da2yw.ru
 0.0.0.0 t1.4u-rr.ru
 0.0.0.0 t1.8a-mg.ru
@@ -96480,10 +96487,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 t1.mg1u5.ru
 0.0.0.0 t1.mw9y4.ru
 0.0.0.0 t1.p51io.ru
-0.0.0.0 t1.pf6o2.ru
 0.0.0.0 t1.qj4y4.ru
 0.0.0.0 t1.rd1a2.ru
-0.0.0.0 t1.rk8y6.ru
 0.0.0.0 t1.ss9y4.ru
 0.0.0.0 t1.zk5e7.ru
 0.0.0.0 t1.zv1a0.ru
@@ -96505,7 +96510,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 tests.yjzj.org
 0.0.0.0 thtp2.volamngayxua.net
-0.0.0.0 ticpc8a.com
 0.0.0.0 tirtasentosa.com
 0.0.0.0 tn.s80ye.ru
 0.0.0.0 toolshare.com.tr
@@ -96514,13 +96518,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 tq.p74yi.ru
 0.0.0.0 tq.si3un.ru
 0.0.0.0 tq1.5u-zk.ru
-0.0.0.0 tr.gtus4.ru
 0.0.0.0 transfer.wtf
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
 0.0.0.0 trungtambaohanhmaylanh.com
 0.0.0.0 u.li7ut.ru
+0.0.0.0 u.qzad3.ru
 0.0.0.0 u.su6ak.ru
 0.0.0.0 u1.7a-xz.ru
 0.0.0.0 u3.jt4o0.ru
@@ -96559,7 +96563,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 v2.ls2a9.ru
 0.0.0.0 v2.mg1u5.ru
 0.0.0.0 v2.mw9y4.ru
-0.0.0.0 v2.pf6o2.ru
 0.0.0.0 v2.qj4y4.ru
 0.0.0.0 v2.rd1a2.ru
 0.0.0.0 v2.rk8y6.ru
@@ -96587,6 +96590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 visualwikicloud.com
 0.0.0.0 vodomer-service.ru
 0.0.0.0 volume.mulberriespussies.com
+0.0.0.0 vr2x.hpap6.ru
 0.0.0.0 vr4.bh-3-i-6.ru
 0.0.0.0 vulnfactory.org
 0.0.0.0 vv.c34uu.ru
@@ -96594,16 +96598,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 w3.gdyl2.ru
 0.0.0.0 w4.9a-hd.ru
 0.0.0.0 w4g.mcej9.ru
+0.0.0.0 w9qk.nmys4.ru
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 wellbeingdr.com
 0.0.0.0 wh.pf-6-o-2.ru
-0.0.0.0 windatem.com
 0.0.0.0 windomstatetheater.com
 0.0.0.0 windowsedgeupdater.com
 0.0.0.0 wjs.dk9a6.ru
 0.0.0.0 wm.ktox5.ru
 0.0.0.0 wmw.ls-2-a-9.ru
-0.0.0.0 wp.grovespras.com
 0.0.0.0 wpy.bh-3-i-6.ru
 0.0.0.0 wq9.0o-js.ru
 0.0.0.0 writerartist.com
@@ -96612,10 +96615,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.beesoft.id.vn
-0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
-0.0.0.0 www.chenwangqiao.com
+0.0.0.0 www.cippe.com.cn
 0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
@@ -96630,7 +96632,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.konsor.ru
 0.0.0.0 www.luuk-lifestyle.eu
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.messias.org.br
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.modernitgen.com
 0.0.0.0 www.myvcart.com
@@ -96697,6 +96698,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xp3.bw-6-u-0.ru
 0.0.0.0 xq0.1y-zt.ru
 0.0.0.0 xq9.r65ao.ru
+0.0.0.0 xq91.plig5.ru
 0.0.0.0 xshop.com.tr
 0.0.0.0 xt.g26ia.ru
 0.0.0.0 xt.sa8yn.ru
@@ -96706,6 +96708,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 y.0y-pm.ru
 0.0.0.0 y0.fj-2-e-0.ru
 0.0.0.0 y3a.dnek6.ru
+0.0.0.0 y3aj.plig5.ru
 0.0.0.0 y4.8e-hr.ru
 0.0.0.0 y4.mcej9.ru
 0.0.0.0 y5.hnaq6.ru
@@ -96722,7 +96725,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yk.dk9a6.ru
 0.0.0.0 yn.zk-5-e-7.ru
 0.0.0.0 yo.pf-4-i-2.ru
-0.0.0.0 yohin.sg
 0.0.0.0 yongtai.cn
 0.0.0.0 yp.qrow6.ru
 0.0.0.0 yw.vw0e1.ru
@@ -96745,6 +96747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zi.jcof9.ru
 0.0.0.0 zj.1y-zt.ru
 0.0.0.0 zk.p51io.ru
+0.0.0.0 zn4e.plig5.ru
 0.0.0.0 zt.r65ao.ru
 0.0.0.0 zu.zv-1-a-0.ru
 0.0.0.0 zue.dnek6.ru
