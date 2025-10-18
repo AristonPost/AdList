@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 18 October 2025 01:47:25 (UTC)
-# Number of unique domains: 99,122
+# Date: 18 October 2025 06:32:52 (UTC)
+# Number of unique domains: 99,128
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 b7732491cf05
-127.0.0.53 b7732491cf05
+127.0.1.1 309ab4a057ee
+127.0.0.53 309ab4a057ee
 
 # Start StevenBlack
 
@@ -102743,7 +102743,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-10-18 01:39:16 (UTC)                      #
+# Last updated: 2025-10-18 06:24:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -102780,8 +102780,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 anapa-zarya.ru
 0.0.0.0 antvietnam.com
 0.0.0.0 api.centraliasolutions.com.br
+0.0.0.0 app.surrogatesolutions.net
 0.0.0.0 apple-service93.ru
 0.0.0.0 arch.pot5.ru
+0.0.0.0 areyouready.co.za
 0.0.0.0 arhitectpitesti.ro
 0.0.0.0 artacom.com.br
 0.0.0.0 artscreenstudio.ru
@@ -102812,7 +102814,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 brightworks.cz
 0.0.0.0 buzz.organzoperate.com
 0.0.0.0 c7qv.te7ap.online
-0.0.0.0 camp.organzoperate.com
+0.0.0.0 caldas-pires.pt
 0.0.0.0 car.gdyl-2.ru
 0.0.0.0 caravella.com.br
 0.0.0.0 case.pot5.ru
@@ -102829,7 +102831,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 checkinetverifk.com
 0.0.0.0 chinaapper.com
 0.0.0.0 chiptune.com
-0.0.0.0 chuguadventures.co.tz
 0.0.0.0 city.organzoperate.com
 0.0.0.0 classroomseven.com
 0.0.0.0 clks.sweatscissors.com
@@ -102842,10 +102843,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 cop.joy-2-way.ru
 0.0.0.0 crew.organzoperate.com
+0.0.0.0 crimefreesoftware.com
 0.0.0.0 crystalpvp.ru
+0.0.0.0 cs.go.kg
 0.0.0.0 csg-app.com
 0.0.0.0 ct3-24.ru
 0.0.0.0 cup.tag-b-s3.ru
+0.0.0.0 d.14yaa.com
 0.0.0.0 dansorium.gr
 0.0.0.0 data.kaoyany.top
 0.0.0.0 data.yhydl.com
@@ -102969,6 +102973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kamin-premium.ru
 0.0.0.0 karoonpc.com
 0.0.0.0 katyache.com
+0.0.0.0 kavacanada.ca
 0.0.0.0 khavar.com
 0.0.0.0 klar.gg
 0.0.0.0 konsor.ru
@@ -102979,7 +102984,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lamp.koq0.ru
 0.0.0.0 leaf.4i1e2.ru
 0.0.0.0 light.vbep-3.ru
-0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 loadstopdocs.com
 0.0.0.0 local-update.com
@@ -103025,6 +103029,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oknoplastik.sk
 0.0.0.0 olingerphoto.com
 0.0.0.0 onfiltre.com.tr
+0.0.0.0 onlinetanecni.cz
 0.0.0.0 onyxarmorcrypt.de
 0.0.0.0 onyxcryptorix.de
 0.0.0.0 onyxcyberapex.de
@@ -103065,6 +103070,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
 0.0.0.0 pocopa.co.za
+0.0.0.0 project360.hr
 0.0.0.0 ptgut.co.id
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 q4.5e7i0.ru
@@ -103081,7 +103087,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ramactools.net
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 reauthenticator.com
-0.0.0.0 records.dennisign.se
 0.0.0.0 redlk.com
 0.0.0.0 reifenquick.de
 0.0.0.0 reshenie.info
@@ -103091,6 +103096,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 robertrowe.com
 0.0.0.0 rpperformance.com.br
 0.0.0.0 rxquickpay.com
+0.0.0.0 s0fthub.com
 0.0.0.0 saffron.wtok-2.ru
 0.0.0.0 salonways.com
 0.0.0.0 sc.frauddefensecorp.com
@@ -103105,12 +103111,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 securestore.cv
 0.0.0.0 sfa.com.ar
 0.0.0.0 sg123.net
-0.0.0.0 shaderm.com
 0.0.0.0 shkb-info.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sigdalokanolkas.com
 0.0.0.0 simbhaolisugars.in
+0.0.0.0 sinergiaconstruccion.com.mx
 0.0.0.0 sip.run-c-you.ru
 0.0.0.0 sk-comtel.com
 0.0.0.0 skynetx.com.br
@@ -103124,7 +103130,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 solutelco.com
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spinmaha.com
-0.0.0.0 spoar.org.in
 0.0.0.0 spst.hqup.in
 0.0.0.0 src1.minibai.com
 0.0.0.0 stacysublett.com
@@ -103135,7 +103140,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stone.4i1e2.ru
 0.0.0.0 stone.ndoq-0.ru
 0.0.0.0 stone.vbep-3.ru
-0.0.0.0 stonecradle.com
 0.0.0.0 storm.bvuf-2.ru
 0.0.0.0 sun.8u2a9.ru
 0.0.0.0 supercleanspb.ru
@@ -103200,6 +103204,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 wellbeingdr.com
 0.0.0.0 wet.app-6-v.ru
+0.0.0.0 wgd.slideshowimprison.digital
 0.0.0.0 windatem.com
 0.0.0.0 windomstatetheater.com
 0.0.0.0 windowsedgeupdater.com
@@ -103230,6 +103235,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.konsor.ru
 0.0.0.0 www.luuk-lifestyle.eu
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.messias.org.br
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.modernitgen.com
 0.0.0.0 www.myvcart.com
@@ -103287,7 +103293,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zapchast-gazkotel.ru
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zn8c.fi7em.online
-# Number of entries: 539
+# Number of entries: 545
 # End URLHaus
 
 # Start yoyo.org
