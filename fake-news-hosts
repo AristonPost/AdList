@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 06 November 2025 01:59:54 (UTC)
-# Number of unique domains: 119,866
+# Date: 06 November 2025 06:37:58 (UTC)
+# Number of unique domains: 119,875
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 abe9e6b91428
-127.0.0.53 abe9e6b91428
+127.0.1.1 2686b17f692b
+127.0.0.53 2686b17f692b
 
 # Start StevenBlack
 
@@ -123115,7 +123115,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-11-06 01:54:09 (UTC)                      #
+# Last updated: 2025-11-06 06:26:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -123130,7 +123130,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0y.w8i0h.ru
 0.0.0.0 0z.cloverschnee.ru
 0.0.0.0 0z.sproutkraft.ru
-0.0.0.0 1.off3.ru
 0.0.0.0 111101111.ru
 0.0.0.0 123.ywxww.net
 0.0.0.0 14.888-c.ru
@@ -123201,8 +123200,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.embergarten.ru
 0.0.0.0 a0p2.2bj82sg.ru
 0.0.0.0 a1t7m.t-7-1u.ru
+0.0.0.0 a3.ravenpfad.ru
 0.0.0.0 a4.d-k-6j.ru
 0.0.0.0 a4m2.r0en3ap.ru
+0.0.0.0 a7.prismquelle.ru
 0.0.0.0 a7k.7d0re6.ru
 0.0.0.0 a7m1v.gfk-8120.ru
 0.0.0.0 a7n.q9-j341.ru
@@ -123249,11 +123250,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 b.tyj-4b.ru
 0.0.0.0 b0t.94e-w8.ru
 0.0.0.0 b3.oc57y.ru
+0.0.0.0 b3h7.085-x-89-c.ru
 0.0.0.0 b5y2q.798u-g.ru
 0.0.0.0 b7k2.a-4n66k4.ru
 0.0.0.0 b7k2.q3v8p.ru
-0.0.0.0 b7k2.willowberg.ru
-0.0.0.0 b7m2.7nf214.ru
 0.0.0.0 b7n.d-k-6j.ru
 0.0.0.0 b9w.7-h9.ru
 0.0.0.0 backupso.com
@@ -123309,6 +123309,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 city.organzoperate.com
 0.0.0.0 classroomseven.com
 0.0.0.0 clipaid.app
+0.0.0.0 cloudzsoft.com
 0.0.0.0 cm.pixelstern.ru
 0.0.0.0 cmk.z-x0.ru
 0.0.0.0 cms.hoangddt.net
@@ -123338,6 +123339,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 d5.1-b03-1q.ru
 0.0.0.0 d5.a-4n66k4.ru
 0.0.0.0 d5.willowberg.ru
+0.0.0.0 d6y1.085-x-89-c.ru
+0.0.0.0 d7q.a-8-xp.ru
 0.0.0.0 d8k3a.j0-e-t.ru
 0.0.0.0 d9.8b-1d.ru
 0.0.0.0 dansorium.gr
@@ -123437,13 +123440,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 g8.n-61-5.ru
 0.0.0.0 gabyagozetim.com
 0.0.0.0 galerisenimutiara.com
-0.0.0.0 gaygfabogados.com
 0.0.0.0 gh.7nf214.ru
 0.0.0.0 glaustralia.com
 0.0.0.0 globaltechbilling.com
 0.0.0.0 go19.tarotbag.digital
 0.0.0.0 go4it.tarotbag.digital
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 googletagamnager.com
 0.0.0.0 gordon-and-son.com
 0.0.0.0 graffetti.com
@@ -123473,8 +123474,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 hk.hb0-e.ru
 0.0.0.0 hl.oqtx.ru
 0.0.0.0 hobobot.net
+0.0.0.0 home.organzoperate.com
 0.0.0.0 hotellacastellana.com.uy
 0.0.0.0 hp.5g-t.ru
+0.0.0.0 hpn4.a-8-xp.ru
 0.0.0.0 hseda.com
 0.0.0.0 hw.3u-6.ru
 0.0.0.0 hxipzknrsojnitzv.zip
@@ -123504,7 +123507,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 j1c5p.7d0re6.ru
 0.0.0.0 j4z8m.x625v7.ru
 0.0.0.0 jakestrack.com
-0.0.0.0 jayexecutive.co.ke
 0.0.0.0 jereservelocker.com
 0.0.0.0 jesuisbon-le.com
 0.0.0.0 jkshaonv.com
@@ -123518,6 +123520,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 k0fj3.k9-2g8.ru
 0.0.0.0 k0sj.i1msth.com
 0.0.0.0 k1gkl25as.top
+0.0.0.0 k2.a-8-xp.ru
 0.0.0.0 k2.q8-v-4of.ru
 0.0.0.0 k3.366a4362.ru
 0.0.0.0 k3.p-72h.ru
@@ -123543,7 +123546,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kuzina-teatr.ru
 0.0.0.0 kz.harborfreund.ru
 0.0.0.0 l6q2.3-f72v.ru
-0.0.0.0 lara.com.ar
 0.0.0.0 ldplaycn.com
 0.0.0.0 lga.5g-t.ru
 0.0.0.0 lindenappliances.co.za
@@ -123566,6 +123568,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.p-72h.ru
 0.0.0.0 m.q8-v-4of.ru
 0.0.0.0 m0t.1051lt6.ru
+0.0.0.0 m0x.prismquelle.ru
 0.0.0.0 m2q9a.kzg-w-4y.ru
 0.0.0.0 m2v.kgto6b.ru
 0.0.0.0 m2x.566318z8.ru
@@ -123692,12 +123695,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 point-relais-lockers.com
 0.0.0.0 polimakels.com
 0.0.0.0 portail-locker.com
+0.0.0.0 pr6q.8-f-e8.ru
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pv.614lo.ru
 0.0.0.0 q1.onyxmorgen.ru
 0.0.0.0 q1zd.s64lr5ok.com
 0.0.0.0 q2.embergarten.ru
+0.0.0.0 q2w5e.085-x-89-c.ru
 0.0.0.0 q4.falconhimmel.ru
+0.0.0.0 q4.ravenpfad.ru
 0.0.0.0 q5.1051lt6.ru
 0.0.0.0 q7.2bj82sg.ru
 0.0.0.0 q7.566318z8.ru
@@ -123729,6 +123735,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 rea.24s6.ru
 0.0.0.0 reauthenticator.com
+0.0.0.0 records.dennisign.se
 0.0.0.0 recruitslate.com
 0.0.0.0 redlk.com
 0.0.0.0 regularize-evitar.com
@@ -123747,7 +123754,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s2lmx.y2u-72.ru
 0.0.0.0 s9.8b-1d.ru
 0.0.0.0 s9.l-ly.ru
-0.0.0.0 sakuraloyalty.com
 0.0.0.0 scainseto.com.br
 0.0.0.0 scanwellhaulage.com
 0.0.0.0 schenckel.com.br
@@ -123771,10 +123777,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 solutelco.com
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spinmaha.com
+0.0.0.0 spoar.org.in
 0.0.0.0 spst.hqup.in
 0.0.0.0 src1.minibai.com
 0.0.0.0 static.ilclock.com
-0.0.0.0 static.topxgun.com
 0.0.0.0 stdown.dinju.com
 0.0.0.0 suivimoncolis-mondialrelais.com
 0.0.0.0 summerandsilver.co.uk
@@ -123793,9 +123799,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 t1w.p-72h.ru
 0.0.0.0 t2k8.d-k-6j.ru
 0.0.0.0 t2k8.x625v7.ru
+0.0.0.0 t2w.coralglanz.ru
 0.0.0.0 t4x1.7d0re6.ru
 0.0.0.0 t5.614lo.ru
-0.0.0.0 t8.8-f-e8.ru
 0.0.0.0 t8cz.y2u-72.ru
 0.0.0.0 t9h3.kgto6b.ru
 0.0.0.0 t9w4.i1msth.com
@@ -123820,7 +123826,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tiktoki-goolge.sbs
 0.0.0.0 tirtasentosa.com
 0.0.0.0 toolshare.com.tr
-0.0.0.0 topmedsolution.com
 0.0.0.0 toto919ril.com
 0.0.0.0 tq.pixelstern.ru
 0.0.0.0 tr8.z-x0.ru
@@ -123829,8 +123834,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
 0.0.0.0 trungtambaohanhmaylanh.com
+0.0.0.0 tsmau.com
 0.0.0.0 tt7.r0en3ap.ru
 0.0.0.0 ty.2bj82sg.ru
+0.0.0.0 ty3.a-8-xp.ru
 0.0.0.0 tyuy.xyz
 0.0.0.0 tz.oc57y.ru
 0.0.0.0 u0x9a.3-f72v.ru
@@ -123894,6 +123901,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 warkopshopfb138.cc
 0.0.0.0 wdr.8i-9.ru
 0.0.0.0 website.mypetapp.co.za
+0.0.0.0 windatem.com
 0.0.0.0 windomstatetheater.com
 0.0.0.0 wm.oc57y.ru
 0.0.0.0 wq0.o4-lq-8.ru
@@ -123901,6 +123909,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ardguisser.com
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.beesoft.id.vn
+0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.caravella.com.br
@@ -123973,7 +123982,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 x1r9.798u-g.ru
 0.0.0.0 x2.velvetnebel.ru
 0.0.0.0 x2w7.9-s-7g.ru
-0.0.0.0 x4d.8-f-e8.ru
 0.0.0.0 x74.j-7m.ru
 0.0.0.0 x9.wo-h3.ru
 0.0.0.0 xa2.027-7i.ru
@@ -124005,7 +124013,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtransfer.net
 0.0.0.0 ytultr.pro
 0.0.0.0 yx0n.s64lr5ok.com
-0.0.0.0 yzkzixun.com
 0.0.0.0 z.566318z8.ru
 0.0.0.0 z0t8n.798u-g.ru
 0.0.0.0 z1.falconhimmel.ru
@@ -124014,8 +124021,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 z5tq.9-s-7g.ru
 0.0.0.0 z6l.n2vr.ru
 0.0.0.0 z7.wo-h3.ru
+0.0.0.0 z8q.prismquelle.ru
 0.0.0.0 z9m2.ba2q7q.ru
 0.0.0.0 z9q.q8-v-4of.ru
+0.0.0.0 z9tqn.085-x-89-c.ru
 0.0.0.0 za1.kgto6b.ru
 0.0.0.0 zamilgroups.com
 0.0.0.0 zapchast-gazkotel.ru
@@ -124028,7 +124037,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zq8.366a4362.ru
 0.0.0.0 zq9.p-72h.ru
 0.0.0.0 zv04.k5gc56.ru
-# Number of entries: 908
+# Number of entries: 917
 # End URLHaus
 
 # Start yoyo.org
