@@ -3,7 +3,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 11 November 2025 02:00:40 (UTC)
+# Date: 11 November 2025 06:38:26 (UTC)
 # Number of unique domains: 117,364
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 fdb9b0082a04
-127.0.0.53 fdb9b0082a04
+127.0.1.1 769ac803811c
+127.0.0.53 769ac803811c
 
 # Start StevenBlack
 
@@ -120895,7 +120895,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-11-11 01:49:14 (UTC)                      #
+# Last updated: 2025-11-11 06:34:14 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -120907,6 +120907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 111101111.ru
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
+0.0.0.0 2.off3.ru
 0.0.0.0 25ow.ember-cross.ru
 0.0.0.0 4shn.t1decrystai.ru
 0.0.0.0 52mj.susuwei.cn
@@ -121021,7 +121022,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 d.14yaa.com
 0.0.0.0 dampf.frostgipfel.ru
 0.0.0.0 dansorium.gr
-0.0.0.0 data.kaoyany.top
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcrun.co.uk
 0.0.0.0 dcwblida.dz
@@ -121041,7 +121041,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.asis.io
 0.0.0.0 dl.dzqzd.com
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 dorn.ironklippe.ru
@@ -121072,7 +121071,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
 0.0.0.0 ember.sh4d0wmere.ru
-0.0.0.0 emoto.mk
 0.0.0.0 emprotel.net.bo
 0.0.0.0 energy63.ru
 0.0.0.0 entrepots-colis-2025.com
@@ -121129,10 +121127,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 heimao911.store
 0.0.0.0 hfcv.gi-0-wmarsh.ru
 0.0.0.0 hgame33.com
+0.0.0.0 hi.admini.website
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 hobobot.net
 0.0.0.0 home.organzoperate.com
 0.0.0.0 hotellacastellana.com.uy
+0.0.0.0 houseofwaterlily.com
 0.0.0.0 hover.fr0stciiff.ru
 0.0.0.0 hover4.ember-trail.ru
 0.0.0.0 hseda.com
@@ -121145,7 +121146,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ifgirng49gn39gm.com
 0.0.0.0 igra123.com
 0.0.0.0 iiiconstruction.net
-0.0.0.0 ijbfi.pk
 0.0.0.0 info-paiement-relais.com
 0.0.0.0 innaflux.com
 0.0.0.0 instruction-colis-2025.com
@@ -121166,6 +121166,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 js-storage.com
+0.0.0.0 jxhuyhoang.com
 0.0.0.0 jyothishmathi.in
 0.0.0.0 k1gkl25as.top
 0.0.0.0 kakhun.ru
@@ -121335,7 +121336,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sfa.com.ar
 0.0.0.0 sg123.net
 0.0.0.0 shaderm.com
-0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sigdalokanolkas.com
 0.0.0.0 silver.emberglade.ru
@@ -121468,7 +121468,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.logrecovery.com
 0.0.0.0 www.luuk-lifestyle.eu
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.messias.org.br
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.modernitgen.com
 0.0.0.0 www.mondial-infomyrelais.com
@@ -121477,6 +121476,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.netflx-assinatura-colecaos.com
 0.0.0.0 www.newkey.co.kr
+0.0.0.0 www.notbak.com
 0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
 0.0.0.0 www.opolis.io
