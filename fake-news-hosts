@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 15 November 2025 01:56:15 (UTC)
-# Number of unique domains: 120,335
+# Date: 15 November 2025 06:34:38 (UTC)
+# Number of unique domains: 120,345
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 cbe8fdc93fc7
-127.0.0.53 cbe8fdc93fc7
+127.0.1.1 2b7b005531ef
+127.0.0.53 2b7b005531ef
 
 # Start StevenBlack
 
@@ -123820,7 +123820,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-11-15 01:48:07 (UTC)                      #
+# Last updated: 2025-11-15 06:25:14 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -123828,6 +123828,7 @@ ff02::3 ip6-allhosts
 #
 0.0.0.0 012.zenith-snap.ru
 0.0.0.0 0iz7q.mashrift.ru
+0.0.0.0 1.off3.ru
 0.0.0.0 111101111.ru
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
@@ -123840,6 +123841,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3accdomain3.ru
 0.0.0.0 3la6ol.net
 0.0.0.0 5lw6.lumentwist.ru
+0.0.0.0 6ak-tehnik.si
 0.0.0.0 7r.wreckly.ru
 0.0.0.0 7u.viberspan.ru
 0.0.0.0 91.zeromint.ru
@@ -123912,7 +123914,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bmdcompany.com
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 botevecc.boteve.cc
-0.0.0.0 bracell.latitude.net.br
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 buscascolegios.diit.cl
@@ -123933,13 +123934,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 checkinetverifk.com
 0.0.0.0 chinaapper.com
 0.0.0.0 chiptune.com
+0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cici303now.online
 0.0.0.0 cici303now.site
 0.0.0.0 citra567latih.site
 0.0.0.0 citra567santai.com
 0.0.0.0 classroomseven.com
 0.0.0.0 clipaid.app
-0.0.0.0 cloudnewsfeed.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cms.hoangddt.net
 0.0.0.0 coach.028csc.com
@@ -124029,13 +124030,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 fenorp.lol
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 files.vk-plusing.ru
 0.0.0.0 firekirinonline.download
-0.0.0.0 first-security-verden.de
 0.0.0.0 fjord.knollhafen.ru
+0.0.0.0 fjord.maplerand.ru
 0.0.0.0 fjord.wolkenhof.ru
+0.0.0.0 fluss.quillgipfel.ru
 0.0.0.0 flux.flint-zoo.ru
 0.0.0.0 flux0.quant-melt.ru
 0.0.0.0 flux3.t1nkerbay.ru
@@ -124054,16 +124055,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gic-sn.online
 0.0.0.0 glanz.ravenquelle.ru
+0.0.0.0 glanz.silvanbruch.ru
 0.0.0.0 glanz.silverbirke.ru
 0.0.0.0 glaustralia.com
 0.0.0.0 gleam.inktrap.ru
 0.0.0.0 gleam.st0bepress.ru
+0.0.0.0 gleis.auroralinde.ru
 0.0.0.0 gleis.neonbuche.ru
 0.0.0.0 gleis.neonkiefer.ru
 0.0.0.0 globaltechbilling.com
 0.0.0.0 glut.eiderquelle.ru
 0.0.0.0 glut.ravensteg.ru
-0.0.0.0 glut.saffronhafen.ru
 0.0.0.0 googletagamnager.com
 0.0.0.0 gordon-and-son.com
 0.0.0.0 grat.thunderkiesel.ru
@@ -124120,6 +124122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kamm.knollhafen.ru
 0.0.0.0 kamm.solarpfad.ru
 0.0.0.0 karoonpc.com
+0.0.0.0 kavacanada.ca
 0.0.0.0 kb786matkaapp.store
 0.0.0.0 khavar.com
 0.0.0.0 khoancatbetong89.vn
@@ -124129,18 +124132,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 klee.ironweide.ru
 0.0.0.0 klee.ravenquelle.ru
 0.0.0.0 klee.saffronhafen.ru
+0.0.0.0 klee.tundragrund.ru
 0.0.0.0 klee.walnutsteg.ru
 0.0.0.0 klik-pajak.online
 0.0.0.0 konsor.ru
 0.0.0.0 korn.neonbuche.ru
 0.0.0.0 kramersmarionnettes.com
+0.0.0.0 kraut.maplerand.ru
+0.0.0.0 kreis.tundragrund.ru
 0.0.0.0 kuzina-teatr.ru
 0.0.0.0 ldbgaming24.com
 0.0.0.0 ldplaycn.com
 0.0.0.0 licht.frostweald.ru
 0.0.0.0 licht.obsidianufer.ru
-0.0.0.0 licht.onyxkamm.ru
 0.0.0.0 licht.oryxbucht.ru
+0.0.0.0 licht.tundragrund.ru
 0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 livraison-en-attente.com
@@ -124156,6 +124162,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.bal-stroi.ru
 0.0.0.0 magistvapk.com.ar
 0.0.0.0 maidforyou1985.com
+0.0.0.0 masgrave.com
 0.0.0.0 me3.ne.jp
 0.0.0.0 merctransfers.gradycares.com
 0.0.0.0 mesh.papervolt.ru
@@ -124172,7 +124179,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mondialrelay-trajet.com
 0.0.0.0 moor.brinewald.ru
 0.0.0.0 moor.knollhafen.ru
-0.0.0.0 moor.saffronhafen.ru
 0.0.0.0 moor.willowgrat.ru
 0.0.0.0 moos.ivyvale.ru
 0.0.0.0 moos.thrushmere.ru
@@ -124185,6 +124191,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ndirection.kr
 0.0.0.0 nebel.eiderquelle.ru
 0.0.0.0 nebel.thunderkiesel.ru
+0.0.0.0 nebel.zephyrquelle.ru
 0.0.0.0 nelees.com
 0.0.0.0 netflx-assinatura-colecao.com
 0.0.0.0 netflx-assinatura-colecaos.com
@@ -124195,11 +124202,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 nova.st-0-bepress.ru
 0.0.0.0 nt3e.nib-snap.ru
 0.0.0.0 nusatoyota.co.id
+0.0.0.0 nutrisc.com.br
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 nz.echozig.ru
 0.0.0.0 o24o.ru
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 olingerphoto.com
 0.0.0.0 omgtelecom.com
 0.0.0.0 onfiltre.com.tr
@@ -124239,7 +124248,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pelis25.com
-0.0.0.0 pfad.onyxkamm.ru
 0.0.0.0 pfad.thundergrove.ru
 0.0.0.0 pfote.cedarberg.ru
 0.0.0.0 pfote.obsidianufer.ru
@@ -124289,14 +124297,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 schenckel.com.br
 0.0.0.0 schild.onyxkamm.ru
 0.0.0.0 schirm.ironweide.ru
-0.0.0.0 screen.connectprotocol.es
 0.0.0.0 sdh3a.knotberry.ru
 0.0.0.0 sdvgpro.ru
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 securedocusharex.com
 0.0.0.0 sfa.com.ar
 0.0.0.0 sg123.net
-0.0.0.0 sgindustries.lk
+0.0.0.0 shaderm.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sigdalokanolkas.com
@@ -124322,8 +124329,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stern.brinewald.ru
 0.0.0.0 stern.emberweide.ru
+0.0.0.0 stern.maplerand.ru
 0.0.0.0 stern.wolkenhof.ru
-0.0.0.0 stonecradle.com
 0.0.0.0 strom.graniteweide.ru
 0.0.0.0 sturm.obsidianufer.ru
 0.0.0.0 suivimoncolis-mondialrelais.com
@@ -124341,6 +124348,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tapestryoftruth.com
 0.0.0.0 tau.cobaltspore.ru
 0.0.0.0 tau.ironweide.ru
+0.0.0.0 tau.quillgipfel.ru
+0.0.0.0 tau.tundragrund.ru
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 telegramcn.co
@@ -124377,7 +124386,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u6.quantmelt.ru
 0.0.0.0 ufer.acornhollow.ru
 0.0.0.0 ufer.eiderquelle.ru
-0.0.0.0 ufer.onyxkamm.ru
+0.0.0.0 ufer.tundragrund.ru
 0.0.0.0 ukguk71.ru
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
@@ -124401,10 +124410,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 votre-livraison-colis.com
 0.0.0.0 vpcp.clipmorrow.ru
 0.0.0.0 vulnfactory.org
+0.0.0.0 wald.quillgipfel.ru
 0.0.0.0 warkopshopfb138.cc
 0.0.0.0 wave.flint-zoo.ru
+0.0.0.0 weald.auroralinde.ru
 0.0.0.0 weald.cobaltquelle.ru
-0.0.0.0 weald.saffronhafen.ru
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 weiss.ferretpfad.ru
 0.0.0.0 weiss.solarpfad.ru
@@ -124501,7 +124511,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zapchast-gazkotel.ru
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zoom.girirajpaudel.com.np
-# Number of entries: 676
+# Number of entries: 686
 # End URLHaus
 
 # Start yoyo.org
