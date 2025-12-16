@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 16 December 2025 02:07:53 (UTC)
-# Number of unique domains: 95,326
+# Date: 16 December 2025 06:42:24 (UTC)
+# Number of unique domains: 95,318
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 86fdcbe440b0
-127.0.0.53 86fdcbe440b0
+127.0.1.1 16a0f4998709
+127.0.0.53 16a0f4998709
 
 # Start StevenBlack
 
@@ -98643,13 +98643,14 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-12-16 01:56:06 (UTC)                      #
+# Last updated: 2025-12-16 06:39:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 0k.softc0re.ru
+0.0.0.0 1.off3.ru
 0.0.0.0 109-111-55-221.rev.as216075.net
 0.0.0.0 10controller.online
 0.0.0.0 10controller.ru
@@ -98717,7 +98718,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adver.com.br
 0.0.0.0 advustech.com
 0.0.0.0 aerconditionat-arges.ro
-0.0.0.0 afrihealthexpo.org
 0.0.0.0 agent188super.org
 0.0.0.0 ajpl.ripple-cask.ru
 0.0.0.0 alarmline.com.br
@@ -98744,6 +98744,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ash.f1restorm.ru
 0.0.0.0 asl-company.ru
 0.0.0.0 at0micwallets.com
+0.0.0.0 atasapka.com.tr
 0.0.0.0 athena777.info
 0.0.0.0 augsburg-auto.com
 0.0.0.0 aulist.com
@@ -98889,6 +98890,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
+0.0.0.0 download.suxiazai.com
 0.0.0.0 dowonline.ru
 0.0.0.0 draft.windc0de.ru
 0.0.0.0 dreamwatchevent.com
@@ -98904,11 +98906,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ejt0w.kettlewisp.ru
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
+0.0.0.0 embedone.com
 0.0.0.0 ember.bluef1re.ru
 0.0.0.0 ember.f1restorm.ru
 0.0.0.0 ember.redb1rth.ru
 0.0.0.0 ember.softm1nd.ru
-0.0.0.0 emoto.mk
 0.0.0.0 energy63.ru
 0.0.0.0 epanpano.com
 0.0.0.0 estudio.ythan.com.br
@@ -98970,7 +98972,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 googletagamnager.com
 0.0.0.0 gordon-and-son.com
 0.0.0.0 graffetti.com
-0.0.0.0 graviana.com
 0.0.0.0 grikom.info
 0.0.0.0 gust.windc0de.ru
 0.0.0.0 gust.windtrace.ru
@@ -99004,6 +99005,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 humus.clears0il.ru
 0.0.0.0 hush2.r1verdusk.ru
 0.0.0.0 icoffeecloud.com
+0.0.0.0 id3basketball.com
 0.0.0.0 ieclearbra.com
 0.0.0.0 igra123.com
 0.0.0.0 iiiconstruction.net
@@ -99037,7 +99039,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kalyanmatka.world
 0.0.0.0 kamin-premium.ru
 0.0.0.0 karoonpc.com
-0.0.0.0 kavacanada.ca
 0.0.0.0 khavar.com
 0.0.0.0 khoancatbetong89.vn
 0.0.0.0 kimv9.lightw1nd.ru
@@ -99081,7 +99082,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mastertv.mx
 0.0.0.0 mcx.deepcl0ud.ru
 0.0.0.0 mdchoudhury.com
-0.0.0.0 me3.ne.jp
 0.0.0.0 merctransfers.gradycares.com
 0.0.0.0 mesh.netw1ng.ru
 0.0.0.0 mestredoscursos.com
@@ -99100,11 +99100,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobshah.com
 0.0.0.0 modulowinapp.com
 0.0.0.0 mogimall.com
-0.0.0.0 mojtabaabbasi.com
 0.0.0.0 motchilltv.how
 0.0.0.0 mundocarnes.cl
 0.0.0.0 muzzumilruheel.com
-0.0.0.0 my-smart-house1.com
 0.0.0.0 n2pi1.deep5ky.ru
 0.0.0.0 n8a.lightw1nd.ru
 0.0.0.0 nadir.cl0udcrest.ru
@@ -99138,7 +99136,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 odd.kettle-wisp.ru
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
-0.0.0.0 oknoplastik.sk
 0.0.0.0 om0o.stormc0de.ru
 0.0.0.0 omega.ripplecask.ru
 0.0.0.0 onfiltre.com.tr
@@ -99168,7 +99165,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 page-yoda.blog
 0.0.0.0 palharesinformatica.com.br
-0.0.0.0 panelactivo.freewww.info
 0.0.0.0 paololucchesi.it
 0.0.0.0 paper.snare-plum.ru
 0.0.0.0 parmisbuilding.com
@@ -99215,7 +99211,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ramirex.ro
 0.0.0.0 range.corest0rm.ru
 0.0.0.0 rdm.91yunma.cn
-0.0.0.0 reach-book.com
 0.0.0.0 reauthenticator.com
 0.0.0.0 records.dennisign.se
 0.0.0.0 recruitment189.org
@@ -99225,13 +99220,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 reidosprodutos.com.br
 0.0.0.0 reifenquick.de
 0.0.0.0 remotesupport.swt-online.de
-0.0.0.0 renatabosco.ch
 0.0.0.0 renew.googleplays.cc
 0.0.0.0 repositorylinux.site
 0.0.0.0 resourceedge.org
 0.0.0.0 reusable-flex.com
 0.0.0.0 rfz.snareplum.ru
-0.0.0.0 rh-support.co.jp
 0.0.0.0 rheddh.com
 0.0.0.0 ridge.crystalroad.ru
 0.0.0.0 ridge.rapidstone.ru
@@ -99248,7 +99241,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sabungkingbet189.com
 0.0.0.0 sampaolo.freewww.info
 0.0.0.0 satin.softdr1ve.ru
-0.0.0.0 save.jnrsmcu.com
 0.0.0.0 sbbc8.frostl1ne.ru
 0.0.0.0 scainseto.com.br
 0.0.0.0 scan.504.su
@@ -99281,12 +99273,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 sky.mintl1ne.ru
 0.0.0.0 slate.bluest0ne.ru
 0.0.0.0 smeetspost.nl
-0.0.0.0 sms-szfang.com
 0.0.0.0 soft.110route.com
 0.0.0.0 soft.nightp1xel.ru
 0.0.0.0 soft.softmint.ru
 0.0.0.0 softcatalog.ru
 0.0.0.0 solutelco.com
+0.0.0.0 somautomotivorj.com.br
 0.0.0.0 sp5.gl1tchloam.ru
 0.0.0.0 span2.mistybr1dge.ru
 0.0.0.0 span2.safebr1dge.ru
@@ -99301,6 +99293,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stone.frostl1ne.ru
+0.0.0.0 stonecradle.com
 0.0.0.0 storm.darksh1ft.ru
 0.0.0.0 storm.stormf0x.ru
 0.0.0.0 strat.skytrac5.ru
@@ -99314,6 +99307,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 swift.rapidstone.ru
 0.0.0.0 systemsupport.top
 0.0.0.0 tajalrayhan.com
+0.0.0.0 take-care.africa
 0.0.0.0 talentrecruitments.com
 0.0.0.0 talon2.black0wl.ru
 0.0.0.0 talus3.rapidstone.ru
@@ -99331,7 +99325,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tests.yjzj.org
 0.0.0.0 theholidayroads.com
 0.0.0.0 theoremaoliveoil.com
-0.0.0.0 thismediatribe.com
 0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 tide.0ceandust.ru
 0.0.0.0 tikitokiuzb.com
@@ -99434,7 +99427,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.luuk-lifestyle.eu
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.messias.org.br
-0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
@@ -99504,7 +99496,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpv.corest0rm.ru
 0.0.0.0 zycdjz.com
 0.0.0.0 zzcc.eghyahl.com
-# Number of entries: 856
+# Number of entries: 848
 # End URLHaus
 
 # Start yoyo.org
