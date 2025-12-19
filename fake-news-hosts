@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 19 December 2025 02:06:54 (UTC)
-# Number of unique domains: 97,217
+# Date: 19 December 2025 06:40:20 (UTC)
+# Number of unique domains: 97,211
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 c094d3ed0c3e
-127.0.0.53 c094d3ed0c3e
+127.0.1.1 abc2893dd9d2
+127.0.0.53 abc2893dd9d2
 
 # Start StevenBlack
 
@@ -100573,12 +100573,13 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2025-12-19 02:03:14 (UTC)                      #
+# Last updated: 2025-12-19 06:34:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
+0.0.0.0 1.off3.ru
 0.0.0.0 109-111-55-221.rev.as216075.net
 0.0.0.0 111101111.ru
 0.0.0.0 123.ywxww.net
@@ -100589,7 +100590,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 183sjbh.com
 0.0.0.0 1ay20.lightst0rm.ru
 0.0.0.0 1i.lightst0rm.ru
-0.0.0.0 2.off3.ru
 0.0.0.0 20ve.brightc0re.ru
 0.0.0.0 27.darkw1re.ru
 0.0.0.0 2887k.stormf0rm.ru
@@ -100622,7 +100622,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 admin.gestroom.it
 0.0.0.0 adver.com.br
 0.0.0.0 advustech.com
-0.0.0.0 aerconditionat-arges.ro
 0.0.0.0 afrihealthexpo.org
 0.0.0.0 agent188super.org
 0.0.0.0 ahp.wave5hift.ru
@@ -100738,7 +100737,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cove.ravelpink.ru
 0.0.0.0 cpc9302.com
 0.0.0.0 crest.deepw1nd.ru
-0.0.0.0 crimefreesoftware.com
 0.0.0.0 crypt7.l2mbl1vonian.ru
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
@@ -100845,7 +100843,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gale.g1zmobrain.ru
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gamma.bramblefix.ru
-0.0.0.0 garogradba.mk
 0.0.0.0 gate.frostc0de.ru
 0.0.0.0 gavel.dict2t0rpech.ru
 0.0.0.0 gcd1.softf0x.ru
@@ -100873,6 +100870,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hasalltalent.com
 0.0.0.0 haze.t1nkerpove.ru
 0.0.0.0 help.vreugdonline.nl
+0.0.0.0 helpdps.shop
 0.0.0.0 helpradar.tech
 0.0.0.0 hezi1.com
 0.0.0.0 hhapseceorspt.onl
@@ -100896,6 +100894,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 injectroblox.ru
 0.0.0.0 innaflux.com
 0.0.0.0 inner.se1fve5ky.ru
+0.0.0.0 innlive.in
 0.0.0.0 intelligentopennetworkingawards.com
 0.0.0.0 investtrad.com
 0.0.0.0 ip.nebulabin.pl
@@ -100912,6 +100911,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jgl.mintp1xel.ru
 0.0.0.0 jjc6u.v0rtapouch.ru
 0.0.0.0 jkshaonv.com
+0.0.0.0 jointings.org
 0.0.0.0 joyeriatauro.com
 0.0.0.0 js-storage.com
 0.0.0.0 jule.bramble-age.ru
@@ -101018,7 +101018,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nicnetworkvvs.uk
 0.0.0.0 noithaticon.vn
 0.0.0.0 nova.bramblefix.ru
-0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 o3.fl0wlatch.ru
@@ -101150,12 +101149,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 senat3.dict2t0rpech.ru
 0.0.0.0 sentry5.obor1shwron8.ru
 0.0.0.0 serif2.s1umtypo1ogy.ru
-0.0.0.0 servicioslogisticosdyc.com
 0.0.0.0 servo1.aut0ns2ving.ru
 0.0.0.0 setupeurope.eu
 0.0.0.0 sfa.com.ar
 0.0.0.0 sffacoglobal.com
 0.0.0.0 sg123.net
+0.0.0.0 shaderm.com
 0.0.0.0 shadow.frostc0de.ru
 0.0.0.0 shapeitengineering.com
 0.0.0.0 shift.ravelmint.ru
@@ -101195,7 +101194,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stir3.s0uponwe2ther.ru
 0.0.0.0 stitch5.doub1ebarzu8.ru
-0.0.0.0 stonecradle.com
 0.0.0.0 storm.frostc0de.ru
 0.0.0.0 studio.dymk0v5klei.ru
 0.0.0.0 summa.h0dikim2n.ru
@@ -101246,8 +101244,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trtmyanmar.com
 0.0.0.0 ts.darkw1re.ru
 0.0.0.0 turegalo.com
-0.0.0.0 tv-garden10.com
-0.0.0.0 tv-garden9.com
 0.0.0.0 twine.doub1ebarzu8.ru
 0.0.0.0 u3kd.sn1pixel.ru
 0.0.0.0 u9m3e.hush-copper.ru
@@ -101303,7 +101299,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wo35.fl0wlatch.ru
 0.0.0.0 writerartist.com
 0.0.0.0 wtechcomercio.com.br
-0.0.0.0 wwtalk.cyou
 0.0.0.0 www.ardguisser.com
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.automobile-bk.de
@@ -101380,7 +101375,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xupertvapps.com
 0.0.0.0 xx.stormf0rm.ru
 0.0.0.0 xyfsd.com
-0.0.0.0 yahyacarpet.com
 0.0.0.0 yfzsx.sn1pbarrel.ru
 0.0.0.0 yongtai.cn
 0.0.0.0 youtransfer.net
@@ -101395,7 +101389,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zoning.articu1urb2n.ru
 0.0.0.0 zycdjz.com
 0.0.0.0 zzcc.eghyahl.com
-# Number of entries: 817
+# Number of entries: 811
 # End URLHaus
 
 # Start yoyo.org
