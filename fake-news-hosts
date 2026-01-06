@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 06 January 2026 12:57:41 (UTC)
-# Number of unique domains: 84,701
+# Date: 06 January 2026 18:40:27 (UTC)
+# Number of unique domains: 84,457
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 80b4ee9eea55
-127.0.0.53 80b4ee9eea55
+127.0.1.1 5d9ad5346371
+127.0.0.53 5d9ad5346371
 
 # Start StevenBlack
 
@@ -22366,8 +22366,8 @@ ff02::3 ip6-allhosts
 
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 06 Jan 2026, 13:01 UTC+01:00
-# Version: 2026.1.6.1
+# Last modified: Tue, 06 Jan 2026, 17:01 UTC+01:00
+# Version: 2026.1.6.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -25658,7 +25658,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1n8ost.a4iyzn.icu
 0.0.0.0 1n8ost.a9uagf.bond
 0.0.0.0 1n8ost.bd4oyu.cyou
-0.0.0.0 1n8ost.be7njf.bond
 0.0.0.0 1n8ost.em9xdq.icu
 0.0.0.0 1n8ost.fb5ali.hair
 0.0.0.0 1n8ost.hy7vpk.cyou
@@ -25886,6 +25885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 48uu2.top
 0.0.0.0 48uu3.top
 0.0.0.0 48uu20.top
+0.0.0.0 50gg.us
 0.0.0.0 51r2drd.icu
 0.0.0.0 53gteg.icu
 0.0.0.0 53uu1.top
@@ -26146,7 +26146,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 433493asai.cyou
 0.0.0.0 435467.weebly.com
 0.0.0.0 478632.top
-0.0.0.0 491023.cfd
 0.0.0.0 500020.icu
 0.0.0.0 510919si1-1.cfd
 0.0.0.0 510919x8u.cfd
@@ -26183,10 +26182,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 6095833dfiu1.sbs
 0.0.0.0 6338491.click
 0.0.0.0 6834634.cyou
-0.0.0.0 7764664.cfd
 0.0.0.0 9523827ssa1.sbs
 0.0.0.0 32000827yqwtudi622.top
-0.0.0.0 38436532.icu
 0.0.0.0 41651651.sbs
 0.0.0.0 45322662.weebly.com
 0.0.0.0 51519158s8sjs18.cfd
@@ -26432,7 +26429,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 agingperspectives.xyz
 0.0.0.0 agingresearch.xyz
 0.0.0.0 agirlikindikatoru.com
-0.0.0.0 agpetroleum.com
 0.0.0.0 agrasya.net
 0.0.0.0 agreatcustomerservice.com
 0.0.0.0 agrit.online
@@ -26678,7 +26674,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.63738.vu
 0.0.0.0 alebilet.64738.me
 0.0.0.0 alebilet.65352.icu
-0.0.0.0 alebilet.67013.click
 0.0.0.0 alebilet.72648.me
 0.0.0.0 alebilet.72846.me
 0.0.0.0 alebilet.72848.me
@@ -26693,7 +26688,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.78128.me
 0.0.0.0 alebilet.78246.me
 0.0.0.0 alebilet.78495.cyou
-0.0.0.0 alebilet.78621.me
 0.0.0.0 alebilet.80173.click
 0.0.0.0 alebilet.82104.click
 0.0.0.0 alebilet.83610.click
@@ -26704,9 +26698,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.89475.vu
 0.0.0.0 alebilet.93282dj236cdj282783h.sbs
 0.0.0.0 alebilet.93410.click
-0.0.0.0 alebilet.95271.icu
 0.0.0.0 alebilet.95482.vu
-0.0.0.0 alebilet.98364.me
 0.0.0.0 alebilet.195739.vu
 0.0.0.0 alebilet.329451.click
 0.0.0.0 alebilet.373773.click
@@ -27022,7 +27014,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alebilet.pl-oferta929219191938013.sbs
 0.0.0.0 alebilet.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 alebilet.pl-oferta-2356727.cfd
-0.0.0.0 alebilet.pl-oferta-7940917277.shop
 0.0.0.0 alebilet.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 alebilet.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 alebilet.pl-oferta-kategorie-polecane0293924.sbs
@@ -27173,7 +27164,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 algorithmefinancier.net
 0.0.0.0 algosone-app.net
 0.0.0.0 algosoneai.net
-0.0.0.0 algtur.com
 0.0.0.0 algungida.com
 0.0.0.0 alhalaftravel.com
 0.0.0.0 alialtamoda.com
@@ -27446,7 +27436,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.64738.me
 0.0.0.0 allegro.64875.vu
 0.0.0.0 allegro.65352.icu
-0.0.0.0 allegro.67013.click
 0.0.0.0 allegro.69287ayaya.cyou
 0.0.0.0 allegro.69346.cfd
 0.0.0.0 allegro.72534.icu
@@ -27485,7 +27474,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.93410.click
 0.0.0.0 allegro.93535-53099.click
 0.0.0.0 allegro.95482.vu
-0.0.0.0 allegro.98364.me
 0.0.0.0 allegro.98765ty6.cyou
 0.0.0.0 allegro.195739.vu
 0.0.0.0 allegro.291878s999sss.cfd
@@ -27505,7 +27493,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.528884.click
 0.0.0.0 allegro.538391.click
 0.0.0.0 allegro.547910.vu
-0.0.0.0 allegro.593421.cfd
 0.0.0.0 allegro.612941.click
 0.0.0.0 allegro.627491.click
 0.0.0.0 allegro.629361.click
@@ -27520,7 +27507,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.748392.vu
 0.0.0.0 allegro.785403.vu
 0.0.0.0 allegro.826546.click
-0.0.0.0 allegro.832142.cfd
 0.0.0.0 allegro.883257.click
 0.0.0.0 allegro.894785.vu
 0.0.0.0 allegro.903847.vu
@@ -27853,7 +27839,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro.pl-oferta929219191938013.sbs
 0.0.0.0 allegro.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 allegro.pl-oferta-2356727.cfd
-0.0.0.0 allegro.pl-oferta-7940917277.shop
 0.0.0.0 allegro.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 allegro.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 allegro.pl-oferta-kategorie-polecane0293924.sbs
@@ -28048,7 +28033,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrobuy.top
 0.0.0.0 allegrolaknie.pl-530872.sbs
 0.0.0.0 allegrolokainie.31924.icu
-0.0.0.0 allegrolokainie.95271.icu
 0.0.0.0 allegrolokainie.conformation-122.shop
 0.0.0.0 allegrolokainie.conformation-123.shop
 0.0.0.0 allegrolokainie.conformation-124.shop
@@ -28253,14 +28237,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.0e928d9197fj28422.sbs
 0.0.0.0 allegrolokalnie.01hs7819681bdh1973891.cfd
 0.0.0.0 allegrolokalnie.2o04rj33902dh282742.sbs
-0.0.0.0 allegrolokalnie.3i34me2oz.sbs
 0.0.0.0 allegrolokalnie.8dfjd732hw1923383.sbs
 0.0.0.0 allegrolokalnie.9deu28y2y3h2912e28232.cfd
 0.0.0.0 allegrolokalnie.20d82b38dh28dn3.sbs
 0.0.0.0 allegrolokalnie.028d2h1884jdi2074d3.sbs
 0.0.0.0 allegrolokalnie.34ogvdsmcsake.sbs
 0.0.0.0 allegrolokalnie.43kvdjxsjsoe.sbs
-0.0.0.0 allegrolokalnie.65oj4ldv.sbs
+0.0.0.0 allegrolokalnie.45gkdmsdj34.sbs
 0.0.0.0 allegrolokalnie.78x62278xi288122.sbs
 0.0.0.0 allegrolokalnie.82djw2928401jso20ujr2.sbs
 0.0.0.0 allegrolokalnie.92ueh2919f2j42.cfd
@@ -28317,7 +28300,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.64875.vu
 0.0.0.0 allegrolokalnie.65352.icu
 0.0.0.0 allegrolokalnie.65865.store
-0.0.0.0 allegrolokalnie.67013.click
 0.0.0.0 allegrolokalnie.72648.me
 0.0.0.0 allegrolokalnie.72846.me
 0.0.0.0 allegrolokalnie.72848.me
@@ -28337,7 +28319,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.78128.me
 0.0.0.0 allegrolokalnie.78246.me
 0.0.0.0 allegrolokalnie.78495.cyou
-0.0.0.0 allegrolokalnie.78621.me
 0.0.0.0 allegrolokalnie.78902.net
 0.0.0.0 allegrolokalnie.80173.click
 0.0.0.0 allegrolokalnie.82104.click
@@ -28354,14 +28335,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.93410.click
 0.0.0.0 allegrolokalnie.94520.vu
 0.0.0.0 allegrolokalnie.95482.vu
-0.0.0.0 allegrolokalnie.98364.me
 0.0.0.0 allegrolokalnie.195739.vu
 0.0.0.0 allegrolokalnie.294732.click
 0.0.0.0 allegrolokalnie.329451.click
 0.0.0.0 allegrolokalnie.373773.click
 0.0.0.0 allegrolokalnie.425372.click
 0.0.0.0 allegrolokalnie.478632.top
-0.0.0.0 allegrolokalnie.491023.cfd
 0.0.0.0 allegrolokalnie.520470.click
 0.0.0.0 allegrolokalnie.523244.click
 0.0.0.0 allegrolokalnie.525613.click
@@ -28369,7 +28348,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.528884.click
 0.0.0.0 allegrolokalnie.538391.click
 0.0.0.0 allegrolokalnie.547910.vu
-0.0.0.0 allegrolokalnie.593421.cfd
 0.0.0.0 allegrolokalnie.612941.click
 0.0.0.0 allegrolokalnie.615116.click
 0.0.0.0 allegrolokalnie.627491.click
@@ -28385,7 +28363,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.748392.vu
 0.0.0.0 allegrolokalnie.785403.vu
 0.0.0.0 allegrolokalnie.826546.click
-0.0.0.0 allegrolokalnie.832142.cfd
 0.0.0.0 allegrolokalnie.836210.vu
 0.0.0.0 allegrolokalnie.856340oferta.sbs
 0.0.0.0 allegrolokalnie.883257.click
@@ -28406,7 +28383,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.8877342.click
 0.0.0.0 allegrolokalnie.9125125.click
 0.0.0.0 allegrolokalnie.34862323.icu
-0.0.0.0 allegrolokalnie.38436532.icu
 0.0.0.0 allegrolokalnie.63667193.click
 0.0.0.0 allegrolokalnie.72838368.cfd
 0.0.0.0 allegrolokalnie.76886340oferta.sbs
@@ -28481,12 +28457,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.elektronika.lol
 0.0.0.0 allegrolokalnie.g5kdjscjjg4.sbs
 0.0.0.0 allegrolokalnie.hlppt.sbs
-0.0.0.0 allegrolokalnie.jvdfjao32kd.rest
 0.0.0.0 allegrolokalnie.k3op4ksd2.sbs
-0.0.0.0 allegrolokalnie.k34oqkwe.sbs
-0.0.0.0 allegrolokalnie.kdachjahs13.sbs
-0.0.0.0 allegrolokalnie.kf0eadjdj3.sbs
-0.0.0.0 allegrolokalnie.kfjsdha41.sbs
 0.0.0.0 allegrolokalnie.kfkdakzo2oa.sbs
 0.0.0.0 allegrolokalnie.khh745jng45nioi05kahehb7o6achf.icu
 0.0.0.0 allegrolokalnie.mv4fdjsk23.sbs
@@ -28715,6 +28686,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-90540.cfd
 0.0.0.0 allegrolokalnie.pl-90541.icu
 0.0.0.0 allegrolokalnie.pl-091033.icu
+0.0.0.0 allegrolokalnie.pl-91332.cfd
 0.0.0.0 allegrolokalnie.pl-093108.rest
 0.0.0.0 allegrolokalnie.pl-096436.cfd
 0.0.0.0 allegrolokalnie.pl-98613.sbs
@@ -28888,6 +28860,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-7753124.top
 0.0.0.0 allegrolokalnie.pl-8215552lajeyyw71614153jagatgbfb7ff.sbs
 0.0.0.0 allegrolokalnie.pl-8232345.sbs
+0.0.0.0 allegrolokalnie.pl-8340940.icu
+0.0.0.0 allegrolokalnie.pl-8363739.cfd
 0.0.0.0 allegrolokalnie.pl-8371291.cfd
 0.0.0.0 allegrolokalnie.pl-8390127.rest
 0.0.0.0 allegrolokalnie.pl-8541527.icu
@@ -28984,7 +28958,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-4537492324.sbs
 0.0.0.0 allegrolokalnie.pl-4734902034.cfd
 0.0.0.0 allegrolokalnie.pl-4839408234.cfd
-0.0.0.0 allegrolokalnie.pl-4917382596.cfd
 0.0.0.0 allegrolokalnie.pl-6723457899.icu
 0.0.0.0 allegrolokalnie.pl-8372093245.sbs
 0.0.0.0 allegrolokalnie.pl-8378632356.cfd
@@ -29063,6 +29036,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta5236.sbs
 0.0.0.0 allegrolokalnie.pl-oferta16171.cfd
 0.0.0.0 allegrolokalnie.pl-oferta16171.icu
+0.0.0.0 allegrolokalnie.pl-oferta19062.cfd
 0.0.0.0 allegrolokalnie.pl-oferta21371.icu
 0.0.0.0 allegrolokalnie.pl-oferta21953-apple-watch-ultra-3-nowy.sbs
 0.0.0.0 allegrolokalnie.pl-oferta23123.sbs
@@ -29229,7 +29203,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-oferta929219191938013.sbs
 0.0.0.0 allegrolokalnie.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 allegrolokalnie.pl-oferta-2356727.cfd
-0.0.0.0 allegrolokalnie.pl-oferta-7940917277.shop
 0.0.0.0 allegrolokalnie.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 allegrolokalnie.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 allegrolokalnie.pl-oferta-kategorie-polecane0293924.sbs
@@ -29262,7 +29235,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegrolokalnie.pl-smart27451.sbs
 0.0.0.0 allegrolokalnie.pl-smart27491.sbs
 0.0.0.0 allegrolokalnie.pl-smart27520.sbs
-0.0.0.0 allegrolokalnie.pl-smart28157.sbs
 0.0.0.0 allegrolokalnie.pl-smart34541.sbs
 0.0.0.0 allegrolokalnie.pl-smart43534.sbs
 0.0.0.0 allegrolokalnie.pl-smart43543.sbs
@@ -29475,7 +29447,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alo-electrice.ro
 0.0.0.0 alohasoftware.net
 0.0.0.0 alokazasovtaj.com
-0.0.0.0 aloyakit.com
 0.0.0.0 alpaka.sbs
 0.0.0.0 alpbitproapp.com
 0.0.0.0 alpbitrex.net
@@ -29523,7 +29494,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 altisonamusic.com
 0.0.0.0 altrix-spotpro.com
 0.0.0.0 altugtasarim.online
-0.0.0.0 altunmaral.com
 0.0.0.0 altusmonvex-app.com
 0.0.0.0 alumachainex.com
 0.0.0.0 alummen.com
@@ -29962,7 +29932,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 attovreinv.homes
 0.0.0.0 attractionmarketing.com
 0.0.0.0 attractsteadyclients.com
-0.0.0.0 attributesgreen.krystenvonk.com
 0.0.0.0 attririnfo.sbs
 0.0.0.0 atturmonda.site
 0.0.0.0 atyourownpacecamps.com
@@ -30099,7 +30068,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ayaia.com
 0.0.0.0 aycanarik.com
 0.0.0.0 ayenzueccel.rest
-0.0.0.0 ayfaicdisticaret.com
 0.0.0.0 aygensigorta.com
 0.0.0.0 ayhansobaci.com
 0.0.0.0 ayisigihaltingplace.org
@@ -30221,7 +30189,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 base-vod.pl
 0.0.0.0 basharapsn.info
 0.0.0.0 basilmokiti.world
-0.0.0.0 baskabirbodrum.com
 0.0.0.0 bassthompson.com
 0.0.0.0 bastamarrakech.com
 0.0.0.0 bastiaomontanario.com
@@ -30376,6 +30343,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beytepedis.com
 0.0.0.0 bezotex.com
 0.0.0.0 bfy.uih.mybluehost.me
+0.0.0.0 bgcdbzaxzmmch.site
 0.0.0.0 bgmimobiles.shop
 0.0.0.0 bharatprosperity.com
 0.0.0.0 bhishgripp.site
@@ -30413,7 +30381,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bilgininanahtari.net
 0.0.0.0 bilimkurgu.org
 0.0.0.0 bilimsmmm.com
-0.0.0.0 bilisimselodyoloji.net
 0.0.0.0 bilisimselodyolojidernegi.org
 0.0.0.0 bilkentoptik.net
 0.0.0.0 billing.id-auth98426.com
@@ -30612,7 +30579,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 biyervarmi.com
 0.0.0.0 biyolojikdishekimligi.org
 0.0.0.0 biyomimetikenstitusu.com
-0.0.0.0 bizekadar.com
 0.0.0.0 biznes-gov-pl.netlify.app
 0.0.0.0 biznesmonitor.com
 0.0.0.0 biztrakmsb.com
@@ -31007,6 +30973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 buildingideash.info
 0.0.0.0 bujuni.online
 0.0.0.0 bulentcansu.net
+0.0.0.0 bulicagghi.rest
 0.0.0.0 bulk-shop.com
 0.0.0.0 bulletinlumen.com
 0.0.0.0 bullkraxt.com
@@ -31370,7 +31337,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 chicthriftao.shop
 0.0.0.0 chiefunity.org
 0.0.0.0 chilidemag.world
-0.0.0.0 chilll6zone.info
 0.0.0.0 chillll2vibe.info
 0.0.0.0 chilllounge.info
 0.0.0.0 chillwearland.store
@@ -31582,7 +31548,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudinvestapp.com
 0.0.0.0 cloudkitchensdirectory.com
 0.0.0.0 cloudlyte.info
-0.0.0.0 cloudrglad.projectgabriel.com
 0.0.0.0 cloudtwin.buzz
 0.0.0.0 cloudwoodd.info
 0.0.0.0 cloudywavee.info
@@ -31692,7 +31657,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 concubethu.pro
 0.0.0.0 condiincol.world
 0.0.0.0 condimanic.homes
-0.0.0.0 condo.securityservicecr.com
 0.0.0.0 condrebitappai.com
 0.0.0.0 conect3nt-x.xyz
 0.0.0.0 confeciuff.world
@@ -31830,7 +31794,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cornfmcco.world
 0.0.0.0 cornixadaptive.com
 0.0.0.0 corona-schnelltest-neuss.de
-0.0.0.0 corpomalod.site
 0.0.0.0 corporategroupcoach.com
 0.0.0.0 correspondencesdill.eqoox.com
 0.0.0.0 corthiqember-aiapp.com
@@ -31913,7 +31876,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 crowntradeai.com
 0.0.0.0 crowwwd.info
 0.0.0.0 cruei.store
-0.0.0.0 crunccchy3chip.info
 0.0.0.0 crunchybytee.info
 0.0.0.0 crushfall.com
 0.0.0.0 crussh.info
@@ -32139,7 +32101,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dappxsecure.click
 0.0.0.0 daranthovexalimorendisthela.mom
 0.0.0.0 darkcartx.com
-0.0.0.0 darklab-suplemento.online
 0.0.0.0 darkridgeventures.info
 0.0.0.0 darkwaterlabs.live
 0.0.0.0 darmelistanorvexialto.rest
@@ -32236,7 +32197,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 decerscult.pro
 0.0.0.0 decimpolis.site
 0.0.0.0 decisionpage2025.cfd
-0.0.0.0 deckiguard.mrhealerbd.com
 0.0.0.0 decktradeproapp.com
 0.0.0.0 declavero.news
 0.0.0.0 declierbor.homes
@@ -32335,7 +32295,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 deprevezze.world
 0.0.0.0 dercoline.com
 0.0.0.0 derekchimneycleaningbostonia.online
-0.0.0.0 dericim.com
 0.0.0.0 derinceotelleri.com
 0.0.0.0 deringlobalmedya.com
 0.0.0.0 deriv.com
@@ -32376,7 +32335,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 devplaytv.sbs
 0.0.0.0 dewdampubugre.com
 0.0.0.0 dewit6.online
-0.0.0.0 dexamide.com
 0.0.0.0 dexaviomoana-engine.com
 0.0.0.0 dexavorline.cloud
 0.0.0.0 dexofinance.com
@@ -32394,7 +32352,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dfhoim5asfa.lat
 0.0.0.0 dfihn45safa.lol
 0.0.0.0 dfiles.shareboxr.site
-0.0.0.0 dfnlab.com
 0.0.0.0 dfuzzer.com
 0.0.0.0 dgtmarket.com
 0.0.0.0 dh2829274jh18821h8h23.sbs
@@ -32418,7 +32375,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dietasekret.pl
 0.0.0.0 dietguideh.info
 0.0.0.0 diffainves.homes
-0.0.0.0 diffrrispe.site
 0.0.0.0 diffufable.site
 0.0.0.0 dig8srs7dv7t5.cloudfront.net
 0.0.0.0 digammasmlli70lle.info
@@ -32693,7 +32649,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 drivonexera.world
 0.0.0.0 drizzleer6sky.info
 0.0.0.0 drizzler5cloud.info
-0.0.0.0 drizzly4rain.info
 0.0.0.0 drizzzy7drop.info
 0.0.0.0 drltransport.org
 0.0.0.0 drluisfloresherna.com
@@ -32705,7 +32660,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 drogerienaturas.sbs
 0.0.0.0 drogerienaturashop.sbs
 0.0.0.0 droolingsurgery.com
-0.0.0.0 drop-delivery.online
 0.0.0.0 droxovizz.net
 0.0.0.0 droxovizzapp.com
 0.0.0.0 drpecs.com
@@ -32777,6 +32731,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dzieci-rodzina.store
 0.0.0.0 dzieci-rodzinapl.sbs
 0.0.0.0 dzieci-rodzinapl.shop
+0.0.0.0 dzieci.ch-svip.sbs
 0.0.0.0 dzieciecyrajvip.shop
 0.0.0.0 dziecko-informacje-wiadomosci.com
 0.0.0.0 dziennik.warszawa.pl
@@ -32795,6 +32750,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e-kinotv.pl
 0.0.0.0 e-kira.net
 0.0.0.0 e-maillhackks.icu
+0.0.0.0 eaca-eaen.com
 0.0.0.0 eaconomyapp.com
 0.0.0.0 eaddr.mejores3.com
 0.0.0.0 eaebuy.com
@@ -32882,7 +32838,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 edutipsh.info
 0.0.0.0 eecsandiego.com
 0.0.0.0 eefiuejj.sbs
-0.0.0.0 eekolay.com
 0.0.0.0 efbilisim.org
 0.0.0.0 efebeyambalaj.com
 0.0.0.0 efficacefundexis.com
@@ -33081,7 +33036,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 enchantevent.com
 0.0.0.0 encomposite.com
 0.0.0.0 encontracaixa.online
-0.0.0.0 encriforti.site
 0.0.0.0 endecimmis.world
 0.0.0.0 endocsinis.site
 0.0.0.0 endodalcal.pro
@@ -33189,7 +33143,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 erinanc.com
 0.0.0.0 erk-group.com
 0.0.0.0 erkhaberlesme.net
-0.0.0.0 erkmenler.com
 0.0.0.0 erkockalip.net
 0.0.0.0 erkutaynuhoglu.com
 0.0.0.0 ermankayar.com
@@ -33478,7 +33431,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 faacademie.com
 0.0.0.0 fabezuhoro.com
 0.0.0.0 fableforgeg.info
-0.0.0.0 fabry.shop
 0.0.0.0 fabuhosedgelli.cloud
 0.0.0.0 fabzy.shop
 0.0.0.0 facardeuck.com
@@ -33604,7 +33556,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fenal-jorin-biz-samon-qevor-nd12kt12.pages.dev
 0.0.0.0 fencelogic.net
 0.0.0.0 fendorelxamithuralendovia.cyou
-0.0.0.0 fendrevalonisthelumera.mom
 0.0.0.0 fenextor-app.net
 0.0.0.0 fenoraxivulme.cloud
 0.0.0.0 fenorixtrader84ai.com
@@ -33638,7 +33589,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fexotuvanexapp.com
 0.0.0.0 fexovion.net
 0.0.0.0 fexyciy.com
-0.0.0.0 feyzaakgul.com
 0.0.0.0 fgenergy.pl
 0.0.0.0 fggtyr644.lacastillo.workers.dev
 0.0.0.0 fgh54imgv.lol
@@ -33661,14 +33611,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 figmanagement.store
 0.0.0.0 fignoreced.world
 0.0.0.0 figoodemekurulusu.com
-0.0.0.0 figopeople.com
 0.0.0.0 figoscore.com
 0.0.0.0 fikiryayinlari.com
 0.0.0.0 fikrflow.online
 0.0.0.0 fikrimucit.net
 0.0.0.0 filamcapit.site
 0.0.0.0 filanfalan.com
-0.0.0.0 filatbalne.site
 0.0.0.0 file2host41.cfd
 0.0.0.0 file142host355.cyou
 0.0.0.0 file-share365.com
@@ -33731,7 +33679,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 filmzadarmoqgs69.ek1.pl
 0.0.0.0 filmzlektoremrqb69.ek1.pl
 0.0.0.0 filoaerbor.homes
-0.0.0.0 filsanfiltre.com
 0.0.0.0 filyosemlak.org
 0.0.0.0 fimpleir.com
 0.0.0.0 finaltura.net
@@ -33879,7 +33826,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fizyoform.org
 0.0.0.0 fizyokul.com
 0.0.0.0 fizyolands.com
-0.0.0.0 fizyoritimmersin.com
 0.0.0.0 fizyotown.com
 0.0.0.0 fizzion.info
 0.0.0.0 fizzler1pop.info
@@ -33913,7 +33859,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 flipimp.thinklikewarrenbuffett.com
 0.0.0.0 flipp3fish.info
 0.0.0.0 flipplayer.com
-0.0.0.0 flippyy2coin.info
 0.0.0.0 flirtdate.cfd
 0.0.0.0 flirtmatch.space
 0.0.0.0 flirtrix.online
@@ -34035,7 +33980,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 forvetgiyim.com
 0.0.0.0 forwardhub.site
 0.0.0.0 foseptiktankfiyatlari.net
-0.0.0.0 foseptiktankifiyatlari.com
 0.0.0.0 fossfuse.net
 0.0.0.0 fotogscapi.world
 0.0.0.0 fourcrab.com
@@ -34079,7 +34023,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fresheggsg.info
 0.0.0.0 freshfindg.info
 0.0.0.0 freshforexapp.com
-0.0.0.0 freshgreyjeepthrone.com
 0.0.0.0 freshharvestg.info
 0.0.0.0 freshhflower.info
 0.0.0.0 freshhive.info
@@ -34238,7 +34181,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fyvexlabfin-app.com
 0.0.0.0 fyvexlabfin-software.com
 0.0.0.0 fzygrup.com
-0.0.0.0 fzyworld.com
 0.0.0.0 g0m2wd.sbs
 0.0.0.0 g5fpgu.cyou
 0.0.0.0 ga20ugerunleasddhed.info
@@ -34314,13 +34256,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 gawelda.pl
 0.0.0.0 gazelliniproperty.com
 0.0.0.0 gazetaly.com
-0.0.0.0 gazibank.com
 0.0.0.0 gcesab.com
 0.0.0.0 gcgfinancespain.com
 0.0.0.0 gdanskkwiatyru.pro
 0.0.0.0 gdzieonline.pl
 0.0.0.0 gebiton.org
-0.0.0.0 gebkimkariyer.com
 0.0.0.0 gebroluxproapp.net
 0.0.0.0 gebronexapp.com
 0.0.0.0 gebruiker158235.icu
@@ -34407,7 +34347,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ggbet.world
 0.0.0.0 ggbets.pl
 0.0.0.0 ggbetss.com
-0.0.0.0 ggclub.shop
 0.0.0.0 ggiigug3-3g3.cyou
 0.0.0.0 gh7en3ws.eu
 0.0.0.0 gh65iomhda.lol
@@ -34487,7 +34426,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 globalmenkuldegerler.net
 0.0.0.0 globalpulseg.info
 0.0.0.0 globalpulsehubpro.com
-0.0.0.0 globalreklamajans.com
 0.0.0.0 globalsafezone.com
 0.0.0.0 globaltrendg.info
 0.0.0.0 globuabbot.world
@@ -34746,7 +34684,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 graphicdigitizing.com
 0.0.0.0 graphiterosenews.top
 0.0.0.0 grassboxer.pro
-0.0.0.0 grassy8meadow.info
 0.0.0.0 graticerar.site
 0.0.0.0 grattvitic.world
 0.0.0.0 gravenostelirandoxia.cyou
@@ -34962,7 +34899,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 happyhomeh.info
 0.0.0.0 happyolive.cogent-management.com
 0.0.0.0 happytrailss.info
-0.0.0.0 happyy5face.info
 0.0.0.0 happyysong.info
 0.0.0.0 happyytrail.info
 0.0.0.0 happyytune.info
@@ -35053,9 +34989,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 help.activityid36120business.cfd
 0.0.0.0 help.verifiedpagesupport.cfd
 0.0.0.0 helpful-environment-820901.framer.app
+0.0.0.0 helpmsg.odspecs.com
 0.0.0.0 helpmydisney.com
+0.0.0.0 helpslr.odspecs.com
 0.0.0.0 helpunit-portal-265851.netlify.app
 0.0.0.0 helpwithledgerdevice.com
+0.0.0.0 helpywm.odspecs.com
 0.0.0.0 helvaciali.net
 0.0.0.0 helvaronextis.cloud
 0.0.0.0 helveslacc.site
@@ -36034,7 +35973,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ipko.pl-client-beta-external-secure.pro
 0.0.0.0 ipko.pl-dev-apps-auth-ai.pro
 0.0.0.0 ipko.pl-main-stage-client-api.pro
-0.0.0.0 ipko.pl-management-alpha-server-api-gateway.pro
 0.0.0.0 ipko.pl-stage-service-server-management.pro
 0.0.0.0 ipko.vh13772.vh.net.pl
 0.0.0.0 ipkoblznes-app.com
@@ -36209,7 +36147,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jannatkhah.ir
 0.0.0.0 jansedesto.pro
 0.0.0.0 japanesereference.com
-0.0.0.0 jasmisbras.site
 0.0.0.0 jasnybitnex.com
 0.0.0.0 jasnybitralis-app.com
 0.0.0.0 jasnyprofinex.com
@@ -36219,7 +36156,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jazzed-account-099170.framer.app
 0.0.0.0 jazzmine.info
 0.0.0.0 jazzy-frangollo-9c7531.netlify.app
-0.0.0.0 jazzzy4band.info
 0.0.0.0 jazzzy8note.info
 0.0.0.0 jbnies02.com
 0.0.0.0 jcesv8kn.top
@@ -36333,7 +36269,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jzxgzqmlowotv.proyectocancionero.com
 0.0.0.0 k1v9xo.icu
 0.0.0.0 k2avab.hair
-0.0.0.0 k3ubay.hair
 0.0.0.0 k4xxll.website
 0.0.0.0 k7q0tc.icu
 0.0.0.0 k9gross.com
@@ -36540,16 +36475,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 komolot.gitlab.io
 0.0.0.0 kondratexapp.com
 0.0.0.0 konkursy.de
-0.0.0.0 konlasbayi.com
 0.0.0.0 kontoirozliczenia.com
 0.0.0.0 kontonet.pl
 0.0.0.0 kontrapedal.org
-0.0.0.0 konyaaltikresim.com
 0.0.0.0 konyamotokurye.com
 0.0.0.0 koopon.pl
 0.0.0.0 kopaniebitcoin.pl
 0.0.0.0 kordalunexima.world
-0.0.0.0 kornstrasm.site
 0.0.0.0 kosdkdfuxtnuw.website
 0.0.0.0 kotisamvidakali.top
 0.0.0.0 kou73myssssmama.info
@@ -36595,7 +36527,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kucukbutik.com
 0.0.0.0 kucukcekmecevidanjor.com
 0.0.0.0 kugufiderodilbu.cloud
-0.0.0.0 kuhimui.com
 0.0.0.0 kuiz114.com
 0.0.0.0 kulalusramag.net
 0.0.0.0 kulayatswen.lacastillo.workers.dev
@@ -36679,12 +36610,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 laoshug77-phrmgtaiy.site
 0.0.0.0 laoshug77-xipovic4.store
 0.0.0.0 laosongtou.com
-0.0.0.0 laospin-ling99.store
 0.0.0.0 laosvegas888-zense.site
 0.0.0.0 laparagita.site
 0.0.0.0 laparoskopidunyasi.com
 0.0.0.0 laptopy-komputery-naprawa.pl
-0.0.0.0 lararbounc.site
 0.0.0.0 larissalinhares.com.br
 0.0.0.0 larkintonwcity.com
 0.0.0.0 larkspurxhall.world
@@ -36779,7 +36708,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lesleys-spare-domain.com
 0.0.0.0 lesomatonappai.net
 0.0.0.0 lessiservi.site
-0.0.0.0 lessuduhadore.digital
 0.0.0.0 letiznonco.site
 0.0.0.0 letsbewinners.com
 0.0.0.0 letsevaluateit.com
@@ -37342,7 +37270,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mindwerk-ai-software.com
 0.0.0.0 minerals.sank.com.de
 0.0.0.0 minerdispe.site
-0.0.0.0 miniwin.online
 0.0.0.0 minty5fresh.info
 0.0.0.0 miragainlink.com
 0.0.0.0 miroth-asset-forge.com
@@ -37487,7 +37414,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mqrewean.com
 0.0.0.0 mrunp.food-recipehub.com
 0.0.0.0 ms10be.be
-0.0.0.0 ms88jp.site
 0.0.0.0 msecapitalai.net
 0.0.0.0 msmodesales.shop
 0.0.0.0 msp-hack.com
@@ -37574,7 +37500,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nairatraderaiapp.com
 0.0.0.0 najlepszekonkursy.com
 0.0.0.0 najlepszewrozby.pl
-0.0.0.0 nakliyeavcilari.com
 0.0.0.0 nalchikalko24.shop
 0.0.0.0 nalviros-app.com
 0.0.0.0 nalvirosapp.com
@@ -37626,7 +37551,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 naveenkumars.com
 0.0.0.0 navelurixonto.world
 0.0.0.0 naver-ai.net
-0.0.0.0 naviathor.com
 0.0.0.0 navicincan.pro
 0.0.0.0 naviozz.top
 0.0.0.0 navorixelutra.cloud
@@ -37864,7 +37788,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nightlifezoneh.info
 0.0.0.0 nightvalefield.cloud
 0.0.0.0 nigronfirl.com
-0.0.0.0 nihansaray.com
 0.0.0.0 nikodemus-klienci.pl
 0.0.0.0 nikonolihopvigu.world
 0.0.0.0 nildenaksoy.com
@@ -37955,7 +37878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nordixvarel.com
 0.0.0.0 norevalithen.world
 0.0.0.0 noritexpro.net
-0.0.0.0 normadoor.com
 0.0.0.0 normasofia.shop
 0.0.0.0 noroimmunolojisempozyumu.org
 0.0.0.0 noromodulasyonsempozyumu.org
@@ -38062,6 +37984,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nowchange.cyou
 0.0.0.0 nowchange.icu
 0.0.0.0 nowe-03-01-26-pl.top
+0.0.0.0 nowe-06-01-25.top
 0.0.0.0 nowe-08-12-25-pl.click
 0.0.0.0 nowe-19-12-25-pl.top
 0.0.0.0 nowe-23-12-25-pl.top
@@ -38096,7 +38019,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nureddincerrahi.com
 0.0.0.0 nurkonaksigorta.com
 0.0.0.0 nurlucephe.com
-0.0.0.0 nurtab.com
 0.0.0.0 nusatlaru.world
 0.0.0.0 nutalavihem.com
 0.0.0.0 nutrielect.world
@@ -38314,6 +38236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.827e4892719h72u7139310.cfd
 0.0.0.0 olx.915-219azj.cfd
 0.0.0.0 olx.915j11810.cyou
+0.0.0.0 olx.917w7ah6716ej171.sbs
 0.0.0.0 olx.927sj2719fh38yh2e3.cfd
 0.0.0.0 olx.954ghjkprytanke.sbs
 0.0.0.0 olx.00983.click
@@ -38389,7 +38312,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.64738.me
 0.0.0.0 olx.64875.vu
 0.0.0.0 olx.65352.icu
-0.0.0.0 olx.67013.click
 0.0.0.0 olx.69287ayaya.cyou
 0.0.0.0 olx.69346.cfd
 0.0.0.0 olx.72534.icu
@@ -38426,9 +38348,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.93282dj236cdj282783h.sbs
 0.0.0.0 olx.93410.click
 0.0.0.0 olx.93535-53099.click
-0.0.0.0 olx.95271.icu
 0.0.0.0 olx.95482.vu
-0.0.0.0 olx.98364.me
 0.0.0.0 olx.98765ty6.cyou
 0.0.0.0 olx.195739.vu
 0.0.0.0 olx.291878s999sss.cfd
@@ -38448,7 +38368,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.528884.click
 0.0.0.0 olx.538391.click
 0.0.0.0 olx.547910.vu
-0.0.0.0 olx.593421.cfd
 0.0.0.0 olx.612941.click
 0.0.0.0 olx.627491.click
 0.0.0.0 olx.629361.click
@@ -38463,7 +38382,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.748392.vu
 0.0.0.0 olx.785403.vu
 0.0.0.0 olx.826546.click
-0.0.0.0 olx.832142.cfd
 0.0.0.0 olx.883257.click
 0.0.0.0 olx.894785.vu
 0.0.0.0 olx.903847.vu
@@ -38578,9 +38496,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.oferta-947195415.icu
 0.0.0.0 olx.oferty-narzedzia-127362.cfd
 0.0.0.0 olx.offer92541.icu
-0.0.0.0 olx.ogl-293584.org
-0.0.0.0 olx.ogl-293586.org
-0.0.0.0 olx.ogl-293889.sbs
 0.0.0.0 olx.ogl-294584.org
 0.0.0.0 olx.ogl-295564.org
 0.0.0.0 olx.ogl-295664.com
@@ -38589,7 +38504,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.ogl-295851.it.com
 0.0.0.0 olx.ogl-295851.xyz
 0.0.0.0 olx.ogl-296842.org
-0.0.0.0 olx.ogl-298586.org
 0.0.0.0 olx.ogl-342889.xyz
 0.0.0.0 olx.ogl-345569.xyz
 0.0.0.0 olx.ogl-345679.xyz
@@ -38838,7 +38752,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.pl-oferta929219191938013.sbs
 0.0.0.0 olx.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 olx.pl-oferta-2356727.cfd
-0.0.0.0 olx.pl-oferta-7940917277.shop
 0.0.0.0 olx.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 olx.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 olx.pl-oferta-kategorie-polecane0293924.sbs
@@ -38861,7 +38774,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx.pl-smart27451.sbs
 0.0.0.0 olx.pl-smart27491.sbs
 0.0.0.0 olx.pl-smart27520.sbs
-0.0.0.0 olx.pl-smart28157.sbs
 0.0.0.0 olx.pl-smart28357.sbs
 0.0.0.0 olx.pl-smart30287.sbs
 0.0.0.0 olx.pl-smart31028.sbs
@@ -39128,7 +39040,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 opensitorys.com
 0.0.0.0 opentribune.com
 0.0.0.0 openyourvehicles.cfd
-0.0.0.0 opinoneai.com
 0.0.0.0 oponyexpert.shop
 0.0.0.0 oponyplus.shop
 0.0.0.0 opticaloptimum.com
@@ -39175,7 +39086,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 order.form0096.sbs
 0.0.0.0 order.form5103.icu
 0.0.0.0 order.order31125.icu
-0.0.0.0 orderlyperf.mapwargames.com
 0.0.0.0 ordexiabot-app.com
 0.0.0.0 ordexiabot-tech.com
 0.0.0.0 ordexiabotapp.com
@@ -39188,7 +39098,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 orelavylenapp.com
 0.0.0.0 oren-granit.online
 0.0.0.0 orenthisqualomardelivexuna.mom
-0.0.0.0 org-tirr.store
 0.0.0.0 organbold.metopttrade.com
 0.0.0.0 organicbagdenimtray.com
 0.0.0.0 organicmediasolution.com
@@ -39321,6 +39230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ozozler.org
 0.0.0.0 p0m1vl.lol
 0.0.0.0 p1aymarket.com
+0.0.0.0 p1h3fz.icu
 0.0.0.0 p2w5jk.lat
 0.0.0.0 p6f0ak.icu
 0.0.0.0 p8x4yt.sbs
@@ -39353,7 +39263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 paczkomaty-polska.help
 0.0.0.0 padaurachi.sbs
 0.0.0.0 paddleboardcanada.com
-0.0.0.0 paelladigital.com
 0.0.0.0 paerrion.com
 0.0.0.0 pafiilate.byethost32.com
 0.0.0.0 pagamentoprotegidocheck.shop
@@ -39736,6 +39645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-90540.cfd
 0.0.0.0 pl-90541.icu
 0.0.0.0 pl-091033.icu
+0.0.0.0 pl-91332.cfd
 0.0.0.0 pl-099106.icu
 0.0.0.0 pl-109602.icu
 0.0.0.0 pl-154131llowsr75qrweaw5daedwgcab871iwuaygaj6.cfd
@@ -39866,6 +39776,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-7619381.cfd
 0.0.0.0 pl-7746529jshshutmmwyg99028640ulupuqt8.sbs
 0.0.0.0 pl-8215552lajeyyw71614153jagatgbfb7ff.sbs
+0.0.0.0 pl-8340940.icu
 0.0.0.0 pl-8371291.cfd
 0.0.0.0 pl-8541527.icu
 0.0.0.0 pl-8654712.icu
@@ -39953,6 +39864,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-oferta5236.sbs
 0.0.0.0 pl-oferta16171.cfd
 0.0.0.0 pl-oferta16171.icu
+0.0.0.0 pl-oferta19062.cfd
 0.0.0.0 pl-oferta21371.icu
 0.0.0.0 pl-oferta36913-google-pixel-10-nowy-obsidian.sbs
 0.0.0.0 pl-oferta36913-ipad-pro-m2-256-wifi-cellular.sbs
@@ -40071,7 +39983,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pl-smart27451.sbs
 0.0.0.0 pl-smart27491.sbs
 0.0.0.0 pl-smart27520.sbs
-0.0.0.0 pl-smart28157.sbs
 0.0.0.0 pl-smart34541.sbs
 0.0.0.0 pl-smart43534.sbs
 0.0.0.0 pl-smart43543.sbs
@@ -40327,7 +40238,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 polskigamepass.pl
 0.0.0.0 polskilombard.pl
 0.0.0.0 poltrspara.site
-0.0.0.0 polunthesavendiloramia.mom
 0.0.0.0 polvix-kartix-biz17-selmon-hasrix-sp18ct12-bt2.pages.dev
 0.0.0.0 polwarp.pro
 0.0.0.0 polyablatma.world
@@ -40346,8 +40256,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 popcornflix.pl
 0.0.0.0 popliallun.world
 0.0.0.0 poppcorn.info
-0.0.0.0 poppyy1field.info
-0.0.0.0 poppyy3seed.info
 0.0.0.0 poppyyy1flower.info
 0.0.0.0 poradnik-diet.pl
 0.0.0.0 poraninmaceralari.net
@@ -40443,7 +40351,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 precious-toffee-f8e4bf.netlify.app
 0.0.0.0 precisemixed.kellerwilliamsnorfolk.com
 0.0.0.0 precoeleme.world
-0.0.0.0 precoulvit.site
 0.0.0.0 predreoid.world
 0.0.0.0 preelmarca.site
 0.0.0.0 preensinco.pro
@@ -40673,7 +40580,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pulseurbanflow.com
 0.0.0.0 pulskytor.com
 0.0.0.0 pultra.net
-0.0.0.0 pulurlu.com
 0.0.0.0 pumela.cloud
 0.0.0.0 pumonobesi.com
 0.0.0.0 pumpadmin.pumpmanager.in
@@ -40687,7 +40593,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 purelinemark.com
 0.0.0.0 pureluck.click
 0.0.0.0 purelyadult.online
-0.0.0.0 purenar.com
 0.0.0.0 purepeakdynor-platform.com
 0.0.0.0 purleyonthames.net
 0.0.0.0 purobitelix-app.com
@@ -40706,7 +40611,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 puxehocituf.com
 0.0.0.0 puzzationo.homes
 0.0.0.0 puzziplaco.site
-0.0.0.0 puzzle4piece.info
 0.0.0.0 puzzlemania16d.info
 0.0.0.0 pvsolutionss.com
 0.0.0.0 pwhproihah.top
@@ -40892,7 +40796,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 queronixtraderai.com
 0.0.0.0 questtrack.info
 0.0.0.0 quiasillamlaxvorranvondoli.rest
-0.0.0.0 quickk3fox.info
 0.0.0.0 quickkfix.info
 0.0.0.0 quickkstep.info
 0.0.0.0 quickstreampro.pro
@@ -41151,7 +41054,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rentegloed.net
 0.0.0.0 rentixai2025.org
 0.0.0.0 renvaultix-app.com
-0.0.0.0 repairscoral.cuckooawesome.com
 0.0.0.0 repatgiugn.casa
 0.0.0.0 reperevalgain-app.com
 0.0.0.0 reperevalgainapp.com
@@ -41209,7 +41111,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 riacctumul.pro
 0.0.0.0 riacuperfo.site
 0.0.0.0 riadomispe.world
-0.0.0.0 riammtechn.pro
 0.0.0.0 riappintar.world
 0.0.0.0 riappnonfu.site
 0.0.0.0 riassvorti.pro
@@ -41267,7 +41168,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rigaldephl.world
 0.0.0.0 rigaltroos.site
 0.0.0.0 rightfx.com
-0.0.0.0 rigortoxic.site
 0.0.0.0 riguaconve.pro
 0.0.0.0 rigurrhyme.world
 0.0.0.0 rijackgame.top
@@ -41428,6 +41328,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 roomsafer.com
 0.0.0.0 rooo9t.info
 0.0.0.0 root0direct.info
+0.0.0.0 root9opt.info
+0.0.0.0 rootbeaa1m.info
 0.0.0.0 rootgaleincome.com
 0.0.0.0 rorantrase.world
 0.0.0.0 rorelsevaltaris.com
@@ -41646,6 +41548,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sawdumedio.pro
 0.0.0.0 sawseionos.cyou
 0.0.0.0 saxtorph.net
+0.0.0.0 saxyruo.com
 0.0.0.0 sayeronetuyada.top
 0.0.0.0 sbaradecon.pro
 0.0.0.0 sbarbbotto.world
@@ -41890,6 +41793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sesinletanis.com
 0.0.0.0 sessaallay.world
 0.0.0.0 sesyalitimmalzemesiizmir.net
+0.0.0.0 setadventcalendar.store
 0.0.0.0 setforconfigplease.com
 0.0.0.0 setigisonni.pro
 0.0.0.0 setolricor.world
@@ -41916,7 +41820,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sfiocvendo.homes
 0.0.0.0 sfragdotti.world
 0.0.0.0 sfrassmarg.rest
-0.0.0.0 sfrigdipos.site
 0.0.0.0 sfrusinter.pro
 0.0.0.0 sgaberiqua.world
 0.0.0.0 sgaremetro.site
@@ -42190,7 +42093,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sledz-paczke.com
 0.0.0.0 sledzctwo.eu
 0.0.0.0 sledzenie-przesylki.com
-0.0.0.0 sleeepy6dog.info
 0.0.0.0 sleepzeemouthguard.store
 0.0.0.0 sliczneukrainki.pl
 0.0.0.0 sllopoint.site
@@ -42282,12 +42184,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 snuggly7bear.info
 0.0.0.0 snuggy3bed.info
 0.0.0.0 snwgroupfl.com
-0.0.0.0 sobbasassa.site
 0.0.0.0 soberanoluxerion.com
 0.0.0.0 sobilsobbi.homes
-0.0.0.0 socads.top
 0.0.0.0 socalwarriorfit.com
-0.0.0.0 soccamp.buzz
 0.0.0.0 soccerdiplomacy.net
 0.0.0.0 soccerdiplomacy.org
 0.0.0.0 socialchainsubmission.com
@@ -42383,7 +42282,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sopracoesi.world
 0.0.0.0 sopraeclip.world
 0.0.0.0 soprasnort.site
-0.0.0.0 soprismani.site
 0.0.0.0 soraixhashex.com
 0.0.0.0 sorckehab.digital
 0.0.0.0 sorensenscape.com
@@ -42484,7 +42382,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spiovbrami.sbs
 0.0.0.0 spiremarketbroker.com
 0.0.0.0 spitsmelli.world
-0.0.0.0 spiummisti.site
 0.0.0.0 splashy4pond.info
 0.0.0.0 splendorgainlux.com
 0.0.0.0 splunk-agentic-ai.com
@@ -42787,7 +42684,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stovesellers.com
 0.0.0.0 stpetersburgnewlistings.com
 0.0.0.0 strafe-gateway-ai.com
-0.0.0.0 straistar.mapwargames.com
 0.0.0.0 straivetti.world
 0.0.0.0 stralracil.world
 0.0.0.0 strangefullthiggngs.com
@@ -42809,6 +42705,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 strefamlodych.pl
 0.0.0.0 stremdigri.casa
 0.0.0.0 stremsopra.site
+0.0.0.0 strepgubbi.rest
 0.0.0.0 stribrinsa.pro
 0.0.0.0 strigalett.world
 0.0.0.0 strigopenh.pro
@@ -43063,7 +42960,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sweepcoins.site
 0.0.0.0 sweeper8broom.info
 0.0.0.0 sweepmethi.site
-0.0.0.0 sweept99stake.info
 0.0.0.0 sweetdealstay.com
 0.0.0.0 sweetideash.info
 0.0.0.0 sweetpay.online
@@ -43496,7 +43392,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 timesjunk.com
 0.0.0.0 timinoxadisuhrenreparatur.com
 0.0.0.0 timoccom.com
-0.0.0.0 timonsbare.site
 0.0.0.0 timoravexundralisthomelia.cyou
 0.0.0.0 timsahmtsk.com
 0.0.0.0 timtswarhen.lacastillo.workers.dev
@@ -43581,7 +43476,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 toncoin-ai.com
 0.0.0.0 tondacirco.site
 0.0.0.0 tondratex-app-ai.com
-0.0.0.0 tonepro.online
 0.0.0.0 tonsusepar.site
 0.0.0.0 toofunenglish.com
 0.0.0.0 toolbazaar.com
@@ -43641,7 +43535,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 totalmarketdomination.com
 0.0.0.0 totalserpcontrol.com
 0.0.0.0 totaltts.com
-0.0.0.0 totalutts.com
 0.0.0.0 tottho24news.com
 0.0.0.0 totti911-aminn.store
 0.0.0.0 touchgstorage.cirugiasincicatrices.com
@@ -43977,7 +43870,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trinor-melvax-biz-jardel-vintor-sp7ct12.pages.dev
 0.0.0.0 triple7.net
 0.0.0.0 triplfinia.rest
-0.0.0.0 tripppy2color.info
 0.0.0.0 trippy9vibe.info
 0.0.0.0 tritibrays.cyou
 0.0.0.0 triticoid.site
@@ -44067,7 +43959,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tunell8ab.info
 0.0.0.0 tunemet33a.info
 0.0.0.0 tungsrepat.pro
-0.0.0.0 tunnell5cat.info
 0.0.0.0 turandka.com
 0.0.0.0 turanedu.org
 0.0.0.0 turbifibro.site
@@ -44223,7 +44114,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ultra-cda.pl
 0.0.0.0 ultra-netherex-ai.com
 0.0.0.0 ultraakademi.com
-0.0.0.0 ultrabirkenstockvillage.shop
 0.0.0.0 ultrakw.sbs
 0.0.0.0 ultranetherexaiapp.com
 0.0.0.0 ultras7eed.info
@@ -44241,7 +44131,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 umarhillman.shop
 0.0.0.0 umbralzevryth.com
 0.0.0.0 umeth.vi-crafts.com
-0.0.0.0 umidiperco.site
 0.0.0.0 umitcaliskan.com
 0.0.0.0 umiya-ledger.net
 0.0.0.0 umowmy-sie-teraz.pl
@@ -44324,7 +44213,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 upranorge.xyz
 0.0.0.0 upsilonnexifyapp.com
 0.0.0.0 upstateplatters.com
-0.0.0.0 uptisemis.site
 0.0.0.0 upvod.pl
 0.0.0.0 uqhd2ln.top
 0.0.0.0 urasmakina.com
@@ -44754,7 +44642,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinted.64738.me
 0.0.0.0 vinted.64875.vu
 0.0.0.0 vinted.65352.icu
-0.0.0.0 vinted.67013.click
 0.0.0.0 vinted.73010.click
 0.0.0.0 vinted.073250.click
 0.0.0.0 vinted.73284.click
@@ -44777,9 +44664,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinted.89475.vu
 0.0.0.0 vinted.93282dj236cdj282783h.sbs
 0.0.0.0 vinted.93410.click
-0.0.0.0 vinted.95271.icu
 0.0.0.0 vinted.95482.vu
-0.0.0.0 vinted.98364.me
 0.0.0.0 vinted.195739.vu
 0.0.0.0 vinted.329451.click
 0.0.0.0 vinted.373773.click
@@ -45096,7 +44981,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vinted.pl-oferta004399439294035.sbs
 0.0.0.0 vinted.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 vinted.pl-oferta-2356727.cfd
-0.0.0.0 vinted.pl-oferta-7940917277.shop
 0.0.0.0 vinted.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 vinted.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 vinted.pl-oferta-kategorie-polecane0293924.sbs
@@ -45226,7 +45110,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 viralon.icu
 0.0.0.0 viralpulsewire.pro
 0.0.0.0 virellonexa.com
-0.0.0.0 virelostaquandimeraxus.mom
 0.0.0.0 vireon-solvar.net
 0.0.0.0 virexanode.world
 0.0.0.0 virexulantemo.cloud
@@ -45564,7 +45447,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 weighinginstruments.com
 0.0.0.0 weighingtransmitters.com
 0.0.0.0 weightlifting-equipment.com
-0.0.0.0 weisetasse.pro
 0.0.0.0 weleedersdisco69urageable.info
 0.0.0.0 wellneekneebrace.com
 0.0.0.0 wellnesswarrior52d.info
@@ -45705,7 +45587,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 woocommerceapp.com
 0.0.0.0 wood-watches.com
 0.0.0.0 woodcodel.info
-0.0.0.0 woodcveris.site
 0.0.0.0 woodfilml.info
 0.0.0.0 woodnewsl.info
 0.0.0.0 woodworkingplans408d.info
@@ -45802,7 +45683,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.1n8ost.a4iyzn.icu
 0.0.0.0 www.1n8ost.a9uagf.bond
 0.0.0.0 www.1n8ost.bd4oyu.cyou
-0.0.0.0 www.1n8ost.be7njf.bond
 0.0.0.0 www.1n8ost.em9xdq.icu
 0.0.0.0 www.1n8ost.fb5ali.hair
 0.0.0.0 www.1n8ost.hy7vpk.cyou
@@ -46030,6 +45910,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.48uu2.top
 0.0.0.0 www.48uu3.top
 0.0.0.0 www.48uu20.top
+0.0.0.0 www.50gg.us
 0.0.0.0 www.51r2drd.icu
 0.0.0.0 www.53gteg.icu
 0.0.0.0 www.53uu1.top
@@ -46290,7 +46171,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.433493asai.cyou
 0.0.0.0 www.435467.weebly.com
 0.0.0.0 www.478632.top
-0.0.0.0 www.491023.cfd
 0.0.0.0 www.500020.icu
 0.0.0.0 www.510919si1-1.cfd
 0.0.0.0 www.510919x8u.cfd
@@ -46327,10 +46207,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.6095833dfiu1.sbs
 0.0.0.0 www.6338491.click
 0.0.0.0 www.6834634.cyou
-0.0.0.0 www.7764664.cfd
 0.0.0.0 www.9523827ssa1.sbs
 0.0.0.0 www.32000827yqwtudi622.top
-0.0.0.0 www.38436532.icu
 0.0.0.0 www.41651651.sbs
 0.0.0.0 www.45322662.weebly.com
 0.0.0.0 www.51519158s8sjs18.cfd
@@ -46576,7 +46454,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.agingperspectives.xyz
 0.0.0.0 www.agingresearch.xyz
 0.0.0.0 www.agirlikindikatoru.com
-0.0.0.0 www.agpetroleum.com
 0.0.0.0 www.agrasya.net
 0.0.0.0 www.agreatcustomerservice.com
 0.0.0.0 www.agrit.online
@@ -46822,7 +46699,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.alebilet.63738.vu
 0.0.0.0 www.alebilet.64738.me
 0.0.0.0 www.alebilet.65352.icu
-0.0.0.0 www.alebilet.67013.click
 0.0.0.0 www.alebilet.72648.me
 0.0.0.0 www.alebilet.72846.me
 0.0.0.0 www.alebilet.72848.me
@@ -46837,7 +46713,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.alebilet.78128.me
 0.0.0.0 www.alebilet.78246.me
 0.0.0.0 www.alebilet.78495.cyou
-0.0.0.0 www.alebilet.78621.me
 0.0.0.0 www.alebilet.80173.click
 0.0.0.0 www.alebilet.82104.click
 0.0.0.0 www.alebilet.83610.click
@@ -46848,9 +46723,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.alebilet.89475.vu
 0.0.0.0 www.alebilet.93282dj236cdj282783h.sbs
 0.0.0.0 www.alebilet.93410.click
-0.0.0.0 www.alebilet.95271.icu
 0.0.0.0 www.alebilet.95482.vu
-0.0.0.0 www.alebilet.98364.me
 0.0.0.0 www.alebilet.195739.vu
 0.0.0.0 www.alebilet.329451.click
 0.0.0.0 www.alebilet.373773.click
@@ -47166,7 +47039,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.alebilet.pl-oferta929219191938013.sbs
 0.0.0.0 www.alebilet.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 www.alebilet.pl-oferta-2356727.cfd
-0.0.0.0 www.alebilet.pl-oferta-7940917277.shop
 0.0.0.0 www.alebilet.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 www.alebilet.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 www.alebilet.pl-oferta-kategorie-polecane0293924.sbs
@@ -47317,7 +47189,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.algorithmefinancier.net
 0.0.0.0 www.algosone-app.net
 0.0.0.0 www.algosoneai.net
-0.0.0.0 www.algtur.com
 0.0.0.0 www.algungida.com
 0.0.0.0 www.alhalaftravel.com
 0.0.0.0 www.alialtamoda.com
@@ -47590,7 +47461,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegro.64738.me
 0.0.0.0 www.allegro.64875.vu
 0.0.0.0 www.allegro.65352.icu
-0.0.0.0 www.allegro.67013.click
 0.0.0.0 www.allegro.69287ayaya.cyou
 0.0.0.0 www.allegro.69346.cfd
 0.0.0.0 www.allegro.72534.icu
@@ -47629,7 +47499,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegro.93410.click
 0.0.0.0 www.allegro.93535-53099.click
 0.0.0.0 www.allegro.95482.vu
-0.0.0.0 www.allegro.98364.me
 0.0.0.0 www.allegro.98765ty6.cyou
 0.0.0.0 www.allegro.195739.vu
 0.0.0.0 www.allegro.291878s999sss.cfd
@@ -47649,7 +47518,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegro.528884.click
 0.0.0.0 www.allegro.538391.click
 0.0.0.0 www.allegro.547910.vu
-0.0.0.0 www.allegro.593421.cfd
 0.0.0.0 www.allegro.612941.click
 0.0.0.0 www.allegro.627491.click
 0.0.0.0 www.allegro.629361.click
@@ -47664,7 +47532,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegro.748392.vu
 0.0.0.0 www.allegro.785403.vu
 0.0.0.0 www.allegro.826546.click
-0.0.0.0 www.allegro.832142.cfd
 0.0.0.0 www.allegro.883257.click
 0.0.0.0 www.allegro.894785.vu
 0.0.0.0 www.allegro.903847.vu
@@ -47997,7 +47864,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegro.pl-oferta929219191938013.sbs
 0.0.0.0 www.allegro.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 www.allegro.pl-oferta-2356727.cfd
-0.0.0.0 www.allegro.pl-oferta-7940917277.shop
 0.0.0.0 www.allegro.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 www.allegro.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 www.allegro.pl-oferta-kategorie-polecane0293924.sbs
@@ -48192,7 +48058,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrobuy.top
 0.0.0.0 www.allegrolaknie.pl-530872.sbs
 0.0.0.0 www.allegrolokainie.31924.icu
-0.0.0.0 www.allegrolokainie.95271.icu
 0.0.0.0 www.allegrolokainie.conformation-122.shop
 0.0.0.0 www.allegrolokainie.conformation-123.shop
 0.0.0.0 www.allegrolokainie.conformation-124.shop
@@ -48397,14 +48262,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.0e928d9197fj28422.sbs
 0.0.0.0 www.allegrolokalnie.01hs7819681bdh1973891.cfd
 0.0.0.0 www.allegrolokalnie.2o04rj33902dh282742.sbs
-0.0.0.0 www.allegrolokalnie.3i34me2oz.sbs
 0.0.0.0 www.allegrolokalnie.8dfjd732hw1923383.sbs
 0.0.0.0 www.allegrolokalnie.9deu28y2y3h2912e28232.cfd
 0.0.0.0 www.allegrolokalnie.20d82b38dh28dn3.sbs
 0.0.0.0 www.allegrolokalnie.028d2h1884jdi2074d3.sbs
 0.0.0.0 www.allegrolokalnie.34ogvdsmcsake.sbs
 0.0.0.0 www.allegrolokalnie.43kvdjxsjsoe.sbs
-0.0.0.0 www.allegrolokalnie.65oj4ldv.sbs
+0.0.0.0 www.allegrolokalnie.45gkdmsdj34.sbs
 0.0.0.0 www.allegrolokalnie.78x62278xi288122.sbs
 0.0.0.0 www.allegrolokalnie.82djw2928401jso20ujr2.sbs
 0.0.0.0 www.allegrolokalnie.92ueh2919f2j42.cfd
@@ -48461,7 +48325,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.64875.vu
 0.0.0.0 www.allegrolokalnie.65352.icu
 0.0.0.0 www.allegrolokalnie.65865.store
-0.0.0.0 www.allegrolokalnie.67013.click
 0.0.0.0 www.allegrolokalnie.72648.me
 0.0.0.0 www.allegrolokalnie.72846.me
 0.0.0.0 www.allegrolokalnie.72848.me
@@ -48481,7 +48344,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.78128.me
 0.0.0.0 www.allegrolokalnie.78246.me
 0.0.0.0 www.allegrolokalnie.78495.cyou
-0.0.0.0 www.allegrolokalnie.78621.me
 0.0.0.0 www.allegrolokalnie.78902.net
 0.0.0.0 www.allegrolokalnie.80173.click
 0.0.0.0 www.allegrolokalnie.82104.click
@@ -48498,14 +48360,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.93410.click
 0.0.0.0 www.allegrolokalnie.94520.vu
 0.0.0.0 www.allegrolokalnie.95482.vu
-0.0.0.0 www.allegrolokalnie.98364.me
 0.0.0.0 www.allegrolokalnie.195739.vu
 0.0.0.0 www.allegrolokalnie.294732.click
 0.0.0.0 www.allegrolokalnie.329451.click
 0.0.0.0 www.allegrolokalnie.373773.click
 0.0.0.0 www.allegrolokalnie.425372.click
 0.0.0.0 www.allegrolokalnie.478632.top
-0.0.0.0 www.allegrolokalnie.491023.cfd
 0.0.0.0 www.allegrolokalnie.520470.click
 0.0.0.0 www.allegrolokalnie.523244.click
 0.0.0.0 www.allegrolokalnie.525613.click
@@ -48513,7 +48373,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.528884.click
 0.0.0.0 www.allegrolokalnie.538391.click
 0.0.0.0 www.allegrolokalnie.547910.vu
-0.0.0.0 www.allegrolokalnie.593421.cfd
 0.0.0.0 www.allegrolokalnie.612941.click
 0.0.0.0 www.allegrolokalnie.615116.click
 0.0.0.0 www.allegrolokalnie.627491.click
@@ -48529,7 +48388,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.748392.vu
 0.0.0.0 www.allegrolokalnie.785403.vu
 0.0.0.0 www.allegrolokalnie.826546.click
-0.0.0.0 www.allegrolokalnie.832142.cfd
 0.0.0.0 www.allegrolokalnie.836210.vu
 0.0.0.0 www.allegrolokalnie.856340oferta.sbs
 0.0.0.0 www.allegrolokalnie.883257.click
@@ -48550,7 +48408,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.8877342.click
 0.0.0.0 www.allegrolokalnie.9125125.click
 0.0.0.0 www.allegrolokalnie.34862323.icu
-0.0.0.0 www.allegrolokalnie.38436532.icu
 0.0.0.0 www.allegrolokalnie.63667193.click
 0.0.0.0 www.allegrolokalnie.72838368.cfd
 0.0.0.0 www.allegrolokalnie.76886340oferta.sbs
@@ -48625,12 +48482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.elektronika.lol
 0.0.0.0 www.allegrolokalnie.g5kdjscjjg4.sbs
 0.0.0.0 www.allegrolokalnie.hlppt.sbs
-0.0.0.0 www.allegrolokalnie.jvdfjao32kd.rest
 0.0.0.0 www.allegrolokalnie.k3op4ksd2.sbs
-0.0.0.0 www.allegrolokalnie.k34oqkwe.sbs
-0.0.0.0 www.allegrolokalnie.kdachjahs13.sbs
-0.0.0.0 www.allegrolokalnie.kf0eadjdj3.sbs
-0.0.0.0 www.allegrolokalnie.kfjsdha41.sbs
 0.0.0.0 www.allegrolokalnie.kfkdakzo2oa.sbs
 0.0.0.0 www.allegrolokalnie.khh745jng45nioi05kahehb7o6achf.icu
 0.0.0.0 www.allegrolokalnie.mv4fdjsk23.sbs
@@ -48859,6 +48711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.pl-90540.cfd
 0.0.0.0 www.allegrolokalnie.pl-90541.icu
 0.0.0.0 www.allegrolokalnie.pl-091033.icu
+0.0.0.0 www.allegrolokalnie.pl-91332.cfd
 0.0.0.0 www.allegrolokalnie.pl-093108.rest
 0.0.0.0 www.allegrolokalnie.pl-096436.cfd
 0.0.0.0 www.allegrolokalnie.pl-98613.sbs
@@ -49032,6 +48885,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.pl-7753124.top
 0.0.0.0 www.allegrolokalnie.pl-8215552lajeyyw71614153jagatgbfb7ff.sbs
 0.0.0.0 www.allegrolokalnie.pl-8232345.sbs
+0.0.0.0 www.allegrolokalnie.pl-8340940.icu
+0.0.0.0 www.allegrolokalnie.pl-8363739.cfd
 0.0.0.0 www.allegrolokalnie.pl-8371291.cfd
 0.0.0.0 www.allegrolokalnie.pl-8390127.rest
 0.0.0.0 www.allegrolokalnie.pl-8541527.icu
@@ -49128,7 +48983,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.pl-4537492324.sbs
 0.0.0.0 www.allegrolokalnie.pl-4734902034.cfd
 0.0.0.0 www.allegrolokalnie.pl-4839408234.cfd
-0.0.0.0 www.allegrolokalnie.pl-4917382596.cfd
 0.0.0.0 www.allegrolokalnie.pl-6723457899.icu
 0.0.0.0 www.allegrolokalnie.pl-8372093245.sbs
 0.0.0.0 www.allegrolokalnie.pl-8378632356.cfd
@@ -49207,6 +49061,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.pl-oferta5236.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta16171.cfd
 0.0.0.0 www.allegrolokalnie.pl-oferta16171.icu
+0.0.0.0 www.allegrolokalnie.pl-oferta19062.cfd
 0.0.0.0 www.allegrolokalnie.pl-oferta21371.icu
 0.0.0.0 www.allegrolokalnie.pl-oferta21953-apple-watch-ultra-3-nowy.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta23123.sbs
@@ -49373,7 +49228,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.pl-oferta929219191938013.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 www.allegrolokalnie.pl-oferta-2356727.cfd
-0.0.0.0 www.allegrolokalnie.pl-oferta-7940917277.shop
 0.0.0.0 www.allegrolokalnie.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta-kategorie-polecane0293924.sbs
@@ -49406,7 +49260,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.allegrolokalnie.pl-smart27451.sbs
 0.0.0.0 www.allegrolokalnie.pl-smart27491.sbs
 0.0.0.0 www.allegrolokalnie.pl-smart27520.sbs
-0.0.0.0 www.allegrolokalnie.pl-smart28157.sbs
 0.0.0.0 www.allegrolokalnie.pl-smart34541.sbs
 0.0.0.0 www.allegrolokalnie.pl-smart43534.sbs
 0.0.0.0 www.allegrolokalnie.pl-smart43543.sbs
@@ -49619,7 +49472,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.alo-electrice.ro
 0.0.0.0 www.alohasoftware.net
 0.0.0.0 www.alokazasovtaj.com
-0.0.0.0 www.aloyakit.com
 0.0.0.0 www.alpaka.sbs
 0.0.0.0 www.alpbitproapp.com
 0.0.0.0 www.alpbitrex.net
@@ -49667,7 +49519,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.altisonamusic.com
 0.0.0.0 www.altrix-spotpro.com
 0.0.0.0 www.altugtasarim.online
-0.0.0.0 www.altunmaral.com
 0.0.0.0 www.altusmonvex-app.com
 0.0.0.0 www.alumachainex.com
 0.0.0.0 www.alummen.com
@@ -50106,7 +49957,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.attovreinv.homes
 0.0.0.0 www.attractionmarketing.com
 0.0.0.0 www.attractsteadyclients.com
-0.0.0.0 www.attributesgreen.krystenvonk.com
 0.0.0.0 www.attririnfo.sbs
 0.0.0.0 www.atturmonda.site
 0.0.0.0 www.atyourownpacecamps.com
@@ -50243,7 +50093,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ayaia.com
 0.0.0.0 www.aycanarik.com
 0.0.0.0 www.ayenzueccel.rest
-0.0.0.0 www.ayfaicdisticaret.com
 0.0.0.0 www.aygensigorta.com
 0.0.0.0 www.ayhansobaci.com
 0.0.0.0 www.ayisigihaltingplace.org
@@ -50365,7 +50214,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.base-vod.pl
 0.0.0.0 www.basharapsn.info
 0.0.0.0 www.basilmokiti.world
-0.0.0.0 www.baskabirbodrum.com
 0.0.0.0 www.bassthompson.com
 0.0.0.0 www.bastamarrakech.com
 0.0.0.0 www.bastiaomontanario.com
@@ -50520,6 +50368,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.beytepedis.com
 0.0.0.0 www.bezotex.com
 0.0.0.0 www.bfy.uih.mybluehost.me
+0.0.0.0 www.bgcdbzaxzmmch.site
 0.0.0.0 www.bgmimobiles.shop
 0.0.0.0 www.bharatprosperity.com
 0.0.0.0 www.bhishgripp.site
@@ -50557,7 +50406,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bilgininanahtari.net
 0.0.0.0 www.bilimkurgu.org
 0.0.0.0 www.bilimsmmm.com
-0.0.0.0 www.bilisimselodyoloji.net
 0.0.0.0 www.bilisimselodyolojidernegi.org
 0.0.0.0 www.bilkentoptik.net
 0.0.0.0 www.billing.id-auth98426.com
@@ -50756,7 +50604,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.biyervarmi.com
 0.0.0.0 www.biyolojikdishekimligi.org
 0.0.0.0 www.biyomimetikenstitusu.com
-0.0.0.0 www.bizekadar.com
 0.0.0.0 www.biznes-gov-pl.netlify.app
 0.0.0.0 www.biznesmonitor.com
 0.0.0.0 www.biztrakmsb.com
@@ -51151,6 +50998,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.buildingideash.info
 0.0.0.0 www.bujuni.online
 0.0.0.0 www.bulentcansu.net
+0.0.0.0 www.bulicagghi.rest
 0.0.0.0 www.bulk-shop.com
 0.0.0.0 www.bulletinlumen.com
 0.0.0.0 www.bullkraxt.com
@@ -51514,7 +51362,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.chicthriftao.shop
 0.0.0.0 www.chiefunity.org
 0.0.0.0 www.chilidemag.world
-0.0.0.0 www.chilll6zone.info
 0.0.0.0 www.chillll2vibe.info
 0.0.0.0 www.chilllounge.info
 0.0.0.0 www.chillwearland.store
@@ -51726,7 +51573,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cloudinvestapp.com
 0.0.0.0 www.cloudkitchensdirectory.com
 0.0.0.0 www.cloudlyte.info
-0.0.0.0 www.cloudrglad.projectgabriel.com
 0.0.0.0 www.cloudtwin.buzz
 0.0.0.0 www.cloudwoodd.info
 0.0.0.0 www.cloudywavee.info
@@ -51836,7 +51682,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.concubethu.pro
 0.0.0.0 www.condiincol.world
 0.0.0.0 www.condimanic.homes
-0.0.0.0 www.condo.securityservicecr.com
 0.0.0.0 www.condrebitappai.com
 0.0.0.0 www.conect3nt-x.xyz
 0.0.0.0 www.confeciuff.world
@@ -51974,7 +51819,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cornfmcco.world
 0.0.0.0 www.cornixadaptive.com
 0.0.0.0 www.corona-schnelltest-neuss.de
-0.0.0.0 www.corpomalod.site
 0.0.0.0 www.corporategroupcoach.com
 0.0.0.0 www.correspondencesdill.eqoox.com
 0.0.0.0 www.corthiqember-aiapp.com
@@ -52057,7 +51901,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.crowntradeai.com
 0.0.0.0 www.crowwwd.info
 0.0.0.0 www.cruei.store
-0.0.0.0 www.crunccchy3chip.info
 0.0.0.0 www.crunchybytee.info
 0.0.0.0 www.crushfall.com
 0.0.0.0 www.crussh.info
@@ -52283,7 +52126,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dappxsecure.click
 0.0.0.0 www.daranthovexalimorendisthela.mom
 0.0.0.0 www.darkcartx.com
-0.0.0.0 www.darklab-suplemento.online
 0.0.0.0 www.darkridgeventures.info
 0.0.0.0 www.darkwaterlabs.live
 0.0.0.0 www.darmelistanorvexialto.rest
@@ -52380,7 +52222,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.decerscult.pro
 0.0.0.0 www.decimpolis.site
 0.0.0.0 www.decisionpage2025.cfd
-0.0.0.0 www.deckiguard.mrhealerbd.com
 0.0.0.0 www.decktradeproapp.com
 0.0.0.0 www.declavero.news
 0.0.0.0 www.declierbor.homes
@@ -52479,7 +52320,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.deprevezze.world
 0.0.0.0 www.dercoline.com
 0.0.0.0 www.derekchimneycleaningbostonia.online
-0.0.0.0 www.dericim.com
 0.0.0.0 www.derinceotelleri.com
 0.0.0.0 www.deringlobalmedya.com
 0.0.0.0 www.deriv.com
@@ -52520,7 +52360,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.devplaytv.sbs
 0.0.0.0 www.dewdampubugre.com
 0.0.0.0 www.dewit6.online
-0.0.0.0 www.dexamide.com
 0.0.0.0 www.dexaviomoana-engine.com
 0.0.0.0 www.dexavorline.cloud
 0.0.0.0 www.dexofinance.com
@@ -52538,7 +52377,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dfhoim5asfa.lat
 0.0.0.0 www.dfihn45safa.lol
 0.0.0.0 www.dfiles.shareboxr.site
-0.0.0.0 www.dfnlab.com
 0.0.0.0 www.dfuzzer.com
 0.0.0.0 www.dgtmarket.com
 0.0.0.0 www.dh2829274jh18821h8h23.sbs
@@ -52562,7 +52400,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.dietguideh.info
 0.0.0.0 www.diffainves.homes
-0.0.0.0 www.diffrrispe.site
 0.0.0.0 www.diffufable.site
 0.0.0.0 www.dig8srs7dv7t5.cloudfront.net
 0.0.0.0 www.digammasmlli70lle.info
@@ -52837,7 +52674,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.drivonexera.world
 0.0.0.0 www.drizzleer6sky.info
 0.0.0.0 www.drizzler5cloud.info
-0.0.0.0 www.drizzly4rain.info
 0.0.0.0 www.drizzzy7drop.info
 0.0.0.0 www.drltransport.org
 0.0.0.0 www.drluisfloresherna.com
@@ -52849,7 +52685,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.drogerienaturas.sbs
 0.0.0.0 www.drogerienaturashop.sbs
 0.0.0.0 www.droolingsurgery.com
-0.0.0.0 www.drop-delivery.online
 0.0.0.0 www.droxovizz.net
 0.0.0.0 www.droxovizzapp.com
 0.0.0.0 www.drpecs.com
@@ -52921,6 +52756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.dzieci-rodzina.store
 0.0.0.0 www.dzieci-rodzinapl.sbs
 0.0.0.0 www.dzieci-rodzinapl.shop
+0.0.0.0 www.dzieci.ch-svip.sbs
 0.0.0.0 www.dzieciecyrajvip.shop
 0.0.0.0 www.dziecko-informacje-wiadomosci.com
 0.0.0.0 www.dziennik.warszawa.pl
@@ -52939,6 +52775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.e-kinotv.pl
 0.0.0.0 www.e-kira.net
 0.0.0.0 www.e-maillhackks.icu
+0.0.0.0 www.eaca-eaen.com
 0.0.0.0 www.eaconomyapp.com
 0.0.0.0 www.eaddr.mejores3.com
 0.0.0.0 www.eaebuy.com
@@ -53026,7 +52863,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.edutipsh.info
 0.0.0.0 www.eecsandiego.com
 0.0.0.0 www.eefiuejj.sbs
-0.0.0.0 www.eekolay.com
 0.0.0.0 www.efbilisim.org
 0.0.0.0 www.efebeyambalaj.com
 0.0.0.0 www.efficacefundexis.com
@@ -53225,7 +53061,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.enchantevent.com
 0.0.0.0 www.encomposite.com
 0.0.0.0 www.encontracaixa.online
-0.0.0.0 www.encriforti.site
 0.0.0.0 www.endecimmis.world
 0.0.0.0 www.endocsinis.site
 0.0.0.0 www.endodalcal.pro
@@ -53333,7 +53168,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.erinanc.com
 0.0.0.0 www.erk-group.com
 0.0.0.0 www.erkhaberlesme.net
-0.0.0.0 www.erkmenler.com
 0.0.0.0 www.erkockalip.net
 0.0.0.0 www.erkutaynuhoglu.com
 0.0.0.0 www.ermankayar.com
@@ -53622,7 +53456,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.faacademie.com
 0.0.0.0 www.fabezuhoro.com
 0.0.0.0 www.fableforgeg.info
-0.0.0.0 www.fabry.shop
 0.0.0.0 www.fabuhosedgelli.cloud
 0.0.0.0 www.fabzy.shop
 0.0.0.0 www.facardeuck.com
@@ -53748,7 +53581,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fenal-jorin-biz-samon-qevor-nd12kt12.pages.dev
 0.0.0.0 www.fencelogic.net
 0.0.0.0 www.fendorelxamithuralendovia.cyou
-0.0.0.0 www.fendrevalonisthelumera.mom
 0.0.0.0 www.fenextor-app.net
 0.0.0.0 www.fenoraxivulme.cloud
 0.0.0.0 www.fenorixtrader84ai.com
@@ -53782,7 +53614,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fexotuvanexapp.com
 0.0.0.0 www.fexovion.net
 0.0.0.0 www.fexyciy.com
-0.0.0.0 www.feyzaakgul.com
 0.0.0.0 www.fgenergy.pl
 0.0.0.0 www.fggtyr644.lacastillo.workers.dev
 0.0.0.0 www.fgh54imgv.lol
@@ -53805,14 +53636,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.figmanagement.store
 0.0.0.0 www.fignoreced.world
 0.0.0.0 www.figoodemekurulusu.com
-0.0.0.0 www.figopeople.com
 0.0.0.0 www.figoscore.com
 0.0.0.0 www.fikiryayinlari.com
 0.0.0.0 www.fikrflow.online
 0.0.0.0 www.fikrimucit.net
 0.0.0.0 www.filamcapit.site
 0.0.0.0 www.filanfalan.com
-0.0.0.0 www.filatbalne.site
 0.0.0.0 www.file2host41.cfd
 0.0.0.0 www.file142host355.cyou
 0.0.0.0 www.file-share365.com
@@ -53875,7 +53704,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.filmzadarmoqgs69.ek1.pl
 0.0.0.0 www.filmzlektoremrqb69.ek1.pl
 0.0.0.0 www.filoaerbor.homes
-0.0.0.0 www.filsanfiltre.com
 0.0.0.0 www.filyosemlak.org
 0.0.0.0 www.fimpleir.com
 0.0.0.0 www.finaltura.net
@@ -54023,7 +53851,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fizyoform.org
 0.0.0.0 www.fizyokul.com
 0.0.0.0 www.fizyolands.com
-0.0.0.0 www.fizyoritimmersin.com
 0.0.0.0 www.fizyotown.com
 0.0.0.0 www.fizzion.info
 0.0.0.0 www.fizzler1pop.info
@@ -54057,7 +53884,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.flipimp.thinklikewarrenbuffett.com
 0.0.0.0 www.flipp3fish.info
 0.0.0.0 www.flipplayer.com
-0.0.0.0 www.flippyy2coin.info
 0.0.0.0 www.flirtdate.cfd
 0.0.0.0 www.flirtmatch.space
 0.0.0.0 www.flirtrix.online
@@ -54179,7 +54005,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.forvetgiyim.com
 0.0.0.0 www.forwardhub.site
 0.0.0.0 www.foseptiktankfiyatlari.net
-0.0.0.0 www.foseptiktankifiyatlari.com
 0.0.0.0 www.fossfuse.net
 0.0.0.0 www.fotogscapi.world
 0.0.0.0 www.fourcrab.com
@@ -54223,7 +54048,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fresheggsg.info
 0.0.0.0 www.freshfindg.info
 0.0.0.0 www.freshforexapp.com
-0.0.0.0 www.freshgreyjeepthrone.com
 0.0.0.0 www.freshharvestg.info
 0.0.0.0 www.freshhflower.info
 0.0.0.0 www.freshhive.info
@@ -54382,7 +54206,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fyvexlabfin-app.com
 0.0.0.0 www.fyvexlabfin-software.com
 0.0.0.0 www.fzygrup.com
-0.0.0.0 www.fzyworld.com
 0.0.0.0 www.g0m2wd.sbs
 0.0.0.0 www.g5fpgu.cyou
 0.0.0.0 www.ga20ugerunleasddhed.info
@@ -54458,13 +54281,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.gawelda.pl
 0.0.0.0 www.gazelliniproperty.com
 0.0.0.0 www.gazetaly.com
-0.0.0.0 www.gazibank.com
 0.0.0.0 www.gcesab.com
 0.0.0.0 www.gcgfinancespain.com
 0.0.0.0 www.gdanskkwiatyru.pro
 0.0.0.0 www.gdzieonline.pl
 0.0.0.0 www.gebiton.org
-0.0.0.0 www.gebkimkariyer.com
 0.0.0.0 www.gebroluxproapp.net
 0.0.0.0 www.gebronexapp.com
 0.0.0.0 www.gebruiker158235.icu
@@ -54551,7 +54372,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ggbet.world
 0.0.0.0 www.ggbets.pl
 0.0.0.0 www.ggbetss.com
-0.0.0.0 www.ggclub.shop
 0.0.0.0 www.ggiigug3-3g3.cyou
 0.0.0.0 www.gh7en3ws.eu
 0.0.0.0 www.gh65iomhda.lol
@@ -54631,7 +54451,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.globalmenkuldegerler.net
 0.0.0.0 www.globalpulseg.info
 0.0.0.0 www.globalpulsehubpro.com
-0.0.0.0 www.globalreklamajans.com
 0.0.0.0 www.globalsafezone.com
 0.0.0.0 www.globaltrendg.info
 0.0.0.0 www.globuabbot.world
@@ -54890,7 +54709,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.graphicdigitizing.com
 0.0.0.0 www.graphiterosenews.top
 0.0.0.0 www.grassboxer.pro
-0.0.0.0 www.grassy8meadow.info
 0.0.0.0 www.graticerar.site
 0.0.0.0 www.grattvitic.world
 0.0.0.0 www.gravenostelirandoxia.cyou
@@ -55106,7 +54924,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.happyhomeh.info
 0.0.0.0 www.happyolive.cogent-management.com
 0.0.0.0 www.happytrailss.info
-0.0.0.0 www.happyy5face.info
 0.0.0.0 www.happyysong.info
 0.0.0.0 www.happyytrail.info
 0.0.0.0 www.happyytune.info
@@ -55197,9 +55014,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.help.activityid36120business.cfd
 0.0.0.0 www.help.verifiedpagesupport.cfd
 0.0.0.0 www.helpful-environment-820901.framer.app
+0.0.0.0 www.helpmsg.odspecs.com
 0.0.0.0 www.helpmydisney.com
+0.0.0.0 www.helpslr.odspecs.com
 0.0.0.0 www.helpunit-portal-265851.netlify.app
 0.0.0.0 www.helpwithledgerdevice.com
+0.0.0.0 www.helpywm.odspecs.com
 0.0.0.0 www.helvaciali.net
 0.0.0.0 www.helvaronextis.cloud
 0.0.0.0 www.helveslacc.site
@@ -56178,7 +55998,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ipko.pl-client-beta-external-secure.pro
 0.0.0.0 www.ipko.pl-dev-apps-auth-ai.pro
 0.0.0.0 www.ipko.pl-main-stage-client-api.pro
-0.0.0.0 www.ipko.pl-management-alpha-server-api-gateway.pro
 0.0.0.0 www.ipko.pl-stage-service-server-management.pro
 0.0.0.0 www.ipko.vh13772.vh.net.pl
 0.0.0.0 www.ipkoblznes-app.com
@@ -56353,7 +56172,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jannatkhah.ir
 0.0.0.0 www.jansedesto.pro
 0.0.0.0 www.japanesereference.com
-0.0.0.0 www.jasmisbras.site
 0.0.0.0 www.jasnybitnex.com
 0.0.0.0 www.jasnybitralis-app.com
 0.0.0.0 www.jasnyprofinex.com
@@ -56363,7 +56181,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jazzed-account-099170.framer.app
 0.0.0.0 www.jazzmine.info
 0.0.0.0 www.jazzy-frangollo-9c7531.netlify.app
-0.0.0.0 www.jazzzy4band.info
 0.0.0.0 www.jazzzy8note.info
 0.0.0.0 www.jbnies02.com
 0.0.0.0 www.jcesv8kn.top
@@ -56477,7 +56294,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jzxgzqmlowotv.proyectocancionero.com
 0.0.0.0 www.k1v9xo.icu
 0.0.0.0 www.k2avab.hair
-0.0.0.0 www.k3ubay.hair
 0.0.0.0 www.k4xxll.website
 0.0.0.0 www.k7q0tc.icu
 0.0.0.0 www.k9gross.com
@@ -56684,16 +56500,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.komolot.gitlab.io
 0.0.0.0 www.kondratexapp.com
 0.0.0.0 www.konkursy.de
-0.0.0.0 www.konlasbayi.com
 0.0.0.0 www.kontoirozliczenia.com
 0.0.0.0 www.kontonet.pl
 0.0.0.0 www.kontrapedal.org
-0.0.0.0 www.konyaaltikresim.com
 0.0.0.0 www.konyamotokurye.com
 0.0.0.0 www.koopon.pl
 0.0.0.0 www.kopaniebitcoin.pl
 0.0.0.0 www.kordalunexima.world
-0.0.0.0 www.kornstrasm.site
 0.0.0.0 www.kosdkdfuxtnuw.website
 0.0.0.0 www.kotisamvidakali.top
 0.0.0.0 www.kou73myssssmama.info
@@ -56739,7 +56552,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kucukbutik.com
 0.0.0.0 www.kucukcekmecevidanjor.com
 0.0.0.0 www.kugufiderodilbu.cloud
-0.0.0.0 www.kuhimui.com
 0.0.0.0 www.kuiz114.com
 0.0.0.0 www.kulalusramag.net
 0.0.0.0 www.kulayatswen.lacastillo.workers.dev
@@ -56823,12 +56635,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.laoshug77-phrmgtaiy.site
 0.0.0.0 www.laoshug77-xipovic4.store
 0.0.0.0 www.laosongtou.com
-0.0.0.0 www.laospin-ling99.store
 0.0.0.0 www.laosvegas888-zense.site
 0.0.0.0 www.laparagita.site
 0.0.0.0 www.laparoskopidunyasi.com
 0.0.0.0 www.laptopy-komputery-naprawa.pl
-0.0.0.0 www.lararbounc.site
 0.0.0.0 www.larissalinhares.com.br
 0.0.0.0 www.larkintonwcity.com
 0.0.0.0 www.larkspurxhall.world
@@ -56923,7 +56733,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.lesleys-spare-domain.com
 0.0.0.0 www.lesomatonappai.net
 0.0.0.0 www.lessiservi.site
-0.0.0.0 www.lessuduhadore.digital
 0.0.0.0 www.letiznonco.site
 0.0.0.0 www.letsbewinners.com
 0.0.0.0 www.letsevaluateit.com
@@ -57486,7 +57295,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mindwerk-ai-software.com
 0.0.0.0 www.minerals.sank.com.de
 0.0.0.0 www.minerdispe.site
-0.0.0.0 www.miniwin.online
 0.0.0.0 www.minty5fresh.info
 0.0.0.0 www.miragainlink.com
 0.0.0.0 www.miroth-asset-forge.com
@@ -57631,7 +57439,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mqrewean.com
 0.0.0.0 www.mrunp.food-recipehub.com
 0.0.0.0 www.ms10be.be
-0.0.0.0 www.ms88jp.site
 0.0.0.0 www.msecapitalai.net
 0.0.0.0 www.msmodesales.shop
 0.0.0.0 www.msp-hack.com
@@ -57718,7 +57525,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nairatraderaiapp.com
 0.0.0.0 www.najlepszekonkursy.com
 0.0.0.0 www.najlepszewrozby.pl
-0.0.0.0 www.nakliyeavcilari.com
 0.0.0.0 www.nalchikalko24.shop
 0.0.0.0 www.nalviros-app.com
 0.0.0.0 www.nalvirosapp.com
@@ -57770,7 +57576,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.naveenkumars.com
 0.0.0.0 www.navelurixonto.world
 0.0.0.0 www.naver-ai.net
-0.0.0.0 www.naviathor.com
 0.0.0.0 www.navicincan.pro
 0.0.0.0 www.naviozz.top
 0.0.0.0 www.navorixelutra.cloud
@@ -58008,7 +57813,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nightlifezoneh.info
 0.0.0.0 www.nightvalefield.cloud
 0.0.0.0 www.nigronfirl.com
-0.0.0.0 www.nihansaray.com
 0.0.0.0 www.nikodemus-klienci.pl
 0.0.0.0 www.nikonolihopvigu.world
 0.0.0.0 www.nildenaksoy.com
@@ -58099,7 +57903,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nordixvarel.com
 0.0.0.0 www.norevalithen.world
 0.0.0.0 www.noritexpro.net
-0.0.0.0 www.normadoor.com
 0.0.0.0 www.normasofia.shop
 0.0.0.0 www.noroimmunolojisempozyumu.org
 0.0.0.0 www.noromodulasyonsempozyumu.org
@@ -58206,6 +58009,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nowchange.cyou
 0.0.0.0 www.nowchange.icu
 0.0.0.0 www.nowe-03-01-26-pl.top
+0.0.0.0 www.nowe-06-01-25.top
 0.0.0.0 www.nowe-08-12-25-pl.click
 0.0.0.0 www.nowe-19-12-25-pl.top
 0.0.0.0 www.nowe-23-12-25-pl.top
@@ -58240,7 +58044,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nureddincerrahi.com
 0.0.0.0 www.nurkonaksigorta.com
 0.0.0.0 www.nurlucephe.com
-0.0.0.0 www.nurtab.com
 0.0.0.0 www.nusatlaru.world
 0.0.0.0 www.nutalavihem.com
 0.0.0.0 www.nutrielect.world
@@ -58458,6 +58261,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.827e4892719h72u7139310.cfd
 0.0.0.0 www.olx.915-219azj.cfd
 0.0.0.0 www.olx.915j11810.cyou
+0.0.0.0 www.olx.917w7ah6716ej171.sbs
 0.0.0.0 www.olx.927sj2719fh38yh2e3.cfd
 0.0.0.0 www.olx.954ghjkprytanke.sbs
 0.0.0.0 www.olx.00983.click
@@ -58533,7 +58337,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.64738.me
 0.0.0.0 www.olx.64875.vu
 0.0.0.0 www.olx.65352.icu
-0.0.0.0 www.olx.67013.click
 0.0.0.0 www.olx.69287ayaya.cyou
 0.0.0.0 www.olx.69346.cfd
 0.0.0.0 www.olx.72534.icu
@@ -58570,9 +58373,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.93282dj236cdj282783h.sbs
 0.0.0.0 www.olx.93410.click
 0.0.0.0 www.olx.93535-53099.click
-0.0.0.0 www.olx.95271.icu
 0.0.0.0 www.olx.95482.vu
-0.0.0.0 www.olx.98364.me
 0.0.0.0 www.olx.98765ty6.cyou
 0.0.0.0 www.olx.195739.vu
 0.0.0.0 www.olx.291878s999sss.cfd
@@ -58592,7 +58393,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.528884.click
 0.0.0.0 www.olx.538391.click
 0.0.0.0 www.olx.547910.vu
-0.0.0.0 www.olx.593421.cfd
 0.0.0.0 www.olx.612941.click
 0.0.0.0 www.olx.627491.click
 0.0.0.0 www.olx.629361.click
@@ -58607,7 +58407,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.748392.vu
 0.0.0.0 www.olx.785403.vu
 0.0.0.0 www.olx.826546.click
-0.0.0.0 www.olx.832142.cfd
 0.0.0.0 www.olx.883257.click
 0.0.0.0 www.olx.894785.vu
 0.0.0.0 www.olx.903847.vu
@@ -58722,9 +58521,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.oferta-947195415.icu
 0.0.0.0 www.olx.oferty-narzedzia-127362.cfd
 0.0.0.0 www.olx.offer92541.icu
-0.0.0.0 www.olx.ogl-293584.org
-0.0.0.0 www.olx.ogl-293586.org
-0.0.0.0 www.olx.ogl-293889.sbs
 0.0.0.0 www.olx.ogl-294584.org
 0.0.0.0 www.olx.ogl-295564.org
 0.0.0.0 www.olx.ogl-295664.com
@@ -58733,7 +58529,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.ogl-295851.it.com
 0.0.0.0 www.olx.ogl-295851.xyz
 0.0.0.0 www.olx.ogl-296842.org
-0.0.0.0 www.olx.ogl-298586.org
 0.0.0.0 www.olx.ogl-342889.xyz
 0.0.0.0 www.olx.ogl-345569.xyz
 0.0.0.0 www.olx.ogl-345679.xyz
@@ -58982,7 +58777,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.pl-oferta929219191938013.sbs
 0.0.0.0 www.olx.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 www.olx.pl-oferta-2356727.cfd
-0.0.0.0 www.olx.pl-oferta-7940917277.shop
 0.0.0.0 www.olx.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 www.olx.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 www.olx.pl-oferta-kategorie-polecane0293924.sbs
@@ -59005,7 +58799,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx.pl-smart27451.sbs
 0.0.0.0 www.olx.pl-smart27491.sbs
 0.0.0.0 www.olx.pl-smart27520.sbs
-0.0.0.0 www.olx.pl-smart28157.sbs
 0.0.0.0 www.olx.pl-smart28357.sbs
 0.0.0.0 www.olx.pl-smart30287.sbs
 0.0.0.0 www.olx.pl-smart31028.sbs
@@ -59272,7 +59065,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.opensitorys.com
 0.0.0.0 www.opentribune.com
 0.0.0.0 www.openyourvehicles.cfd
-0.0.0.0 www.opinoneai.com
 0.0.0.0 www.oponyexpert.shop
 0.0.0.0 www.oponyplus.shop
 0.0.0.0 www.opticaloptimum.com
@@ -59319,7 +59111,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.order.form0096.sbs
 0.0.0.0 www.order.form5103.icu
 0.0.0.0 www.order.order31125.icu
-0.0.0.0 www.orderlyperf.mapwargames.com
 0.0.0.0 www.ordexiabot-app.com
 0.0.0.0 www.ordexiabot-tech.com
 0.0.0.0 www.ordexiabotapp.com
@@ -59332,7 +59123,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.orelavylenapp.com
 0.0.0.0 www.oren-granit.online
 0.0.0.0 www.orenthisqualomardelivexuna.mom
-0.0.0.0 www.org-tirr.store
 0.0.0.0 www.organbold.metopttrade.com
 0.0.0.0 www.organicbagdenimtray.com
 0.0.0.0 www.organicmediasolution.com
@@ -59465,6 +59255,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ozozler.org
 0.0.0.0 www.p0m1vl.lol
 0.0.0.0 www.p1aymarket.com
+0.0.0.0 www.p1h3fz.icu
 0.0.0.0 www.p2w5jk.lat
 0.0.0.0 www.p6f0ak.icu
 0.0.0.0 www.p8x4yt.sbs
@@ -59497,7 +59288,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.paczkomaty-polska.help
 0.0.0.0 www.padaurachi.sbs
 0.0.0.0 www.paddleboardcanada.com
-0.0.0.0 www.paelladigital.com
 0.0.0.0 www.paerrion.com
 0.0.0.0 www.pafiilate.byethost32.com
 0.0.0.0 www.pagamentoprotegidocheck.shop
@@ -59880,6 +59670,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pl-90540.cfd
 0.0.0.0 www.pl-90541.icu
 0.0.0.0 www.pl-091033.icu
+0.0.0.0 www.pl-91332.cfd
 0.0.0.0 www.pl-099106.icu
 0.0.0.0 www.pl-109602.icu
 0.0.0.0 www.pl-154131llowsr75qrweaw5daedwgcab871iwuaygaj6.cfd
@@ -60010,6 +59801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pl-7619381.cfd
 0.0.0.0 www.pl-7746529jshshutmmwyg99028640ulupuqt8.sbs
 0.0.0.0 www.pl-8215552lajeyyw71614153jagatgbfb7ff.sbs
+0.0.0.0 www.pl-8340940.icu
 0.0.0.0 www.pl-8371291.cfd
 0.0.0.0 www.pl-8541527.icu
 0.0.0.0 www.pl-8654712.icu
@@ -60097,6 +59889,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pl-oferta5236.sbs
 0.0.0.0 www.pl-oferta16171.cfd
 0.0.0.0 www.pl-oferta16171.icu
+0.0.0.0 www.pl-oferta19062.cfd
 0.0.0.0 www.pl-oferta21371.icu
 0.0.0.0 www.pl-oferta36913-google-pixel-10-nowy-obsidian.sbs
 0.0.0.0 www.pl-oferta36913-ipad-pro-m2-256-wifi-cellular.sbs
@@ -60215,7 +60008,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pl-smart27451.sbs
 0.0.0.0 www.pl-smart27491.sbs
 0.0.0.0 www.pl-smart27520.sbs
-0.0.0.0 www.pl-smart28157.sbs
 0.0.0.0 www.pl-smart34541.sbs
 0.0.0.0 www.pl-smart43534.sbs
 0.0.0.0 www.pl-smart43543.sbs
@@ -60457,7 +60249,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.polskigamepass.pl
 0.0.0.0 www.polskilombard.pl
 0.0.0.0 www.poltrspara.site
-0.0.0.0 www.polunthesavendiloramia.mom
 0.0.0.0 www.polvix-kartix-biz17-selmon-hasrix-sp18ct12-bt2.pages.dev
 0.0.0.0 www.polwarp.pro
 0.0.0.0 www.polyablatma.world
@@ -60476,8 +60267,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.popcornflix.pl
 0.0.0.0 www.popliallun.world
 0.0.0.0 www.poppcorn.info
-0.0.0.0 www.poppyy1field.info
-0.0.0.0 www.poppyy3seed.info
 0.0.0.0 www.poppyyy1flower.info
 0.0.0.0 www.poradnik-diet.pl
 0.0.0.0 www.poraninmaceralari.net
@@ -60573,7 +60362,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.precious-toffee-f8e4bf.netlify.app
 0.0.0.0 www.precisemixed.kellerwilliamsnorfolk.com
 0.0.0.0 www.precoeleme.world
-0.0.0.0 www.precoulvit.site
 0.0.0.0 www.predreoid.world
 0.0.0.0 www.preelmarca.site
 0.0.0.0 www.preensinco.pro
@@ -60803,7 +60591,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pulseurbanflow.com
 0.0.0.0 www.pulskytor.com
 0.0.0.0 www.pultra.net
-0.0.0.0 www.pulurlu.com
 0.0.0.0 www.pumela.cloud
 0.0.0.0 www.pumonobesi.com
 0.0.0.0 www.pumpadmin.pumpmanager.in
@@ -60817,7 +60604,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.purelinemark.com
 0.0.0.0 www.pureluck.click
 0.0.0.0 www.purelyadult.online
-0.0.0.0 www.purenar.com
 0.0.0.0 www.purepeakdynor-platform.com
 0.0.0.0 www.purleyonthames.net
 0.0.0.0 www.purobitelix-app.com
@@ -60836,7 +60622,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.puxehocituf.com
 0.0.0.0 www.puzzationo.homes
 0.0.0.0 www.puzziplaco.site
-0.0.0.0 www.puzzle4piece.info
 0.0.0.0 www.puzzlemania16d.info
 0.0.0.0 www.pvsolutionss.com
 0.0.0.0 www.pwhproihah.top
@@ -61022,7 +60807,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.queronixtraderai.com
 0.0.0.0 www.questtrack.info
 0.0.0.0 www.quiasillamlaxvorranvondoli.rest
-0.0.0.0 www.quickk3fox.info
 0.0.0.0 www.quickkfix.info
 0.0.0.0 www.quickkstep.info
 0.0.0.0 www.quickstreampro.pro
@@ -61281,7 +61065,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.rentegloed.net
 0.0.0.0 www.rentixai2025.org
 0.0.0.0 www.renvaultix-app.com
-0.0.0.0 www.repairscoral.cuckooawesome.com
 0.0.0.0 www.repatgiugn.casa
 0.0.0.0 www.reperevalgain-app.com
 0.0.0.0 www.reperevalgainapp.com
@@ -61339,7 +61122,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.riacctumul.pro
 0.0.0.0 www.riacuperfo.site
 0.0.0.0 www.riadomispe.world
-0.0.0.0 www.riammtechn.pro
 0.0.0.0 www.riappintar.world
 0.0.0.0 www.riappnonfu.site
 0.0.0.0 www.riassvorti.pro
@@ -61397,7 +61179,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.rigaldephl.world
 0.0.0.0 www.rigaltroos.site
 0.0.0.0 www.rightfx.com
-0.0.0.0 www.rigortoxic.site
 0.0.0.0 www.riguaconve.pro
 0.0.0.0 www.rigurrhyme.world
 0.0.0.0 www.rijackgame.top
@@ -61558,6 +61339,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.roomsafer.com
 0.0.0.0 www.rooo9t.info
 0.0.0.0 www.root0direct.info
+0.0.0.0 www.root9opt.info
+0.0.0.0 www.rootbeaa1m.info
 0.0.0.0 www.rootgaleincome.com
 0.0.0.0 www.rorantrase.world
 0.0.0.0 www.rorelsevaltaris.com
@@ -61776,6 +61559,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sawdumedio.pro
 0.0.0.0 www.sawseionos.cyou
 0.0.0.0 www.saxtorph.net
+0.0.0.0 www.saxyruo.com
 0.0.0.0 www.sayeronetuyada.top
 0.0.0.0 www.sbaradecon.pro
 0.0.0.0 www.sbarbbotto.world
@@ -62020,6 +61804,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sesinletanis.com
 0.0.0.0 www.sessaallay.world
 0.0.0.0 www.sesyalitimmalzemesiizmir.net
+0.0.0.0 www.setadventcalendar.store
 0.0.0.0 www.setforconfigplease.com
 0.0.0.0 www.setigisonni.pro
 0.0.0.0 www.setolricor.world
@@ -62046,7 +61831,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sfiocvendo.homes
 0.0.0.0 www.sfragdotti.world
 0.0.0.0 www.sfrassmarg.rest
-0.0.0.0 www.sfrigdipos.site
 0.0.0.0 www.sfrusinter.pro
 0.0.0.0 www.sgaberiqua.world
 0.0.0.0 www.sgaremetro.site
@@ -62320,7 +62104,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sledz-paczke.com
 0.0.0.0 www.sledzctwo.eu
 0.0.0.0 www.sledzenie-przesylki.com
-0.0.0.0 www.sleeepy6dog.info
 0.0.0.0 www.sleepzeemouthguard.store
 0.0.0.0 www.sliczneukrainki.pl
 0.0.0.0 www.sllopoint.site
@@ -62412,12 +62195,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.snuggly7bear.info
 0.0.0.0 www.snuggy3bed.info
 0.0.0.0 www.snwgroupfl.com
-0.0.0.0 www.sobbasassa.site
 0.0.0.0 www.soberanoluxerion.com
 0.0.0.0 www.sobilsobbi.homes
-0.0.0.0 www.socads.top
 0.0.0.0 www.socalwarriorfit.com
-0.0.0.0 www.soccamp.buzz
 0.0.0.0 www.soccerdiplomacy.net
 0.0.0.0 www.soccerdiplomacy.org
 0.0.0.0 www.socialchainsubmission.com
@@ -62513,7 +62293,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sopracoesi.world
 0.0.0.0 www.sopraeclip.world
 0.0.0.0 www.soprasnort.site
-0.0.0.0 www.soprismani.site
 0.0.0.0 www.soraixhashex.com
 0.0.0.0 www.sorckehab.digital
 0.0.0.0 www.sorensenscape.com
@@ -62614,7 +62393,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.spiovbrami.sbs
 0.0.0.0 www.spiremarketbroker.com
 0.0.0.0 www.spitsmelli.world
-0.0.0.0 www.spiummisti.site
 0.0.0.0 www.splashy4pond.info
 0.0.0.0 www.splendorgainlux.com
 0.0.0.0 www.splunk-agentic-ai.com
@@ -62917,7 +62695,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.stovesellers.com
 0.0.0.0 www.stpetersburgnewlistings.com
 0.0.0.0 www.strafe-gateway-ai.com
-0.0.0.0 www.straistar.mapwargames.com
 0.0.0.0 www.straivetti.world
 0.0.0.0 www.stralracil.world
 0.0.0.0 www.strangefullthiggngs.com
@@ -62939,6 +62716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.strefamlodych.pl
 0.0.0.0 www.stremdigri.casa
 0.0.0.0 www.stremsopra.site
+0.0.0.0 www.strepgubbi.rest
 0.0.0.0 www.stribrinsa.pro
 0.0.0.0 www.strigalett.world
 0.0.0.0 www.strigopenh.pro
@@ -63193,7 +62971,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sweepcoins.site
 0.0.0.0 www.sweeper8broom.info
 0.0.0.0 www.sweepmethi.site
-0.0.0.0 www.sweept99stake.info
 0.0.0.0 www.sweetdealstay.com
 0.0.0.0 www.sweetideash.info
 0.0.0.0 www.sweetpay.online
@@ -63626,7 +63403,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.timesjunk.com
 0.0.0.0 www.timinoxadisuhrenreparatur.com
 0.0.0.0 www.timoccom.com
-0.0.0.0 www.timonsbare.site
 0.0.0.0 www.timoravexundralisthomelia.cyou
 0.0.0.0 www.timsahmtsk.com
 0.0.0.0 www.timtswarhen.lacastillo.workers.dev
@@ -63711,7 +63487,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.toncoin-ai.com
 0.0.0.0 www.tondacirco.site
 0.0.0.0 www.tondratex-app-ai.com
-0.0.0.0 www.tonepro.online
 0.0.0.0 www.tonsusepar.site
 0.0.0.0 www.toofunenglish.com
 0.0.0.0 www.toolbazaar.com
@@ -63771,7 +63546,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.totalmarketdomination.com
 0.0.0.0 www.totalserpcontrol.com
 0.0.0.0 www.totaltts.com
-0.0.0.0 www.totalutts.com
 0.0.0.0 www.tottho24news.com
 0.0.0.0 www.totti911-aminn.store
 0.0.0.0 www.touchgstorage.cirugiasincicatrices.com
@@ -64107,7 +63881,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.trinor-melvax-biz-jardel-vintor-sp7ct12.pages.dev
 0.0.0.0 www.triple7.net
 0.0.0.0 www.triplfinia.rest
-0.0.0.0 www.tripppy2color.info
 0.0.0.0 www.trippy9vibe.info
 0.0.0.0 www.tritibrays.cyou
 0.0.0.0 www.triticoid.site
@@ -64197,7 +63970,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tunell8ab.info
 0.0.0.0 www.tunemet33a.info
 0.0.0.0 www.tungsrepat.pro
-0.0.0.0 www.tunnell5cat.info
 0.0.0.0 www.turandka.com
 0.0.0.0 www.turanedu.org
 0.0.0.0 www.turbifibro.site
@@ -64353,7 +64125,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ultra-cda.pl
 0.0.0.0 www.ultra-netherex-ai.com
 0.0.0.0 www.ultraakademi.com
-0.0.0.0 www.ultrabirkenstockvillage.shop
 0.0.0.0 www.ultrakw.sbs
 0.0.0.0 www.ultranetherexaiapp.com
 0.0.0.0 www.ultras7eed.info
@@ -64371,7 +64142,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.umarhillman.shop
 0.0.0.0 www.umbralzevryth.com
 0.0.0.0 www.umeth.vi-crafts.com
-0.0.0.0 www.umidiperco.site
 0.0.0.0 www.umitcaliskan.com
 0.0.0.0 www.umiya-ledger.net
 0.0.0.0 www.umowmy-sie-teraz.pl
@@ -64454,7 +64224,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.upranorge.xyz
 0.0.0.0 www.upsilonnexifyapp.com
 0.0.0.0 www.upstateplatters.com
-0.0.0.0 www.uptisemis.site
 0.0.0.0 www.upvod.pl
 0.0.0.0 www.uqhd2ln.top
 0.0.0.0 www.urasmakina.com
@@ -64884,7 +64653,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.vinted.64738.me
 0.0.0.0 www.vinted.64875.vu
 0.0.0.0 www.vinted.65352.icu
-0.0.0.0 www.vinted.67013.click
 0.0.0.0 www.vinted.73010.click
 0.0.0.0 www.vinted.073250.click
 0.0.0.0 www.vinted.73284.click
@@ -64907,9 +64675,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.vinted.89475.vu
 0.0.0.0 www.vinted.93282dj236cdj282783h.sbs
 0.0.0.0 www.vinted.93410.click
-0.0.0.0 www.vinted.95271.icu
 0.0.0.0 www.vinted.95482.vu
-0.0.0.0 www.vinted.98364.me
 0.0.0.0 www.vinted.195739.vu
 0.0.0.0 www.vinted.329451.click
 0.0.0.0 www.vinted.373773.click
@@ -65226,7 +64992,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.vinted.pl-oferta004399439294035.sbs
 0.0.0.0 www.vinted.pl-oferta87623476809234768324786234732398.cfd
 0.0.0.0 www.vinted.pl-oferta-2356727.cfd
-0.0.0.0 www.vinted.pl-oferta-7940917277.shop
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane292399.sbs
 0.0.0.0 www.vinted.pl-oferta-kategorie-polecane0293924.sbs
@@ -65356,7 +65121,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.viralon.icu
 0.0.0.0 www.viralpulsewire.pro
 0.0.0.0 www.virellonexa.com
-0.0.0.0 www.virelostaquandimeraxus.mom
 0.0.0.0 www.vireon-solvar.net
 0.0.0.0 www.virexanode.world
 0.0.0.0 www.virexulantemo.cloud
@@ -65695,7 +65459,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.weighinginstruments.com
 0.0.0.0 www.weighingtransmitters.com
 0.0.0.0 www.weightlifting-equipment.com
-0.0.0.0 www.weisetasse.pro
 0.0.0.0 www.weleedersdisco69urageable.info
 0.0.0.0 www.wellneekneebrace.com
 0.0.0.0 www.wellnesswarrior52d.info
@@ -65836,7 +65599,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.woocommerceapp.com
 0.0.0.0 www.wood-watches.com
 0.0.0.0 www.woodcodel.info
-0.0.0.0 www.woodcveris.site
 0.0.0.0 www.woodfilml.info
 0.0.0.0 www.woodnewsl.info
 0.0.0.0 www.woodworkingplans408d.info
@@ -65947,7 +65709,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xaitradingplatform-tech.com
 0.0.0.0 www.xalprenovitaq.life
 0.0.0.0 www.xalu.elariontrophies.com
-0.0.0.0 www.xanadumakadi.com
 0.0.0.0 www.xanoveritulia.world
 0.0.0.0 www.xanthsorgi.pro
 0.0.0.0 www.xantralovime.cloud
@@ -66002,6 +65763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xirendalosthramulexivoranta.mom
 0.0.0.0 www.xixi009.top
 0.0.0.0 www.xl8fzq.website
+0.0.0.0 www.xlcgw.com
 0.0.0.0 www.xn--albilet-b9a.conformation-122.shop
 0.0.0.0 www.xn--albilet-b9a.conformation-123.shop
 0.0.0.0 www.xn--albilet-b9a.conformation-124.shop
@@ -66378,7 +66140,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.zentrax-nova-8-4.com
 0.0.0.0 www.zentrax-nova-84.com
 0.0.0.0 www.zentryncascadeai-app.com
-0.0.0.0 www.zenvaliquendramosthera.mom
 0.0.0.0 www.zenvaltero.info
 0.0.0.0 www.zenvaromesthalixundorelia.cyou
 0.0.0.0 www.zenwarriorwingchun.com
@@ -66574,7 +66335,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xaitradingplatform-tech.com
 0.0.0.0 xalprenovitaq.life
 0.0.0.0 xalu.elariontrophies.com
-0.0.0.0 xanadumakadi.com
 0.0.0.0 xanoveritulia.world
 0.0.0.0 xanthsorgi.pro
 0.0.0.0 xantralovime.cloud
@@ -66629,6 +66389,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xirendalosthramulexivoranta.mom
 0.0.0.0 xixi009.top
 0.0.0.0 xl8fzq.website
+0.0.0.0 xlcgw.com
 0.0.0.0 xn--albilet-b9a.conformation-122.shop
 0.0.0.0 xn--albilet-b9a.conformation-123.shop
 0.0.0.0 xn--albilet-b9a.conformation-124.shop
@@ -67005,7 +66766,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zentrax-nova-8-4.com
 0.0.0.0 zentrax-nova-84.com
 0.0.0.0 zentryncascadeai-app.com
-0.0.0.0 zenvaliquendramosthera.mom
 0.0.0.0 zenvaltero.info
 0.0.0.0 zenvaromesthalixundorelia.cyou
 0.0.0.0 zenwarriorwingchun.com
@@ -88319,7 +88079,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-06 12:43:20 (UTC)                      #
+# Last updated: 2026-01-06 18:29:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -88392,6 +88152,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b76ctsj1.5kyline.ru
 0.0.0.0 backupso.com
 0.0.0.0 bankgarantia.ru
+0.0.0.0 barandis.sbs
 0.0.0.0 bbb.xfrwu.cn
 0.0.0.0 bestcruisetravelinsurance.com
 0.0.0.0 betplay138jr.net
@@ -88424,12 +88185,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 checkfivem.com
 0.0.0.0 checkinetverifk.com
 0.0.0.0 chezvouscuisine.co.uk
-0.0.0.0 chinaapper.com
 0.0.0.0 chiptune.com
 0.0.0.0 classroomseven.com
 0.0.0.0 clipaid.app
 0.0.0.0 clisi.digifors.de
 0.0.0.0 cloudstay168.com
+0.0.0.0 cloudy-verification.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 clystracapfin.com
 0.0.0.0 cmp5itpp9h30577inogg.tsrv1.ws
@@ -88441,10 +88202,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 connects-magiceden.io
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 cpanel.tsrv1.ws
-0.0.0.0 cretonriz.lxmail.store
-0.0.0.0 crical.mail-craft.store
 0.0.0.0 crobel3.floresagapanto.cfd
-0.0.0.0 crolinpanrol.luxmailing.store
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 csk.vietnamddns.com
@@ -88485,7 +88243,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
-0.0.0.0 download.ilovegrooming.xyz
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
@@ -88494,6 +88251,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dpshelp.space
 0.0.0.0 dpshelp.store
 0.0.0.0 dreamwatchevent.com
+0.0.0.0 drivepro.lol
 0.0.0.0 drivercool.lol
 0.0.0.0 duratechsol.com
 0.0.0.0 dusttv.com
@@ -88502,6 +88260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
+0.0.0.0 en.taichuan.com
 0.0.0.0 energy63.ru
 0.0.0.0 epanpano.com
 0.0.0.0 estudio.ythan.com.br
@@ -88516,11 +88275,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 files.5modapk.com
 0.0.0.0 filezilla.cc
 0.0.0.0 first-security-verden.de
-0.0.0.0 flipinlanjal.mail-cube.store
-0.0.0.0 flisinfuntar.mail-lab.store
-0.0.0.0 flononconsal.mail-genius.store
 0.0.0.0 flyingmutts.com
-0.0.0.0 frepanlanral563.luxpost.shop
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fullstacknir.com
 0.0.0.0 fvia.id.vn
@@ -88530,20 +88285,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 gama567ad2.online
 0.0.0.0 game19.flash-myanmar.com
 0.0.0.0 gim0hpzu.ce1lsfeste7.ru
-0.0.0.0 glaronhal.lxmail.store
-0.0.0.0 glasal.luxmail.space
 0.0.0.0 glaustralia.com
-0.0.0.0 glefenbonder.luxomail.store
-0.0.0.0 glejal.mail-craft.store
 0.0.0.0 globaltechbilling.com
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 goboadvertising.autodealertech.co
 0.0.0.0 googletagamnager.com
 0.0.0.0 gordon-and-son.com
 0.0.0.0 gp0nuv6i.expe7iencfu9.ru
 0.0.0.0 grafar.floresagapanto.cfd
 0.0.0.0 grikom.info
+0.0.0.0 grufuncinlhar.floresflorcravovermelho.cfd
 0.0.0.0 gutando.com
 0.0.0.0 hasalltalent.com
+0.0.0.0 hehejj.shop
 0.0.0.0 help.tsrv1.ws
 0.0.0.0 hi.admini.website
 0.0.0.0 hitman-pro.ru
@@ -88568,6 +88322,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 isiore.com.co
 0.0.0.0 itcomsrv.kz
 0.0.0.0 itssprout.com
+0.0.0.0 izocab.com
 0.0.0.0 jakestrack.com
 0.0.0.0 jawaratekno.com
 0.0.0.0 jjmicro.com
@@ -88611,9 +88366,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail.vm05.transportrrj.com
 0.0.0.0 main.dsn.ovh
 0.0.0.0 mandarin.net.au
-0.0.0.0 masgrave.com
+0.0.0.0 masgraves.dev
 0.0.0.0 mastergaming138.design
 0.0.0.0 mastergaming138.games
+0.0.0.0 mastertv.mx
 0.0.0.0 masuraturbo.com
 0.0.0.0 merctransfers.gradycares.com
 0.0.0.0 metrics.gocloudmaps.com
@@ -88630,6 +88386,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ncxps.com
 0.0.0.0 ndown2.ra2ol.com
 0.0.0.0 nelees.com
+0.0.0.0 newnube.lol
 0.0.0.0 noithaticon.vn
 0.0.0.0 nstools.tsrv1.ws
 0.0.0.0 nusatoyota.co.id
@@ -88663,6 +88420,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onyxsentinelx.de
 0.0.0.0 onyxshieldcore.de
 0.0.0.0 onyxstealthnet.de
+0.0.0.0 openaigrok.com
 0.0.0.0 owlcity.ru
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 pagar8.alphaville-bt.com
@@ -88677,18 +88435,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 pizzabyte.com.au
 0.0.0.0 planetariumobil.ro
 0.0.0.0 planmenpunval.floresixia.cfd
-0.0.0.0 platum.luxxmail.store
 0.0.0.0 play.mclighthouse.ir
 0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
 0.0.0.0 polonyauniversiteleri.com.tr
 0.0.0.0 presinfer.florescrinum.cfd
-0.0.0.0 pripingor.mail-boss.store
 0.0.0.0 probable-winner.info
-0.0.0.0 progongor822.mail-genius.store
-0.0.0.0 prorol638.luxormail.store
 0.0.0.0 proship.ae
-0.0.0.0 prosil.mail-mentor.store
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -88709,13 +88462,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 rheddh.com
 0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
+0.0.0.0 robinjsb.sbs
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 rxquickpay.com
 0.0.0.0 sabungkingbet189.com
 0.0.0.0 save.jnrsmcu.com
 0.0.0.0 scainseto.com.br
 0.0.0.0 scan.504.su
-0.0.0.0 schenckel.com.br
 0.0.0.0 scrowinnal.floresflorestrela.cfd
 0.0.0.0 scrroeder.com
 0.0.0.0 sdvgpro.ru
@@ -88723,6 +88476,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 servachok.space
 0.0.0.0 sfa.com.ar
 0.0.0.0 sg123.net
+0.0.0.0 shaderm.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sicepatlive189.online
@@ -88733,7 +88487,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 solutelco.com
-0.0.0.0 spoar.org.in
 0.0.0.0 spst.hqup.in
 0.0.0.0 src1.minibai.com
 0.0.0.0 ssl-host.com
@@ -88753,7 +88506,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tapestryoftruth.com
 0.0.0.0 teacoffeepremix.in
 0.0.0.0 techauto.net
-0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
@@ -88766,8 +88518,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 theholidayroads.com
 0.0.0.0 theoremaoliveoil.com
 0.0.0.0 thtp2.volamngayxua.net
+0.0.0.0 tokistuku.shop
+0.0.0.0 tokityki.shop
 0.0.0.0 toolshare.com.tr
-0.0.0.0 topmedsolution.com
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
@@ -88776,6 +88529,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ujkujiiempp.tsrv1.ws
 0.0.0.0 ukguk71.ru
 0.0.0.0 uniform-factory.ae
+0.0.0.0 uoalhuda.edu.iq
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
@@ -88787,6 +88541,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vcc-library.uk
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
+0.0.0.0 vetervsn.sbs
 0.0.0.0 vgd.vg
 0.0.0.0 vincentdemiero.com
 0.0.0.0 visam.info
@@ -88798,7 +88553,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 windomstatetheater.com
 0.0.0.0 wok.gooning.su
-0.0.0.0 woodenships-wholesale.com
 0.0.0.0 wtechcomercio.com.br
 0.0.0.0 wwtalk.cyou
 0.0.0.0 www.ardguisser.com
@@ -88874,6 +88628,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ynr4ubkn.b1tterb0tt.ru
 0.0.0.0 yongtai.cn
 0.0.0.0 youtransfer.net
+0.0.0.0 youtube-russ.lol
 0.0.0.0 youtubrussia.lol
 0.0.0.0 yzcplsibdtq.tsrv1.ws
 0.0.0.0 z9bdth4n.blu3cioud.ru
@@ -88882,7 +88637,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 558
+0.0.0.0 zyhunkenya.co.ke
+# Number of entries: 554
 # End URLHaus
 
 # Start yoyo.org
