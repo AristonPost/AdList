@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 07 January 2026 02:10:22 (UTC)
-# Number of unique domains: 84,298
+# Date: 07 January 2026 06:43:32 (UTC)
+# Number of unique domains: 84,300
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 f02627afcb33
-127.0.0.53 f02627afcb33
+127.0.1.1 05b975c66b3a
+127.0.0.53 05b975c66b3a
 
 # Start StevenBlack
 
@@ -20469,9 +20469,9 @@ ff02::3 ip6-allhosts
 # Start hostsVN
 
 # Title: hostsVN
-# Last modified: 28 Dec 2025 16:22 UTC+7
-# Version: 2512281622
-# Blocked: 1.778 domains
+# Last modified: 07 Jan 2026 10:52 UTC+7
+# Version: 2601071052
+# Blocked: 1.780 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -21822,6 +21822,10 @@ ff02::3 ip6-allhosts
 #[shopee.vn]
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 userstats.shopee.vn
+#[moneyoyo]
+0.0.0.0 api.moneyoyo.org
+0.0.0.0 feed.moneyoyo.org
+0.0.0.0 sdk.moneyoyo.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -21946,7 +21950,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 an.dongphim.net
 0.0.0.0 an.xemvtv.net
 0.0.0.0 api.boclinkads.com
-0.0.0.0 api.moneyoyo.org
 0.0.0.0 api2.boclinkads.com
 0.0.0.0 apia.headlines.pw
 0.0.0.0 avoadsservices.com
@@ -21967,6 +21970,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpx.vnecdn.com
 0.0.0.0 crocopop.com
 0.0.0.0 csmads.gameclick.vn
+0.0.0.0 delivery.congthuong.vn
 0.0.0.0 delivery.doisongphapluat.com.vn
 0.0.0.0 delivery.lsvn.vn
 0.0.0.0 delivery.senvangvn.com
@@ -22016,7 +22020,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.giaoducthoidai.vn
 0.0.0.0 s.zzcdn.me
 0.0.0.0 s1.zzz.vn
-0.0.0.0 sdk.moneyoyo.com
 0.0.0.0 server.zmedia.vn
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 sharks.vn
@@ -87921,7 +87924,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-07 02:03:07 (UTC)                      #
+# Last updated: 2026-01-07 06:37:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -87987,13 +87990,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 backupso.com
 0.0.0.0 bankgarantia.ru
 0.0.0.0 barandis.sbs
+0.0.0.0 bbb.xfrwu.cn
+0.0.0.0 bertticleaning.com
 0.0.0.0 betplay138jr.net
 0.0.0.0 bfacollege.co.in
 0.0.0.0 biggbossteluguvote.com
 0.0.0.0 blaiz.me
 0.0.0.0 blessdayservices.org
 0.0.0.0 blog.tsrv1.ws
-0.0.0.0 blogmedia.ge
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 blueoranges2025sks.de
 0.0.0.0 bmdcompany.com
@@ -88024,7 +88028,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 classroomseven.com
 0.0.0.0 clipaid.app
 0.0.0.0 clisi.digifors.de
-0.0.0.0 cloudnewsfeed.com
 0.0.0.0 cloudstay168.com
 0.0.0.0 cloudy-verification.com
 0.0.0.0 clubdetiroelpicarcho.com
@@ -88078,13 +88081,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.ilovegrooming.xyz
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
-0.0.0.0 download.pdf00.com
 0.0.0.0 download.suxiazai.com
 0.0.0.0 dowonline.ru
 0.0.0.0 dreamwatchevent.com
@@ -88094,7 +88095,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dweixin.cn
 0.0.0.0 easybrand.vn
 0.0.0.0 electri.billregulator.com
-0.0.0.0 elevenhold.hu
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
 0.0.0.0 en.taichuan.com
@@ -88176,11 +88176,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 kalyanmatka.world
 0.0.0.0 kamin-premium.ru
 0.0.0.0 karoonpc.com
-0.0.0.0 kavacanada.ca
 0.0.0.0 khavar.com
 0.0.0.0 khoancatbetong89.vn
 0.0.0.0 kimyen.net
-0.0.0.0 kms.com.bd
 0.0.0.0 konsor.ru
 0.0.0.0 kpq.at
 0.0.0.0 kramersmarionnettes.com
@@ -88208,6 +88206,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail.vm05.transportrrj.com
 0.0.0.0 main.dsn.ovh
 0.0.0.0 mandarin.net.au
+0.0.0.0 masgrave.com
 0.0.0.0 masgraves.dev
 0.0.0.0 mastergaming138.design
 0.0.0.0 mastergaming138.games
@@ -88219,6 +88218,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 microsoft-analyse.com
 0.0.0.0 microsoft-telemetry.at
 0.0.0.0 microsoft-telemetry.cc
+0.0.0.0 mindworksfoundation.com.au
 0.0.0.0 mitreart.com
 0.0.0.0 mobshah.com
 0.0.0.0 modulowinapp.com
@@ -88236,6 +88236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 officialbet189.online
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 onitsuka77.org
 0.0.0.0 online-gebuehrenzaehler.de
@@ -88262,7 +88263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 owlcity.ru
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 pagar8.alphaville-bt.com
-0.0.0.0 page-yoda.blog
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paololucchesi.it
 0.0.0.0 parmisbuilding.com
@@ -88276,8 +88276,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
 0.0.0.0 polonyauniversiteleri.com.tr
-0.0.0.0 pradeepagrofood.com
 0.0.0.0 pripingor.mail-boss.store
+0.0.0.0 prodimetal.com
 0.0.0.0 progongor822.mail-genius.store
 0.0.0.0 prorol638.luxormail.store
 0.0.0.0 proship.ae
@@ -88318,11 +88318,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 servachok.space
 0.0.0.0 sfa.com.ar
 0.0.0.0 sg123.net
+0.0.0.0 shaderm.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sicepatlive189.online
 0.0.0.0 simbhaolisugars.in
-0.0.0.0 sinergiaconstruccion.com.mx
 0.0.0.0 sk-comtel.com
 0.0.0.0 skillnorequired.cc
 0.0.0.0 smtp.tsrv1.ws
@@ -88335,6 +88335,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl-host.com
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
+0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 stltpweavzg.tsrv1.ws
 0.0.0.0 stonecradle.com
@@ -88343,6 +88344,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 support.tsrv1.ws
 0.0.0.0 support.viewpoint.fr
 0.0.0.0 svirtual.sanviatorperu.edu.pe
+0.0.0.0 swiftfusion.tech
+0.0.0.0 symanst.page.gd
 0.0.0.0 tajalrayhan.com
 0.0.0.0 talentrecruitments.com
 0.0.0.0 tanscarattorneys.co.tz
@@ -88389,6 +88392,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 visualwikicloud.com
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vm05.transportrrj.com
+0.0.0.0 vuetube.lol
 0.0.0.0 warkopshopfb138.cc
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 weendugroup.com
@@ -88400,7 +88404,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.backupallfresh2030.com
-0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.cambodiatouristservice.com
@@ -88420,7 +88423,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.koukaki.moonwp.fr
 0.0.0.0 www.luuk-lifestyle.eu
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.messias.org.br
 0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.mobimpex.ro
@@ -88479,6 +88481,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
+0.0.0.0 zyhunkenya.co.ke
 # Number of entries: 553
 # End URLHaus
 
