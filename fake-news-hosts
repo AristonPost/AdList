@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 09 January 2026 02:11:48 (UTC)
-# Number of unique domains: 83,578
+# Date: 09 January 2026 06:43:57 (UTC)
+# Number of unique domains: 83,577
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 ba97c04c44cf
-127.0.0.53 ba97c04c44cf
+127.0.1.1 c9c3b34eb198
+127.0.0.53 c9c3b34eb198
 
 # Start StevenBlack
 
@@ -87158,7 +87158,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-09 01:57:10 (UTC)                      #
+# Last updated: 2026-01-09 06:19:14 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -87183,7 +87183,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 92803df9-8cd5-43dd-811b-f2840cdabc14.random.tsrv1.ws
 0.0.0.0 a012a656-f566-48a1-afad-3dcc46018380.random.tsrv1.ws
 0.0.0.0 abissnet.net
-0.0.0.0 acaviationsupplies.com
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 access.dragongolf.com
 0.0.0.0 access.skaparade.com
@@ -87192,6 +87191,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 admin.gestroom.it
 0.0.0.0 admin.tsrv1.ws
 0.0.0.0 adobehelp.net
+0.0.0.0 adventistas.org.gt
 0.0.0.0 adver.com.br
 0.0.0.0 advustech.com
 0.0.0.0 alarmline.com.br
@@ -87331,7 +87331,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fd8a7ef9-faae-4c3c-814a-376eb024783e.random.tsrv1.ws
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 files.5modapk.com
 0.0.0.0 filezilla.cc
@@ -87685,7 +87684,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 522
+# Number of entries: 521
 # End URLHaus
 
 # Start yoyo.org
