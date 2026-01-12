@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 January 2026 02:23:16 (UTC)
-# Number of unique domains: 81,944
+# Date: 12 January 2026 06:47:58 (UTC)
+# Number of unique domains: 81,942
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 3a913f615d49
-127.0.0.53 3a913f615d49
+127.0.1.1 769840079a81
+127.0.0.53 769840079a81
 
 # Start StevenBlack
 
@@ -85587,7 +85587,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-12 02:16:08 (UTC)                      #
+# Last updated: 2026-01-12 06:39:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -85603,7 +85603,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 225c2cd6-cbd3-4ac2-8464-cc7686273c9c.random.tsrv1.ws
 0.0.0.0 226b8f14-a155-4dbb-88f2-b146941c2fc9.random.tsrv1.ws
 0.0.0.0 3746c740-22d8-4bc2-9f60-c6c8db13ee88.random.tsrv1.ws
-0.0.0.0 450d4a71-458d-4d35-bd01-b075cdb0d900.random.tsrv1.ws
 0.0.0.0 53e2e72e-92ec-45bd-b5bf-5230e35c1564.random.tsrv1.ws
 0.0.0.0 5913942c-0d07-4809-a743-1db0a1076c8f.random.tsrv1.ws
 0.0.0.0 6yd.ru
@@ -85746,6 +85745,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fastshippingsbd.com
 0.0.0.0 fd8a7ef9-faae-4c3c-814a-376eb024783e.random.tsrv1.ws
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.edunet.ac
 0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 files.5modapk.com
@@ -85812,7 +85812,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 libwaresourcewsd.com
 0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
-0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 lon-01.dlo4d.com
 0.0.0.0 londonairportstransfer.co.uk
@@ -85822,7 +85821,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 main.dsn.ovh
 0.0.0.0 mandarin.net.au
 0.0.0.0 masuraturbo.com
-0.0.0.0 meetvideogoogle.com
 0.0.0.0 merctransfers.gradycares.com
 0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 microsoft-analyse.com
@@ -85887,11 +85885,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 r61-7-209-88.static.phangnga.cloud
+0.0.0.0 r61-7-209-88.static.seaserver.net
 0.0.0.0 ramactools.net
 0.0.0.0 ramirex.ro
 0.0.0.0 ransokk.de
 0.0.0.0 rdm.91yunma.cn
-0.0.0.0 reauthenticator.com
 0.0.0.0 records.dennisign.se
 0.0.0.0 redlk.com
 0.0.0.0 refrigeracion.delmondexpress.com
@@ -85964,6 +85962,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trurol07.marimar.sbs
 0.0.0.0 ujkujiiempp.tsrv1.ws
 0.0.0.0 ukguk71.ru
+0.0.0.0 uniform-factory.ae
 0.0.0.0 universalgroup.com.vc
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
@@ -85971,7 +85970,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 uploadtree.com
 0.0.0.0 upsinfo2025.com
-0.0.0.0 vagler.ru
 0.0.0.0 vcc-library.uk
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
@@ -85983,7 +85981,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wearjora.com
 0.0.0.0 weendugroup.com
 0.0.0.0 windomstatetheater.com
-0.0.0.0 woodenships-wholesale.com
 0.0.0.0 wtechcomercio.com.br
 0.0.0.0 wwtalk.cyou
 0.0.0.0 www.automobile-bk.de
@@ -86018,7 +86015,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.salonmarketing.ca
 0.0.0.0 www.sgeseducation.com
-0.0.0.0 www.silver-hubdachwohnwagen.de
 0.0.0.0 www.simbhaolisugars.in
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-data.com
@@ -86030,6 +86026,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.valfanto.com
 0.0.0.0 www.vuelaviajero.com
 0.0.0.0 www.website.mypetapp.co.za
+0.0.0.0 www.websitedesigningindia.biz
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zhikey.com
@@ -86049,11 +86046,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 ythvh.lol
 0.0.0.0 yzcplsibdtq.tsrv1.ws
 0.0.0.0 zamilgroups.com
+0.0.0.0 zapchast-gazkotel.ru
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
 0.0.0.0 zyhunkenya.co.ke
-# Number of entries: 460
+# Number of entries: 458
 # End URLHaus
 
 # Start yoyo.org
