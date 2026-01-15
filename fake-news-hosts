@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 15 January 2026 02:10:48 (UTC)
-# Number of unique domains: 79,551
+# Date: 15 January 2026 06:43:06 (UTC)
+# Number of unique domains: 79,556
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 f7e778294667
-127.0.0.53 f7e778294667
+127.0.1.1 8b867ede6ae1
+127.0.0.53 8b867ede6ae1
 
 # Start StevenBlack
 
@@ -83142,7 +83142,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-15 02:01:17 (UTC)                      #
+# Last updated: 2026-01-15 06:32:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -83172,6 +83172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 access.dragongolf.com
 0.0.0.0 access.skaparade.com
+0.0.0.0 accesstelematics.com
 0.0.0.0 ace-project.org
 0.0.0.0 acms.saleseos.com
 0.0.0.0 admin.byte.in.ua
@@ -83207,6 +83208,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 binannce-uberprufung.com
 0.0.0.0 blaiz.me
 0.0.0.0 blessdayservices.org
+0.0.0.0 blg.com.mx
 0.0.0.0 blog.tsrv1.ws
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 bmdcompany.com
@@ -83326,6 +83328,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fd8a7ef9-faae-4c3c-814a-376eb024783e.random.tsrv1.ws
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
+0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 files.5modapk.com
 0.0.0.0 filezilla.cc
@@ -83335,15 +83338,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 fullstacknir.com
 0.0.0.0 fvia.id.vn
 0.0.0.0 fz.tiansys.cn
-0.0.0.0 galaxy88newfil.com
 0.0.0.0 galerisenimutiara.com
-0.0.0.0 game19.flash-myanmar.com
 0.0.0.0 gecopakistan.com
 0.0.0.0 gistpad.com
 0.0.0.0 glaustralia.com
 0.0.0.0 globaltechbilling.com
 0.0.0.0 goboadvertising.autodealertech.co
-0.0.0.0 googletagamnager.com
 0.0.0.0 gordon-and-son.com
 0.0.0.0 grikom.info
 0.0.0.0 gutando.com
@@ -83372,6 +83372,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 izocab.com
 0.0.0.0 izogard.com
 0.0.0.0 jakestrack.com
+0.0.0.0 jalebel7abeb.com
 0.0.0.0 jawaratekno.com
 0.0.0.0 jkshaonv.com
 0.0.0.0 joyeriatauro.com
@@ -83417,6 +83418,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 muzzumilruheel.com
 0.0.0.0 ncxps.com
 0.0.0.0 ndirection.kr
+0.0.0.0 ndown2.ra2ol.com
 0.0.0.0 nelees.com
 0.0.0.0 node.seedtobig.com
 0.0.0.0 noithaticon.vn
@@ -83467,6 +83469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polonyauniversiteleri.com.tr
 0.0.0.0 posts-luxs.com
 0.0.0.0 potential-memory.cc
+0.0.0.0 ppsunderwater.com.ng
 0.0.0.0 prntsrcn.com
 0.0.0.0 proship.ae
 0.0.0.0 proxy.zhalenmsl.biz.id
@@ -83519,6 +83522,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 softcatalog.ru
 0.0.0.0 solutelco.com
 0.0.0.0 spoar.org.in
+0.0.0.0 spst.hqup.in
 0.0.0.0 src1.minibai.com
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
@@ -83606,6 +83610,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.koukaki.moonwp.fr
 0.0.0.0 www.luuk-lifestyle.eu
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.messias.org.br
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
@@ -83660,7 +83665,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 514
+# Number of entries: 519
 # End URLHaus
 
 # Start yoyo.org
