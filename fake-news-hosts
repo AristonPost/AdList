@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 19 January 2026 02:23:35 (UTC)
-# Number of unique domains: 74,635
+# Date: 19 January 2026 06:49:44 (UTC)
+# Number of unique domains: 74,630
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 36c302143814
-127.0.0.53 36c302143814
+127.0.1.1 dc5547bfd8b3
+127.0.0.53 dc5547bfd8b3
 
 # Start StevenBlack
 
@@ -78242,7 +78242,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-19 02:19:25 (UTC)                      #
+# Last updated: 2026-01-19 06:37:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -78282,13 +78282,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 aerconditionat-arges.ro
 0.0.0.0 agent188portal.live
 0.0.0.0 agentportal188.work
-0.0.0.0 ahnbbd.com
 0.0.0.0 alarmline.com.br
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
 0.0.0.0 allister.ee
 0.0.0.0 antvietnam.com
-0.0.0.0 anyhoo.testeaza.eu
 0.0.0.0 app.appzcvb.com
 0.0.0.0 apple-service93.ru
 0.0.0.0 ardena.pro
@@ -78415,6 +78413,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fd8a7ef9-faae-4c3c-814a-376eb024783e.random.tsrv1.ws
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
+0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 files.5modapk.com
 0.0.0.0 filezilla.cc
@@ -78429,7 +78428,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 glaustralia.com
 0.0.0.0 globaltechbilling.com
 0.0.0.0 goboadvertising.autodealertech.co
-0.0.0.0 googletagamnager.com
 0.0.0.0 gordon-and-son.com
 0.0.0.0 grikom.info
 0.0.0.0 gutando.com
@@ -78463,7 +78461,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 izocab.com
 0.0.0.0 izogard.com
 0.0.0.0 jakestrack.com
-0.0.0.0 jawaratekno.com
 0.0.0.0 jlwz.cn
 0.0.0.0 joyeriatauro.com
 0.0.0.0 js.byxly.vip
@@ -78485,6 +78482,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 lon-01.dlo4d.com
+0.0.0.0 londonairportstransfer.co.uk
 0.0.0.0 m-global.hksty.net
 0.0.0.0 m.bal-stroi.ru
 0.0.0.0 maidforyou1985.com
@@ -78517,6 +78515,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oelgaard.dk
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 online-gebuehrenzaehler.de
 0.0.0.0 onlineappdownload.507.net.cn
@@ -78595,7 +78594,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simbhaolisugars.in
 0.0.0.0 sk-comtel.com
-0.0.0.0 skanswers.com
 0.0.0.0 skillnorequired.cc
 0.0.0.0 smtp.tsrv1.ws
 0.0.0.0 soft.110route.com
@@ -78643,7 +78641,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
-0.0.0.0 tsmau.com
 0.0.0.0 tykitoks-uzb.sbs
 0.0.0.0 ujkujiiempp.tsrv1.ws
 0.0.0.0 ukguk71.ru
@@ -78668,7 +78665,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 windomstatetheater.com
 0.0.0.0 wittenhorst.eu
-0.0.0.0 wwtalk.cyou
 0.0.0.0 www.ardguisser.com
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.automobile-bk.de
@@ -78743,8 +78739,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-0.0.0.0 zyhunkenya.co.ke
-# Number of entries: 498
+# Number of entries: 493
 # End URLHaus
 
 # Start yoyo.org
