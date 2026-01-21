@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 21 January 2026 02:21:28 (UTC)
-# Number of unique domains: 75,064
+# Date: 21 January 2026 06:48:04 (UTC)
+# Number of unique domains: 75,062
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 91f73309c77f
-127.0.0.53 91f73309c77f
+127.0.1.1 0f17b07f80fd
+127.0.0.53 0f17b07f80fd
 
 # Start StevenBlack
 
@@ -78676,7 +78676,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-21 02:03:14 (UTC)                      #
+# Last updated: 2026-01-21 06:37:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -78695,7 +78695,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 450d4a71-458d-4d35-bd01-b075cdb0d900.random.tsrv1.ws
 0.0.0.0 53e2e72e-92ec-45bd-b5bf-5230e35c1564.random.tsrv1.ws
 0.0.0.0 5913942c-0d07-4809-a743-1db0a1076c8f.random.tsrv1.ws
-0.0.0.0 6ak-tehnik.si
 0.0.0.0 6yd.ru
 0.0.0.0 72ec8d09-fce8-4272-9829-f4a17ae33269.random.tsrv1.ws
 0.0.0.0 7db24a1f-1cdd-4190-89ec-b2765dadb2cd.random.tsrv1.ws
@@ -78733,6 +78732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 asiaengrs.com
 0.0.0.0 asl-company.ru
 0.0.0.0 at0micwallets.com
+0.0.0.0 atasapka.com.tr
 0.0.0.0 augsburg-auto.com
 0.0.0.0 aulist.com
 0.0.0.0 avbackup.acionline.de
@@ -78740,7 +78740,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 b6bc745a-7b5c-4d56-ab6c-0dd2982cb122.random.tsrv1.ws
 0.0.0.0 backupso.com
 0.0.0.0 bankgarantia.ru
-0.0.0.0 bbb.xfrwu.cn
 0.0.0.0 berichtenbox-nl.net
 0.0.0.0 bfacollege.co.in
 0.0.0.0 binannce-uberprufung.com
@@ -78840,7 +78839,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
-0.0.0.0 en.taichuan.com
 0.0.0.0 energy63.ru
 0.0.0.0 epanpano.com
 0.0.0.0 estudio.ythan.com.br
@@ -78861,6 +78859,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fullstacknir.com
 0.0.0.0 fvia.id.vn
 0.0.0.0 fz.tiansys.cn
+0.0.0.0 galerisenimutiara.com
 0.0.0.0 gestionycobranzas.com
 0.0.0.0 glaustralia.com
 0.0.0.0 globaltechbilling.com
@@ -78875,7 +78874,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hi.admini.website
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
-0.0.0.0 hobobot.net
 0.0.0.0 hotellacastellana.com.uy
 0.0.0.0 hqweb.id.vn
 0.0.0.0 hseda.com
@@ -78901,10 +78899,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 jxhuyhoang.com
 0.0.0.0 jyothishmathi.in
 0.0.0.0 kamin-premium.ru
-0.0.0.0 kavacanada.ca
 0.0.0.0 khoancatbetong89.vn
 0.0.0.0 kimyen.net
-0.0.0.0 kis.marketing
 0.0.0.0 konsor.ru
 0.0.0.0 kpq.at
 0.0.0.0 kramersmarionnettes.com
@@ -78946,6 +78942,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noithaticon.vn
 0.0.0.0 nstools.tsrv1.ws
 0.0.0.0 nusatoyota.co.id
+0.0.0.0 nutrisc.com.br
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 ojang.pe.kr
@@ -79036,6 +79033,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 softcatalog.ru
 0.0.0.0 solutelco.com
 0.0.0.0 spoar.org.in
+0.0.0.0 src1.minibai.com
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
@@ -79070,6 +79068,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 toolshare.com.tr
 0.0.0.0 topmedsolution.com
+0.0.0.0 transalpinafan.ro
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
@@ -79084,6 +79083,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uploadtree.com
 0.0.0.0 upsinfo2025.com
 0.0.0.0 vagler.ru
+0.0.0.0 vcc-library.uk
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -79094,11 +79094,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 waatheqinv.com
 0.0.0.0 warkopshopfb138.cc
 0.0.0.0 website.mypetapp.co.za
-0.0.0.0 weendugroup.com
 0.0.0.0 windomstatetheater.com
+0.0.0.0 windowsclean.us
 0.0.0.0 wittenhorst.eu
 0.0.0.0 wok.gooning.su
-0.0.0.0 woodenships-wholesale.com
 0.0.0.0 wsefghuiwehf.gxg.xxx
 0.0.0.0 www.ardguisser.com
 0.0.0.0 www.astenterprises.com.pk
@@ -79174,8 +79173,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zapchast-gazkotel.ru
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
-0.0.0.0 zyhunkenya.co.ke
-# Number of entries: 495
+# Number of entries: 493
 # End URLHaus
 
 # Start yoyo.org
