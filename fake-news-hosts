@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 January 2026 02:24:48 (UTC)
-# Number of unique domains: 80,091
+# Date: 27 January 2026 06:46:42 (UTC)
+# Number of unique domains: 80,098
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 2239a42e690e
-127.0.0.53 2239a42e690e
+127.0.1.1 8189240d1c10
+127.0.0.53 8189240d1c10
 
 # Start StevenBlack
 
@@ -83703,7 +83703,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-01-27 02:11:12 (UTC)                      #
+# Last updated: 2026-01-27 06:38:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -83735,6 +83735,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a012a656-f566-48a1-afad-3dcc46018380.random.tsrv1.ws
 0.0.0.0 aadhiwater.com
 0.0.0.0 aagmaninfotech.com
+0.0.0.0 aaieiinternational.com
 0.0.0.0 aaronshaffier.jerusalemwalkingtour.com
 0.0.0.0 abissnet.net
 0.0.0.0 acaviationsupplies.com
@@ -83749,8 +83750,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adobehelp.net
 0.0.0.0 adver.com.br
 0.0.0.0 advustech.com
+0.0.0.0 aerconditionat-arges.ro
 0.0.0.0 aicloudfz8346967.tino.page
-0.0.0.0 alarmline.com.br
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
 0.0.0.0 allister.ee
@@ -83773,8 +83774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b6bc745a-7b5c-4d56-ab6c-0dd2982cb122.random.tsrv1.ws
 0.0.0.0 backupso.com
 0.0.0.0 bankgarantia.ru
-0.0.0.0 bbb.xfrwu.cn
-0.0.0.0 bblissmassage.com
+0.0.0.0 beak.in
 0.0.0.0 bfacollege.co.in
 0.0.0.0 blaiz.me
 0.0.0.0 blessdayservices.org
@@ -83786,7 +83786,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
-0.0.0.0 buckscountytaxattorney.com
 0.0.0.0 bvaco.com
 0.0.0.0 cambodiatouristservice.com
 0.0.0.0 carcaran.com
@@ -83813,9 +83812,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 computersupportexperts.com
 0.0.0.0 connects-magiceden.io
-0.0.0.0 contentmentfairnesspesky.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 corelis.ro
+0.0.0.0 corepilatesnicaragua.com
 0.0.0.0 cpanel.tsrv1.ws
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
@@ -83831,12 +83830,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcwblida.dz
 0.0.0.0 de91e0c0-23c2-457f-9d5d-21e0ce13ac57.random.tsrv1.ws
 0.0.0.0 dealshubindia.in
+0.0.0.0 deanvon.com
 0.0.0.0 debdiehl.com
 0.0.0.0 deegaanbile.org
 0.0.0.0 deermusik.com
 0.0.0.0 dejurebookkeeping.com
 0.0.0.0 deliwise.com.br
+0.0.0.0 dellaeventos.com
+0.0.0.0 delledonneluthier.com
 0.0.0.0 delp-heizungsbau.de
+0.0.0.0 demo.antiquebrassmoroccan.com
 0.0.0.0 demo.gtropy.com
 0.0.0.0 demo.mmoasis.com
 0.0.0.0 demo2.amcham-ci.org
@@ -83891,7 +83894,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 filezilla.cc
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
-0.0.0.0 fotosdepuebla.org
 0.0.0.0 frvrefrigeracao.com.br
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fullstacknir.com
@@ -83917,7 +83919,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotellacastellana.com.uy
 0.0.0.0 hqweb.id.vn
 0.0.0.0 hseda.com
-0.0.0.0 ibnbatutta.pk
 0.0.0.0 icoffeecloud.com
 0.0.0.0 id3basketball.com
 0.0.0.0 igra123.com
@@ -83935,12 +83936,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 izocab.com
 0.0.0.0 izogard.com
 0.0.0.0 jawaratekno.com
+0.0.0.0 jehovahfireworks.com
 0.0.0.0 jlwz.cn
 0.0.0.0 joyeriatauro.com
 0.0.0.0 js.byxly.vip
 0.0.0.0 jxhuyhoang.com
 0.0.0.0 jyothishmathi.in
 0.0.0.0 kamin-premium.ru
+0.0.0.0 kavacanada.ca
 0.0.0.0 khoancatbetong89.vn
 0.0.0.0 kimyen.net
 0.0.0.0 konsor.ru
@@ -83955,6 +83958,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 lon-01.dlo4d.com
+0.0.0.0 londonairportstransfer.co.uk
 0.0.0.0 m-global.hksty.net
 0.0.0.0 m.bal-stroi.ru
 0.0.0.0 maidforyou1985.com
@@ -83973,14 +83977,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 mogimall.com
 0.0.0.0 mundocarnes.cl
 0.0.0.0 muzzumilruheel.com
+0.0.0.0 myayurvedashoppe.com
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
 0.0.0.0 ndirection.kr
-0.0.0.0 ndown2.ra2ol.com
 0.0.0.0 neccgroup.com
 0.0.0.0 nelees.com
 0.0.0.0 noithaticon.vn
 0.0.0.0 nstools.tsrv1.ws
+0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 ojang.pe.kr
@@ -83988,6 +83993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 online-gebuehrenzaehler.de
+0.0.0.0 onlineappdownload.507.net.cn
 0.0.0.0 onlinetanecni.cz
 0.0.0.0 onyxarmorcrypt.de
 0.0.0.0 onyxcryptorix.de
@@ -84025,7 +84031,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 posts-luxs.com
 0.0.0.0 projenhazir.com
 0.0.0.0 proship.ae
-0.0.0.0 proveedoradeproyectosysoluciones.com
+0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -84066,13 +84072,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
 0.0.0.0 solutelco.com
-0.0.0.0 spoar.org.in
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 steam66.cn
 0.0.0.0 stltpweavzg.tsrv1.ws
+0.0.0.0 stonecradle.com
 0.0.0.0 supercleanspb.ru
 0.0.0.0 support.clz.kr
 0.0.0.0 support.tsrv1.ws
@@ -84104,11 +84110,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 tokitokusb.sbs
 0.0.0.0 toolshare.com.tr
 0.0.0.0 topmedsolution.com
+0.0.0.0 transalpinafan.ro
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trebblay.com
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
-0.0.0.0 tsmau.com
 0.0.0.0 tx-rf.com
 0.0.0.0 tyahelp.top
 0.0.0.0 ujkujiiempp.tsrv1.ws
@@ -84189,6 +84195,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 xai830k.com
+0.0.0.0 xdcq3.com
 0.0.0.0 xenon.studio
 0.0.0.0 xn--90abegbttpjb3bzb2j.xn--p1ai
 0.0.0.0 xn--b1afiqif6c.xn--p1ai
@@ -84206,7 +84213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zapchast-gazkotel.ru
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
-# Number of entries: 498
+# Number of entries: 505
 # End URLHaus
 
 # Start yoyo.org
