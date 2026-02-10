@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 10 February 2026 02:57:06 (UTC)
-# Number of unique domains: 82,218
+# Date: 10 February 2026 07:14:56 (UTC)
+# Number of unique domains: 82,222
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 910f516d3ba0
-127.0.0.53 910f516d3ba0
+127.0.1.1 cfb1f5e79c9d
+127.0.0.53 cfb1f5e79c9d
 
 # Start StevenBlack
 
@@ -85855,7 +85855,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-10 02:49:11 (UTC)                      #
+# Last updated: 2026-02-10 07:08:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -85904,6 +85904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.nishant-labs.com
 0.0.0.0 app.appzcvb.com
 0.0.0.0 apple-service93.ru
+0.0.0.0 ardena.pro
 0.0.0.0 areyouready.co.za
 0.0.0.0 artacom.com.br
 0.0.0.0 asl-company.ru
@@ -85917,6 +85918,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 backupso.com
 0.0.0.0 bankgarantia.ru
 0.0.0.0 banner.patch-support.com
+0.0.0.0 bbb.xfrwu.cn
 0.0.0.0 bfacollege.co.in
 0.0.0.0 biducaconfeitos.com.br
 0.0.0.0 blaiz.me
@@ -85982,6 +85984,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dezcom.com
 0.0.0.0 dfmtjmptskr.tsrv1.ws
 0.0.0.0 dhnconstrucciones.com.ar
+0.0.0.0 dialkwik.in
 0.0.0.0 digitsgroup.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
@@ -86023,13 +86026,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 farschid.de
 0.0.0.0 fd8a7ef9-faae-4c3c-814a-376eb024783e.random.tsrv1.ws
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.edunet.ac
 0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 filezilla.cc
 0.0.0.0 first-security-verden.de
-0.0.0.0 fitforevercavan.ie
 0.0.0.0 flyingmutts.com
-0.0.0.0 frvrefrigeracao.com.br
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fullstacknir.com
 0.0.0.0 fz.tiansys.cn
@@ -86056,6 +86058,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 injectroblox.ru
 0.0.0.0 innaflux.com
 0.0.0.0 innlive.in
+0.0.0.0 inomailerhe.net
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
@@ -86088,6 +86091,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 lon-01.dlo4d.com
 0.0.0.0 londonairportstransfer.co.uk
+0.0.0.0 m-global.hksty.net
 0.0.0.0 maidforyou1985.com
 0.0.0.0 mail.tsrv1.ws
 0.0.0.0 main.dsn.ovh
@@ -86134,6 +86138,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onyxsecuregate.de
 0.0.0.0 onyxsentinelx.de
 0.0.0.0 onyxshieldcore.de
+0.0.0.0 onyxstealthnet.de
 0.0.0.0 openaigrok.com
 0.0.0.0 opencart.notebookparcalari.com
 0.0.0.0 owlcity.ru
@@ -86145,12 +86150,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 pcupd.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 planetariumobil.ro
-0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
 0.0.0.0 polonyauniversiteleri.com.tr
 0.0.0.0 posts-luxs.com
 0.0.0.0 proship.ae
-0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -86178,22 +86181,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 sancaktepekombiservis.com
 0.0.0.0 save.jnrsmcu.com
 0.0.0.0 scainseto.com.br
+0.0.0.0 schenckel.com.br
 0.0.0.0 sdvgpro.ru
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 sg123.net
-0.0.0.0 shaderm.com
-0.0.0.0 sharecodepro.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 simbhaolisugars.in
 0.0.0.0 sk-comtel.com
+0.0.0.0 skanswers.com
 0.0.0.0 skillnorequired.cc
 0.0.0.0 smtp.tsrv1.ws
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
+0.0.0.0 softswapp.com
 0.0.0.0 soliq-dls.com
 0.0.0.0 solutelco.com
-0.0.0.0 spoar.org.in
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
@@ -86240,7 +86243,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 upsinfo2025.com
 0.0.0.0 vagler.ru
-0.0.0.0 valedaspecasdesmonte.com
 0.0.0.0 vcc-library.uk
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
@@ -86265,6 +86267,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.backupallfresh2030.com
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
+0.0.0.0 www.cippe.com.cn
 0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
@@ -86273,6 +86276,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.flybirdexpbd.com
 0.0.0.0 www.healthsouthdothan.com
 0.0.0.0 www.hostingcloud.science
+0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.khavar.com
@@ -86328,12 +86332,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtransfer.net
 0.0.0.0 yzcplsibdtq.tsrv1.ws
 0.0.0.0 zamilgroups.com
+0.0.0.0 zapchast-gazkotel.ru
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zptjv.com
 0.0.0.0 zyhservers.top
-0.0.0.0 zyhunkenya.co.ke
-# Number of entries: 473
+# Number of entries: 477
 # End URLHaus
 
 # Start yoyo.org
