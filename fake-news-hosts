@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 27 February 2026 02:39:37 (UTC)
-# Number of unique domains: 83,190
+# Date: 27 February 2026 07:03:21 (UTC)
+# Number of unique domains: 83,197
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 c6b53ebc0fe3
-127.0.0.53 c6b53ebc0fe3
+127.0.1.1 44d8ca5f68a9
+127.0.0.53 44d8ca5f68a9
 
 # Start StevenBlack
 
@@ -86896,7 +86896,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-27 02:21:17 (UTC)                      #
+# Last updated: 2026-02-27 06:52:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -86919,7 +86919,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 acms.saleseos.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
-0.0.0.0 adver.com.br
 0.0.0.0 agence-immobiliere-lyon.com
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 aliyundunupdate.xyz
@@ -86952,6 +86951,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 bridgeroad.maverickpreviews.com
+0.0.0.0 brightworks.cz
 0.0.0.0 bvaco.com
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
@@ -86960,15 +86960,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
+0.0.0.0 checkinetverifk.com
 0.0.0.0 chinaapper.com
 0.0.0.0 chiptune.com
 0.0.0.0 chuguadventures.co.tz
+0.0.0.0 clash-org.com.cn
 0.0.0.0 classroomseven.com
 0.0.0.0 clisi.digifors.de
 0.0.0.0 cloudstay168.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.unionlever.com
-0.0.0.0 cnc.mu-minhvuong.com
 0.0.0.0 co-emas.com
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 confidenceprocedimentos.com
@@ -87007,7 +87008,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
@@ -87050,7 +87050,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 globaltechbilling.com
 0.0.0.0 gobiotechpestcontrol.com
-0.0.0.0 gutando.com
 0.0.0.0 hanzzmypanel.paneldo.my.id
 0.0.0.0 hasalltalent.com
 0.0.0.0 hitman-pro.ru
@@ -87058,6 +87057,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hobobot.net
 0.0.0.0 hotellacastellana.com.uy
 0.0.0.0 hqweb.id.vn
+0.0.0.0 hseda.com
 0.0.0.0 hui228.ru
 0.0.0.0 i.404.pm
 0.0.0.0 icoffeecloud.com
@@ -87072,6 +87072,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
+0.0.0.0 izocab.com
 0.0.0.0 izogard.com
 0.0.0.0 jawaratekno.com
 0.0.0.0 jlwz.cn
@@ -87100,6 +87101,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lunts.hollower.sbs
 0.0.0.0 m-global.hksty.net
 0.0.0.0 m.meta-dm.com
+0.0.0.0 maidforyou1985.com
 0.0.0.0 mailserver.ccsnetwork.cn
 0.0.0.0 main.dsn.ovh
 0.0.0.0 mandarin.net.au
@@ -87109,6 +87111,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobshah.com
 0.0.0.0 modulowinapp.com
 0.0.0.0 mogimall.com
+0.0.0.0 mundocarnes.cl
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
 0.0.0.0 ndirection.kr
@@ -87127,7 +87130,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 onlineappdownload.507.net.cn
 0.0.0.0 onyxarmorcrypt.de
 0.0.0.0 onyxcryptorix.de
+0.0.0.0 onyxcyberapex.de
+0.0.0.0 onyxfortifypro.de
 0.0.0.0 onyxfortitech.de
+0.0.0.0 onyxguardify.de
 0.0.0.0 onyxnexguard.de
 0.0.0.0 onyxphantomlock.de
 0.0.0.0 onyxprotectech.de
@@ -87141,16 +87147,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 parmisbuilding.com
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
-0.0.0.0 planetariumobil.ro
 0.0.0.0 play.mclighthouse.ir
 0.0.0.0 pls.ddosme.web.id
 0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
 0.0.0.0 polonyauniversiteleri.com.tr
 0.0.0.0 posts-luxs.com
+0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 quanlyphongnet.com
+0.0.0.0 raksun.in
 0.0.0.0 ramactools.net
 0.0.0.0 ramirex.ro
 0.0.0.0 ransokk.de
@@ -87173,7 +87180,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sabungkingbet189.com
 0.0.0.0 save.jnrsmcu.com
 0.0.0.0 scainseto.com.br
-0.0.0.0 schenckel.com.br
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 separadordecc.com
 0.0.0.0 sg123.net
@@ -87186,11 +87192,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 skwise.net
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
-0.0.0.0 solutelco.com
 0.0.0.0 spoar.org.in
 0.0.0.0 ssagntroplexa.com
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
+0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 steam66.cn
 0.0.0.0 stonecradle.com
@@ -87206,13 +87212,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 tapestryoftruth.com
 0.0.0.0 tcp.newyworlds.com
 0.0.0.0 techauto.net
+0.0.0.0 tehnomag.rs
 0.0.0.0 tesllamacapp.com
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 tests.yjzj.org
 0.0.0.0 tfortytimes.com
 0.0.0.0 thebrandmantra.in
 0.0.0.0 theholidayroads.com
-0.0.0.0 theoremaoliveoil.com
 0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 tik-privateuz.sbs
 0.0.0.0 toolshare.com.tr
@@ -87267,7 +87273,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.khavar.com
+0.0.0.0 www.konsor.ru
 0.0.0.0 www.longfeng188.com
+0.0.0.0 www.luuk-lifestyle.eu
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.myvcart.com
@@ -87286,12 +87294,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.skwise.net
 0.0.0.0 www.sunamien.jp
 0.0.0.0 www.support-data.com
-0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
 0.0.0.0 www.test.peperoncinochepassione.it
 0.0.0.0 www.tmcksa.com
 0.0.0.0 www.udobrit.ru
-0.0.0.0 www.uralmetalloprokat.ru
+0.0.0.0 www.vuelaviajero.com
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.xn--on3b15m2lco2u.com
 0.0.0.0 www.zamilgroups.com
@@ -87313,7 +87320,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zapchast-gazkotel.ru
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
-# Number of entries: 412
+# Number of entries: 419
 # End URLHaus
 
 # Start yoyo.org
