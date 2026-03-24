@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 24 March 2026 02:42:39 (UTC)
-# Number of unique domains: 97,122
+# Date: 24 March 2026 07:13:01 (UTC)
+# Number of unique domains: 97,123
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 03f274d358f3
-127.0.0.53 03f274d358f3
+127.0.1.1 a99c02d39cde
+127.0.0.53 a99c02d39cde
 
 # Start StevenBlack
 
@@ -100789,7 +100789,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-03-24 02:27:15 (UTC)                      #
+# Last updated: 2026-03-24 07:07:14 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -100798,18 +100798,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 0022a601.pphost.net
 0.0.0.0 1.off3.ru
 0.0.0.0 111101111.ru
+0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
 0.0.0.0 2.off3.ru
 0.0.0.0 8o8xcdx1.rockapp.digital
 0.0.0.0 aaronart.com
 0.0.0.0 abissnet.net
+0.0.0.0 acaviationsupplies.com
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 access.skaparade.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 agence-immobiliere-lyon.com
-0.0.0.0 agropole.tg
 0.0.0.0 alarmline.com.br
 0.0.0.0 alerts-payables.com
 0.0.0.0 alineeleuterio.com.br
@@ -100853,7 +100854,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cad.659t.cn
 0.0.0.0 cambodiatouristservice.com
 0.0.0.0 cat.xiaoshabi.nl
-0.0.0.0 ccleaner.gl
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
@@ -100874,7 +100874,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 co-emas.com
 0.0.0.0 coastal.dwindlingoverlord.com
 0.0.0.0 compimento.ba
-0.0.0.0 compuserviceonline.com.br
 0.0.0.0 contentmentfairnesspesky.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 controliumbt.com
@@ -100935,24 +100934,23 @@ ff02::3 ip6-allhosts
 0.0.0.0 epanpano.com
 0.0.0.0 estudio.ythan.com.br
 0.0.0.0 evangroup.ru
-0.0.0.0 everycarebd.com
+0.0.0.0 eventourarte.cl
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
 0.0.0.0 featherwallet.io
 0.0.0.0 fenbushijujuefuwu.com
 0.0.0.0 fertas.com.tr
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 filezilla.cc
 0.0.0.0 first-security-verden.de
+0.0.0.0 fitforevercavan.ie
 0.0.0.0 flyingmutts.com
 0.0.0.0 frvrefrigeracao.com.br
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 gabyagozetim.com
 0.0.0.0 galerisenimutiara.com
-0.0.0.0 geo-foundation.vg
 0.0.0.0 gharnt.com
 0.0.0.0 github.guru
 0.0.0.0 globaltechbilling.com
@@ -100981,7 +100979,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 inomailerhe.net
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
-0.0.0.0 ita-airwaysva.com
 0.0.0.0 itssprout.com
 0.0.0.0 izocab.com
 0.0.0.0 izogard.com
@@ -101038,6 +101035,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 o24o.ru
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 onyxarmorcrypt.de
 0.0.0.0 onyxcyberedge.de
@@ -101061,6 +101059,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pid.fly160.com
 0.0.0.0 pizzatang.net
 0.0.0.0 planetariumobil.ro
+0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
 0.0.0.0 pole-rt-inger.com
 0.0.0.0 polonyauniversiteleri.com.tr
@@ -101088,6 +101087,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rrhh.intelsolut.com
 0.0.0.0 rxquickpay.com
 0.0.0.0 sabungkingbet189.com
+0.0.0.0 safewatertech.com
 0.0.0.0 save.jnrsmcu.com
 0.0.0.0 sbstorage.club
 0.0.0.0 scainseto.com.br
@@ -101125,6 +101125,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
+0.0.0.0 swiftfusion.tech
 0.0.0.0 tajalrayhan.com
 0.0.0.0 talentrecruitments.com
 0.0.0.0 tanscarattorneys.co.tz
@@ -101142,7 +101143,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 theholidayroads.com
 0.0.0.0 theoremaoliveoil.com
 0.0.0.0 thtp2.volamngayxua.net
-0.0.0.0 todayallmatchprediction.com
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
 0.0.0.0 transfer.weepee.io
@@ -101160,6 +101160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 vagler.ru
 0.0.0.0 vahanindia.sbs
+0.0.0.0 vcc-library.uk
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -101199,6 +101200,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kotojuki.com
 0.0.0.0 www.longfeng188.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
@@ -101221,7 +101223,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.teslasuit.to
 0.0.0.0 www.test.peperoncinochepassione.it
 0.0.0.0 www.tmcksa.com
-0.0.0.0 www.todayallmatchprediction.com
 0.0.0.0 www.udobrit.ru
 0.0.0.0 www.uralmetalloprokat.ru
 0.0.0.0 www.vuelaviajero.com
@@ -101247,7 +101248,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zontiz.com
 0.0.0.0 zoomaccess.us
 0.0.0.0 zycdjz.com
-# Number of entries: 454
+# Number of entries: 455
 # End URLHaus
 
 # Start yoyo.org
