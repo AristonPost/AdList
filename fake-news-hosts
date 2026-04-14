@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 14 April 2026 03:26:15 (UTC)
-# Number of unique domains: 97,908
+# Date: 14 April 2026 07:57:05 (UTC)
+# Number of unique domains: 97,911
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 f5eb0dc8cbdc
-127.0.0.53 f5eb0dc8cbdc
+127.0.1.1 a94721cff456
+127.0.0.53 a94721cff456
 
 # Start StevenBlack
 
@@ -101579,7 +101579,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-04-14 03:18:14 (UTC)                      #
+# Last updated: 2026-04-14 07:49:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -101613,11 +101613,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 apple-service93.ru
 0.0.0.0 ardena.pro
 0.0.0.0 areyouready.co.za
+0.0.0.0 arpausa.com.ec
 0.0.0.0 artacom.com.br
 0.0.0.0 asl-company.ru
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
 0.0.0.0 augsburg-auto.com
+0.0.0.0 aumri.ae
 0.0.0.0 avbackup.acionline.de
 0.0.0.0 backupso.com
 0.0.0.0 bankgarantia.ru
@@ -101636,6 +101638,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 brightworks.cz
 0.0.0.0 bvaco.com
 0.0.0.0 c.fi3.me
+0.0.0.0 cad.659t.cn
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 ccleaner.gl
@@ -101664,7 +101667,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 controliumbt.com
 0.0.0.0 coralasargetia.ro
 0.0.0.0 corporacioncrf.com
-0.0.0.0 cotecsecuritygroup.com
 0.0.0.0 creativevoltage.com
 0.0.0.0 crimefreesoftware.com
 0.0.0.0 crixup.com
@@ -101716,9 +101718,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 en.taichuan.com
 0.0.0.0 energy63.ru
 0.0.0.0 epanpano.com
+0.0.0.0 esr.ro
 0.0.0.0 estudio.ythan.com.br
 0.0.0.0 etinsendmail.com
 0.0.0.0 etinsendmail.net
+0.0.0.0 eurofarm.ge
 0.0.0.0 evangroup.ru
 0.0.0.0 everycarebd.com
 0.0.0.0 explorer.vg
@@ -101740,11 +101744,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadomamada.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 geo-foundation.vg
-0.0.0.0 gerlimeri.net
 0.0.0.0 ghanioilandgas.com
 0.0.0.0 globalbank.us
+0.0.0.0 globaltechbilling.com
 0.0.0.0 google-services.cc
 0.0.0.0 goragalo.live
+0.0.0.0 governofederal.io
 0.0.0.0 grandvegasbet.com.br
 0.0.0.0 grupomcperu.com
 0.0.0.0 gutando.com
@@ -101768,6 +101773,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 injectroblox.ru
 0.0.0.0 inmbau.com
 0.0.0.0 innlive.in
+0.0.0.0 innovativesr.com
+0.0.0.0 inomanliner.net
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
@@ -101797,8 +101804,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 lejrmakei.com
 0.0.0.0 lejrmakei.net
-0.0.0.0 libss.0x504.com
 0.0.0.0 like.exphelp.life
+0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
@@ -101812,7 +101819,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 magina.online
 0.0.0.0 maidforyou1985.com
 0.0.0.0 mailer-kjermjs.com
-0.0.0.0 mailer-kjermjs.net
 0.0.0.0 malupieng.com.br
 0.0.0.0 marsalek.cy
 0.0.0.0 meetvideogoogle.com
@@ -101821,9 +101827,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mistralkorea.ru
 0.0.0.0 mitreart.com
 0.0.0.0 mobshah.com
-0.0.0.0 mockupcorporation.com
 0.0.0.0 mogimall.com
-0.0.0.0 mondesignweb.com
 0.0.0.0 movtime76.shop
 0.0.0.0 msedge.vg
 0.0.0.0 msgrouppolicy.vg
@@ -101853,7 +101857,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 onyxsecuregate.de
 0.0.0.0 onyxsentinelx.de
 0.0.0.0 onyxstealthnet.de
-0.0.0.0 oracle.zzhreceive.top
 0.0.0.0 owlcity.ru
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
@@ -101885,7 +101888,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
 0.0.0.0 riderspin.com
-0.0.0.0 ritee.in
 0.0.0.0 robertrowe.com
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 rxquickpay.com
@@ -101898,8 +101900,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdvgpro.ru
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 separadordecc.com
+0.0.0.0 sfunited.club
 0.0.0.0 sg123.net
-0.0.0.0 shaderm.com
 0.0.0.0 shahamanatme.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
@@ -101910,7 +101912,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 softcatalog.ru
 0.0.0.0 solar-sanat.net
 0.0.0.0 spacemanslot88.games
-0.0.0.0 spoar.org.in
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
@@ -101926,6 +101927,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 talentrecruitments.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
+0.0.0.0 techtattva.in
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 temirtau-adm.ru
@@ -101980,6 +101982,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.backupallfresh2030.com
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
+0.0.0.0 www.bogenevent.at
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.chenwangqiao.com
 0.0.0.0 www.crazywickedaddiction.com
@@ -101988,7 +101991,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.flybirdexpbd.com
 0.0.0.0 www.hostingcloud.science
-0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.konsor.ru
@@ -101996,6 +101998,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.longfeng188.com
 0.0.0.0 www.massiv.net
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
@@ -102041,7 +102044,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 457
+# Number of entries: 460
 # End URLHaus
 
 # Start yoyo.org
