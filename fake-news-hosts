@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 20 April 2026 03:36:17 (UTC)
-# Number of unique domains: 94,181
+# Date: 20 April 2026 08:20:11 (UTC)
+# Number of unique domains: 94,194
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 9962864b89aa
-127.0.0.53 9962864b89aa
+127.0.1.1 3cf438b569e1
+127.0.0.53 3cf438b569e1
 
 # Start StevenBlack
 
@@ -20513,9 +20513,9 @@ ff02::3 ip6-allhosts
 # Start hostsVN
 
 # Title: hostsVN
-# Last modified: 09 Apr 2026 09:58 UTC+7
-# Version: 2604090958
-# Blocked: 1.733 domains
+# Last modified: 20 Apr 2026 14:38 UTC+7
+# Version: 2604201438
+# Blocked: 1.741 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -21870,6 +21870,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.moneyoyo.org
 0.0.0.0 feed.moneyoyo.org
 0.0.0.0 sdk.moneyoyo.com
+#[engagelab.cc]
+0.0.0.0 engagelab.cc
+0.0.0.0 global-sis.api.engagelab.cc
+0.0.0.0 global-websis.api.engagelab.cc
+0.0.0.0 pushstat.api.engagelab.cc
+0.0.0.0 webpushstat.api.engagelab.cc
+0.0.0.0 www.engagelab.cc
+#[engagelab.com]
+0.0.0.0 global-sis.engagelab.com
+0.0.0.0 webpushstat-sgp.engagelab.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -85136,7 +85146,7 @@ ff02::3 ip6-allhosts
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 19 Apr 2026 at 16:50:38 GMT
+# Last updated: Mon, 20 Apr 2026 at 04:32:32 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -86193,6 +86203,7 @@ ff02::3 ip6-allhosts
 
 # sites with known trojans, phishing, or other malware
 0.0.0.0 0.nextyourcontent.com
+0.0.0.0 00000.uno
 0.0.0.0 05tz2e9.com
 0.0.0.0 1-bmo-client-login.com
 0.0.0.0 1-directshipmtdhlsexpress-order.help
@@ -97869,7 +97880,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-04-20 03:31:09 (UTC)                      #
+# Last updated: 2026-04-20 08:14:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -97881,6 +97892,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1717.1000uc.com
 0.0.0.0 176.65.148.173.ptr.pfcloud.network
 0.0.0.0 aaronart.com
+0.0.0.0 acaviationsupplies.com
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 access.skaparade.com
 0.0.0.0 acms.saleseos.com
@@ -97907,7 +97919,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 augsburg-auto.com
 0.0.0.0 avbackup.acionline.de
 0.0.0.0 backupso.com
-0.0.0.0 bblissmassage.com
+0.0.0.0 bacollections.com
 0.0.0.0 bbos.minet.vn
 0.0.0.0 bendigo-homesa.info
 0.0.0.0 biducaconfeitos.com.br
@@ -97918,13 +97930,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 bombayonline.in
 0.0.0.0 book.rollingvideogames.com
-0.0.0.0 boydjackson.org
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 bvaco.com
+0.0.0.0 c.fi3.me
+0.0.0.0 c2.mc-live.online
 0.0.0.0 cad.659t.cn
-0.0.0.0 carcaran.com
 0.0.0.0 careersconnect.work
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
@@ -97937,6 +97949,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 checkinetverifk.com
 0.0.0.0 chinaapper.com
 0.0.0.0 chiptune.com
+0.0.0.0 chuguadventures.co.tz
 0.0.0.0 chungminhtaichinhsaigon.net
 0.0.0.0 cl.ssouy.com
 0.0.0.0 clipaid.app
@@ -97945,7 +97958,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cn.unionlever.com
 0.0.0.0 cnpaintequipment.com
 0.0.0.0 co-emas.com
-0.0.0.0 codeassociates.co.ke
 0.0.0.0 compimento.ba
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 contentmentfairnesspesky.com
@@ -97976,7 +97988,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
-0.0.0.0 dl.armour-inc-down.net
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 doc.e-statements.app
@@ -98018,11 +98029,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 fenbushijujuefuwu.com
 0.0.0.0 fertas.com.tr
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 filezilla.cc
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
+0.0.0.0 forxtra.com
 0.0.0.0 friendlydomain.ru
 0.0.0.0 frozi.cc
 0.0.0.0 ftp.ywxww.net
@@ -98030,6 +98041,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 geo-foundation.vg
+0.0.0.0 gerlimeri.net
 0.0.0.0 globalbank.us
 0.0.0.0 globaltechbilling.com
 0.0.0.0 google-services.cc
@@ -98045,19 +98057,23 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotellacastellana.com.uy
 0.0.0.0 hqweb.id.vn
 0.0.0.0 hsbcrewards-homesa.info
+0.0.0.0 hseda.com
 0.0.0.0 i.404.pm
 0.0.0.0 icoffeecloud.com
 0.0.0.0 igra123.com
 0.0.0.0 ilonermailc.com
+0.0.0.0 ilonermailc.net
 0.0.0.0 img.ipxxxx.com
 0.0.0.0 in-oman-liner.com
 0.0.0.0 indeanapolice.cc
 0.0.0.0 injectroblox.ru
 0.0.0.0 inmbau.com
 0.0.0.0 innlive.in
+0.0.0.0 inomanliner.net
 0.0.0.0 insureongo.net
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
+0.0.0.0 isometricsindia.co.in
 0.0.0.0 itssprout.com
 0.0.0.0 izocab.com
 0.0.0.0 izogard.com
@@ -98082,10 +98098,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 lejrmakei.com
+0.0.0.0 lejrmakei.net
 0.0.0.0 libss.0x504.com
+0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 lloydsbank-homesa.info
-0.0.0.0 lmlawcorp.com
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 lon-01.dlo4d.com
@@ -98101,14 +98118,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 malupieng.com.br
 0.0.0.0 marsalek.cy
 0.0.0.0 meetvideogoogle.com
-0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 mgtms.cc
 0.0.0.0 ministrew.info
 0.0.0.0 mistralkorea.ru
 0.0.0.0 mitreart.com
 0.0.0.0 mobshah.com
 0.0.0.0 mogimall.com
-0.0.0.0 movtime76.shop
+0.0.0.0 mondesignweb.com
 0.0.0.0 msedge.vg
 0.0.0.0 msgrouppolicy.vg
 0.0.0.0 muledo.com
@@ -98119,7 +98135,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 new.quranushaiqer.org.sa
 0.0.0.0 noithaticon.vn
 0.0.0.0 nrmlogistics.ro
-0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 oblionts.com
@@ -98128,7 +98143,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ok-vsefotki.online
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
-0.0.0.0 omax.com.pk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 onyxguardify.de
 0.0.0.0 onyxguardwave.de
@@ -98173,6 +98187,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rzdwkgtc.chernichco5t.digital
 0.0.0.0 sablayan.seasonshotelmindoro.com
 0.0.0.0 sabungkingbet189.com
+0.0.0.0 save.jnrsmcu.com
 0.0.0.0 scainseto.com.br
 0.0.0.0 sdvgpro.ru
 0.0.0.0 sec.xiaoshabi.nl
@@ -98189,6 +98204,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 softcatalog.ru
 0.0.0.0 solar-sanat.net
 0.0.0.0 spacemanslot88.games
+0.0.0.0 spoar.org.in
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
@@ -98204,6 +98220,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 talentrecruitments.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
+0.0.0.0 techbud.ro
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 temirtau-adm.ru
@@ -98228,6 +98245,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.volam2005pk.com
 0.0.0.0 vagler.ru
 0.0.0.0 vault88x.secure-efficient2.su
+0.0.0.0 vcc-library.uk
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -98268,7 +98286,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kotojuki.com
 0.0.0.0 www.longfeng188.com
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
@@ -98284,7 +98301,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sgeseducation.com
 0.0.0.0 www.silver-hubdachwohnwagen.de
 0.0.0.0 www.starcountry.net
-0.0.0.0 www.steamrub.com
 0.0.0.0 www.support-data.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -98311,10 +98327,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtransfer.net
 0.0.0.0 zamilgroups.com
 0.0.0.0 zenglobalenerji.com
-0.0.0.0 zhigao5191.com
 0.0.0.0 zoommeetingg.click
 0.0.0.0 zycdjz.com
-# Number of entries: 440
+# Number of entries: 444
 # End URLHaus
 
 # Start yoyo.org
