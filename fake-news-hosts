@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 21 April 2026 03:28:36 (UTC)
-# Number of unique domains: 93,042
+# Date: 21 April 2026 08:02:53 (UTC)
+# Number of unique domains: 93,043
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 2f1a5fd87df0
-127.0.0.53 2f1a5fd87df0
+127.0.1.1 a5185147c865
+127.0.0.53 a5185147c865
 
 # Start StevenBlack
 
@@ -20513,8 +20513,8 @@ ff02::3 ip6-allhosts
 # Start hostsVN
 
 # Title: hostsVN
-# Last modified: 20 Apr 2026 14:38 UTC+7
-# Version: 2604201438
+# Last modified: 21 Apr 2026 14:09 UTC+7
+# Version: 2604211409
 # Blocked: 1.741 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -96743,7 +96743,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-04-21 03:17:09 (UTC)                      #
+# Last updated: 2026-04-21 07:54:12 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -96763,6 +96763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alarmline.com.br
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
+0.0.0.0 allister.ee
 0.0.0.0 allsydevs.com
 0.0.0.0 alternativas.ru
 0.0.0.0 api.baimless.com
@@ -96796,7 +96797,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 brightworks.cz
 0.0.0.0 bvaco.com
 0.0.0.0 c.fi3.me
-0.0.0.0 c2.mc-live.online
 0.0.0.0 cad.659t.cn
 0.0.0.0 careersconnect.work
 0.0.0.0 cat.xiaoshabi.nl
@@ -96818,9 +96818,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloudstay168.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.unionlever.com
-0.0.0.0 cnc.xenema.vip
 0.0.0.0 co-emas.com
 0.0.0.0 compimento.ba
+0.0.0.0 compuserviceonline.com.br
 0.0.0.0 contentmentfairnesspesky.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 controliumbt.com
@@ -96845,7 +96845,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dezcom.com
 0.0.0.0 dfopetroleum.com
 0.0.0.0 dhnconstrucciones.com.ar
-0.0.0.0 dialkwik.in
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
@@ -96854,6 +96853,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dlvryintl.com
 0.0.0.0 doc.e-statements.app
 0.0.0.0 donkeytourscroatia.com
+0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
@@ -96881,7 +96881,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ensions.xyz
 0.0.0.0 epanpano.com
 0.0.0.0 estudio.ythan.com.br
-0.0.0.0 eurofarm.ge
 0.0.0.0 evangroup.ru
 0.0.0.0 everycarebd.com
 0.0.0.0 explorer.vg
@@ -96905,6 +96904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 getamarin.ro
 0.0.0.0 globalbank.us
 0.0.0.0 globaltechbilling.com
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 google-services.cc
 0.0.0.0 greenf.alexion.rs
 0.0.0.0 grupomcperu.com
@@ -96951,12 +96951,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 libss.0x504.com
-0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 lon-01.dlo4d.com
-0.0.0.0 londonairportstransfer.co.uk
 0.0.0.0 luizmatoso.com.br
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
@@ -96964,16 +96962,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 maidforyou1985.com
 0.0.0.0 mailshare.it
 0.0.0.0 malupieng.com.br
+0.0.0.0 markway.ru
 0.0.0.0 marsalek.cy
 0.0.0.0 md.ccsuquk.com
 0.0.0.0 meetvideogoogle.com
+0.0.0.0 metotmimarlik.com.tr
 0.0.0.0 mgtms.cc
 0.0.0.0 ministrew.info
 0.0.0.0 mistralkorea.ru
 0.0.0.0 mitreart.com
 0.0.0.0 mobshah.com
 0.0.0.0 mogimall.com
-0.0.0.0 mondesignweb.com
+0.0.0.0 mosselnet.co.za
 0.0.0.0 msedge.vg
 0.0.0.0 msgrouppolicy.vg
 0.0.0.0 muledo.com
@@ -96983,6 +96983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nelees.com
 0.0.0.0 new.quranushaiqer.org.sa
 0.0.0.0 noithaticon.vn
+0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 oblionts.com
@@ -96991,7 +96992,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ok-vsefotki.online
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
-0.0.0.0 omax.com.pk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 onyxguardify.de
 0.0.0.0 onyxguardwave.de
@@ -97042,7 +97042,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 separadordecc.com
 0.0.0.0 sg123.net
-0.0.0.0 shaderm.com
 0.0.0.0 shahamanatme.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
@@ -97093,7 +97092,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vagler.ru
 0.0.0.0 valfanto.com
 0.0.0.0 vault88x.secure-efficient2.su
-0.0.0.0 vcc-library.uk
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -97117,7 +97115,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.backupallfresh2030.com
-0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.chenwangqiao.com
@@ -97128,12 +97125,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.flybirdexpbd.com
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hseda.com
+0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.konsor.ru
 0.0.0.0 www.kotojuki.com
 0.0.0.0 www.longfeng188.com
 0.0.0.0 www.maxpower01.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mixturro.com
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
@@ -97149,6 +97148,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sgeseducation.com
 0.0.0.0 www.silver-hubdachwohnwagen.de
 0.0.0.0 www.starcountry.net
+0.0.0.0 www.steamrub.com
 0.0.0.0 www.support-data.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -97161,6 +97161,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.websitedesigningindia.biz
 0.0.0.0 www.xn--on3b15m2lco2u.com
+0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zhikey.com
 0.0.0.0 x.vodxz.icu
 0.0.0.0 xdcq3.com
@@ -97171,13 +97172,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 xshop.com.tr
 0.0.0.0 xuezha.net
 0.0.0.0 yaso.su
-0.0.0.0 yongtai.cn
 0.0.0.0 youtransfer.net
+0.0.0.0 zamilgroups.com
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zoommeetingg.click
 0.0.0.0 zycdjz.com
-# Number of entries: 429
+# Number of entries: 430
 # End URLHaus
 
 # Start yoyo.org
