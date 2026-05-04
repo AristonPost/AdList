@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 04 May 2026 03:51:38 (UTC)
-# Number of unique domains: 86,674
+# Date: 04 May 2026 08:37:52 (UTC)
+# Number of unique domains: 86,687
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 ad6b83f2cb2d
-127.0.0.53 ad6b83f2cb2d
+127.0.1.1 31e6f78bceff
+127.0.0.53 31e6f78bceff
 
 # Start StevenBlack
 
@@ -89975,7 +89975,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-05-04 03:44:17 (UTC)                      #
+# Last updated: 2026-05-04 08:29:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -90007,9 +90007,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 agentairw.fina1vrub.surf
-0.0.0.0 airy.brightreef.surf
 0.0.0.0 airy.brightskyway.lat
 0.0.0.0 airy.ipfsway.lat
+0.0.0.0 airy.logicreef.surf
 0.0.0.0 alarmline.com.br
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
@@ -90027,7 +90027,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 apple-service93.ru
 0.0.0.0 aqua.clogg-opposition.surf
 0.0.0.0 ardena.pro
-0.0.0.0 area.solidcore.surf
 0.0.0.0 area.solidstonecore.lat
 0.0.0.0 areyouready.co.za
 0.0.0.0 ark-fluxis.faint-gather.surf
@@ -90048,10 +90047,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 backupso.com
 0.0.0.0 bala6-forge.notice-ohlamon.surf
 0.0.0.0 base.anythin8weaned.surf
-0.0.0.0 base.solidcore.surf
 0.0.0.0 base.solidstonecore.lat
 0.0.0.0 base.wintercoldlab.lat
-0.0.0.0 bblissmassage.com
 0.0.0.0 bbos.minet.vn
 0.0.0.0 bchx.poorbet.lat
 0.0.0.0 beoauto.alexion.rs
@@ -90061,10 +90058,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 beta.rapidfirepixel.lat
 0.0.0.0 blessdayservices.org
 0.0.0.0 blogs.sokun.jp
-0.0.0.0 blue.brightreef.surf
 0.0.0.0 blue.brightskyway.lat
 0.0.0.0 blue.clogg-opposition.surf
 0.0.0.0 blue.ipfsway.lat
+0.0.0.0 blue.logicreef.surf
 0.0.0.0 blue.magicflowpoint.lat
 0.0.0.0 bmdcompany.com
 0.0.0.0 bnet-api.playm8ru.win
@@ -90072,13 +90069,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 bolt.brightskycore.lat
 0.0.0.0 bolt.darkstonebase.lat
 0.0.0.0 bolt.installer-catip.surf
+0.0.0.0 bolt.nanologic.surf
 0.0.0.0 bolt.purelogic.surf
 0.0.0.0 bolt.silvermoonlight.lat
 0.0.0.0 bolt.vmesscab.lat
 0.0.0.0 bombayonline.in
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 box.coldwindy.lat
-0.0.0.0 boydjackson.org
 0.0.0.0 br1d-array.chi8nondanyl.surf
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 brave.archiv-checkered.surf
@@ -90093,7 +90090,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 byte.powertechlink.lat
 0.0.0.0 byte.quantumwave.surf
 0.0.0.0 byte.urbanlogicgrid.lat
-0.0.0.0 byte.urbanpulse.surf
 0.0.0.0 c.fi3.me
 0.0.0.0 cad.659t.cn
 0.0.0.0 cambodiatouristservice.com
@@ -90110,7 +90106,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 checkinetverifk.com
 0.0.0.0 chinaapper.com
 0.0.0.0 chiptune.com
-0.0.0.0 chuguadventures.co.tz
 0.0.0.0 chungminhtaichinhsaigon.net
 0.0.0.0 cl.ssouy.com
 0.0.0.0 clipaid.app
@@ -90123,13 +90118,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 coin.puregoldkey.lat
 0.0.0.0 cold.clogg-opposition.surf
 0.0.0.0 cold.darkwinterlab.lat
-0.0.0.0 cold.winterpeak.surf
+0.0.0.0 cold.frostpoint.surf
+0.0.0.0 cold.oceanblue.surf
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 contentmentfairnesspesky.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 controliumbt.com
 0.0.0.0 conv-line.faint-gather.surf
 0.0.0.0 coralasargetia.ro
+0.0.0.0 coralpac.com
 0.0.0.0 core.agocert.lat
 0.0.0.0 core.anythin8weaned.surf
 0.0.0.0 core.darkstonebase.lat
@@ -90151,6 +90148,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dash.brightskycore.lat
 0.0.0.0 dash.installer-catip.surf
 0.0.0.0 dash.neonstream.surf
+0.0.0.0 dash.pixelstep.surf
 0.0.0.0 dash.querytan.lat
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcrun.co.uk
@@ -90195,6 +90193,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 drevos.ro
 0.0.0.0 drift.longwave5hot.surf
 0.0.0.0 dubaitechnicalservice.ae
+0.0.0.0 duobeam.com
 0.0.0.0 dusttv.com
 0.0.0.0 dweixin.cn
 0.0.0.0 dynamiccom.fina1vrub.surf
@@ -90203,6 +90202,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 e18apdkc.faint-gather.surf
 0.0.0.0 easybrand.vn
 0.0.0.0 echo.neonstream.surf
+0.0.0.0 echo.pixelstep.surf
 0.0.0.0 echo.querytan.lat
 0.0.0.0 echo.urbanflowbase.lat
 0.0.0.0 edge.agocert.lat
@@ -90212,49 +90212,51 @@ ff02::3 ip6-allhosts
 0.0.0.0 edge.wintercoldlab.lat
 0.0.0.0 eggsalt.clogg-opposition.surf
 0.0.0.0 electri.billregulator.com
+0.0.0.0 elisans.novayonetim.com
 0.0.0.0 emjp1vs.woodfor.lat
 0.0.0.0 en.taichuan.com
 0.0.0.0 enginetone.saget-sly.surf
 0.0.0.0 epanpano.com
 0.0.0.0 estudio.ythan.com.br
-0.0.0.0 eurofarm.ge
 0.0.0.0 evangroup.ru
 0.0.0.0 everycarebd.com
 0.0.0.0 explorer.vg
 0.0.0.0 f1310.saget-sly.surf
-0.0.0.0 facanha.com.br
+0.0.0.0 f8designstudio.com
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
 0.0.0.0 fast.andipfs.lat
 0.0.0.0 fast.boldfirestep.lat
 0.0.0.0 fast.clogg-opposition.surf
 0.0.0.0 fast.magicflowpoint.lat
-0.0.0.0 fast.rapidstorm.surf
+0.0.0.0 fast.powerdrift.surf
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 fe.boldfirestep.lat
 0.0.0.0 fertas.com.tr
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 fire.andipfs.lat
 0.0.0.0 fire.anythin8weaned.surf
 0.0.0.0 fire.boldfirestep.lat
-0.0.0.0 fire.rapidstorm.surf
+0.0.0.0 fire.powerdrift.surf
 0.0.0.0 fire.wildfirelake.lat
 0.0.0.0 first-security-verden.de
 0.0.0.0 fl3e-wave.saget-sly.surf
 0.0.0.0 flow.agilelid.lat
+0.0.0.0 flow.nanologic.surf
 0.0.0.0 flow.purelogic.surf
 0.0.0.0 flow.wildfirelake.lat
 0.0.0.0 flux.mintur8ency.surf
 0.0.0.0 flux.quantumwave.surf
 0.0.0.0 flux.rapidfirepixel.lat
 0.0.0.0 flux.silvermoonlight.lat
-0.0.0.0 flux.urbanpulse.surf
 0.0.0.0 flux.vmesscab.lat
 0.0.0.0 flyingmutts.com
 0.0.0.0 forestoke.yeldfor.lat
 0.0.0.0 frost.darkwinterlab.lat
-0.0.0.0 frost.winterpeak.surf
+0.0.0.0 frost.frostpoint.surf
+0.0.0.0 frost.oceanblue.surf
 0.0.0.0 frozi.cc
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 ftsif.handker-unicamer.surf
@@ -90271,6 +90273,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gear.brightskycore.lat
 0.0.0.0 gear.installer-catip.surf
 0.0.0.0 gear.neonstream.surf
+0.0.0.0 gear.pixelstep.surf
 0.0.0.0 gear.querytan.lat
 0.0.0.0 geo-0ffer.chi8nondanyl.surf
 0.0.0.0 geo-foundation.vg
@@ -90283,6 +90286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gold.puregoldkey.lat
 0.0.0.0 google-services.cc
 0.0.0.0 gr4nd4-node.family-man.surf
+0.0.0.0 grandtheftauto6.cc
 0.0.0.0 great.wintercoldlab.lat
 0.0.0.0 greenf.alexion.rs
 0.0.0.0 grid-relay.notice-ohlamon.surf
@@ -90296,12 +90300,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 gutando.com
 0.0.0.0 handlerric.family-man.surf
 0.0.0.0 handlprint.yeldfor.lat
-0.0.0.0 hard.solidcore.surf
 0.0.0.0 hard.solidstonecore.lat
 0.0.0.0 hasalltalent.com
-0.0.0.0 high.brightreef.surf
 0.0.0.0 high.brightskyway.lat
 0.0.0.0 high.ipfsway.lat
+0.0.0.0 high.logicreef.surf
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
@@ -90315,7 +90318,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 hseda.com
 0.0.0.0 i.404.pm
 0.0.0.0 ice.darkwinterlab.lat
-0.0.0.0 ice.winterpeak.surf
+0.0.0.0 ice.frostpoint.surf
+0.0.0.0 ice.oceanblue.surf
 0.0.0.0 icoffeecloud.com
 0.0.0.0 igra123.com
 0.0.0.0 indeanapolice.cc
@@ -90326,7 +90330,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 inmbau.com
 0.0.0.0 ircftp.net
 0.0.0.0 iron.sculpture5traight.surf
-0.0.0.0 iron.solidcore.surf
 0.0.0.0 iron.solidstonecore.lat
 0.0.0.0 isiore.com.co
 0.0.0.0 isometricsindia.co.in
@@ -90340,7 +90343,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 joyeriatauro.com
 0.0.0.0 jump.andipfs.lat
 0.0.0.0 jump.boldfirestep.lat
-0.0.0.0 jump.rapidstorm.surf
+0.0.0.0 jump.powerdrift.surf
 0.0.0.0 jvtu4ew.notice-ohlamon.surf
 0.0.0.0 jyothishmathi.in
 0.0.0.0 k3rn9-spark.family-man.surf
@@ -90349,6 +90352,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kel-crestis.klatren.lat
 0.0.0.0 kelcoreet.weplord.lat
 0.0.0.0 key.magicgoldlogic.lat
+0.0.0.0 key.nanologic.surf
 0.0.0.0 key.puregoldkey.lat
 0.0.0.0 key.purelogic.surf
 0.0.0.0 key.vmesscab.lat
@@ -90356,11 +90360,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 kick.andipfs.lat
 0.0.0.0 kick.boldfirestep.lat
 0.0.0.0 kick.brightskycore.lat
+0.0.0.0 kick.darktrace.surf
 0.0.0.0 kick.installer-catip.surf
-0.0.0.0 kick.rapidstorm.surf
+0.0.0.0 kick.powerdrift.surf
 0.0.0.0 kilo.casino-fascin.surf
 0.0.0.0 kilo.starlightnova.lat
 0.0.0.0 kimyen.net
+0.0.0.0 kis.marketing
 0.0.0.0 kokorostore.it
 0.0.0.0 konsor.ru
 0.0.0.0 kramersmarionnettes.com
@@ -90373,10 +90379,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 last.solidstonecore.lat
 0.0.0.0 lava.sculpture5traight.surf
 0.0.0.0 lawfirm.paperbirdtech.com
-0.0.0.0 leaf.greenforest.surf
+0.0.0.0 leaf.brightpath.surf
 0.0.0.0 leaf.greenforesthub.lat
 0.0.0.0 leo.longwave5hot.surf
 0.0.0.0 libss.0x504.com
+0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 link.agilelid.lat
 0.0.0.0 link.anythin8weaned.surf
@@ -90402,8 +90409,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 maidforyou1985.com
 0.0.0.0 mail.ssadownload.top
 0.0.0.0 marsalek.cy
-0.0.0.0 mass.solidcore.surf
 0.0.0.0 mass.solidstonecore.lat
+0.0.0.0 maxtuberussia.lol
 0.0.0.0 meetvideogoogle.com
 0.0.0.0 memor-prim.inconprofitab1e.surf
 0.0.0.0 merfluxar4.notice-ohlamon.surf
@@ -90421,6 +90428,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobi.starlightnova.lat
 0.0.0.0 mobshah.com
 0.0.0.0 mode.neonstream.surf
+0.0.0.0 mode.pixelstep.surf
 0.0.0.0 mode.querytan.lat
 0.0.0.0 mode.urbanflowbase.lat
 0.0.0.0 moduleprime.weplord.lat
@@ -90436,6 +90444,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mygrocerbox.com
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
+0.0.0.0 neilshairdressers.co.uk
 0.0.0.0 nelees.com
 0.0.0.0 neon.longwave5hot.surf
 0.0.0.0 neon.powertechlink.lat
@@ -90450,6 +90459,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nova.cyberdrift.surf
 0.0.0.0 nova.ipsetlap.lat
 0.0.0.0 nova.powertechlink.lat
+0.0.0.0 nusatoyota.co.id
 0.0.0.0 nx10.fiverfle8ma.surf
 0.0.0.0 nx44.silverwoodhub.lat
 0.0.0.0 nx88.silvermoonlight.lat
@@ -90458,6 +90468,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 officials.ink
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 omni.mintur8ency.surf
 0.0.0.0 omni.quantumwave.surf
 0.0.0.0 omni.starlightnova.lat
@@ -90476,8 +90487,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 packagesca.woodfor.lat
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 panychurasc0.com
-0.0.0.0 park.greenforest.surf
+0.0.0.0 park.brightpath.surf
 0.0.0.0 park.greenforesthub.lat
+0.0.0.0 pay.aqiu6.com
 0.0.0.0 pc7n.chi8nondanyl.surf
 0.0.0.0 pcupd.com
 0.0.0.0 peak.sculpture5traight.surf
@@ -90486,6 +90498,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.casino-fascin.surf
 0.0.0.0 planetariumobil.ro
 0.0.0.0 plasteredplayn.com
+0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
 0.0.0.0 point.archiv-checkered.surf
 0.0.0.0 point.oceanstormview.lat
@@ -90541,19 +90554,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 rnqb.yeldfor.lat
 0.0.0.0 robertrowe.com
 0.0.0.0 rock.sculpture5traight.surf
-0.0.0.0 rock.solidcore.surf
 0.0.0.0 rock.solidstonecore.lat
-0.0.0.0 root.greenforest.surf
+0.0.0.0 root.brightpath.surf
 0.0.0.0 root.greenforesthub.lat
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 rq6yosv.breadpotho1e.surf
 0.0.0.0 rrjp7hig.wentgot.lat
 0.0.0.0 run.andipfs.lat
 0.0.0.0 run.boldfirestep.lat
-0.0.0.0 run.rapidstorm.surf
+0.0.0.0 run.powerdrift.surf
 0.0.0.0 runw2-flow.wentgot.lat
 0.0.0.0 rush.andipfs.lat
-0.0.0.0 rush.rapidstorm.surf
+0.0.0.0 rush.powerdrift.surf
 0.0.0.0 rxquickpay.com
 0.0.0.0 s0un-panel.yeldfor.lat
 0.0.0.0 sablayan.seasonshotelmindoro.com
@@ -90562,7 +90574,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 salt.oceanwavepoint.lat
 0.0.0.0 sand.sculpture5traight.surf
 0.0.0.0 sandman.lat
-0.0.0.0 sanjaydharmraj.in
 0.0.0.0 save.jnrsmcu.com
 0.0.0.0 scainseto.com.br
 0.0.0.0 schenckel.com.br
@@ -90570,7 +90581,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 separadordecc.com
 0.0.0.0 sg123.net
-0.0.0.0 shaderm.com
 0.0.0.0 shahamanatme.com
 0.0.0.0 shift.casino-fascin.surf
 0.0.0.0 shift.goldenleafway.lat
@@ -90583,15 +90593,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 site.wintercoldlab.lat
 0.0.0.0 sk-comtel.com
 0.0.0.0 skip.neonstream.surf
+0.0.0.0 skip.pixelstep.surf
 0.0.0.0 skip.querytan.lat
 0.0.0.0 skip.urbanflowbase.lat
 0.0.0.0 sky.brightreef.surf
 0.0.0.0 sky.ipfsway.lat
+0.0.0.0 sky.logicreef.surf
 0.0.0.0 sky.magicflowpoint.lat
 0.0.0.0 smartermail.host
 0.0.0.0 snap.brightskycore.lat
 0.0.0.0 snap.installer-catip.surf
 0.0.0.0 snap.neonstream.surf
+0.0.0.0 snap.pixelstep.surf
 0.0.0.0 snap.querytan.lat
 0.0.0.0 soft.110route.com
 0.0.0.0 softcatalog.ru
@@ -90607,6 +90620,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 star.brightskyway.lat
 0.0.0.0 star.darknightstar.lat
 0.0.0.0 star.ipfsway.lat
+0.0.0.0 star.logicreef.surf
 0.0.0.0 star.magicflowpoint.lat
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
@@ -90635,7 +90649,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tehnomag.rs
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 temp.darkwinterlab.lat
-0.0.0.0 temp.winterpeak.surf
+0.0.0.0 temp.frostpoint.surf
+0.0.0.0 temp.oceanblue.surf
 0.0.0.0 tengfeidn.cn
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 tetra.mintur8ency.surf
@@ -90658,7 +90673,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trace.archiv-checkered.surf
 0.0.0.0 trace.silverwoodhub.lat
 0.0.0.0 transparenciacanaa.com.br
-0.0.0.0 tree.greenforest.surf
+0.0.0.0 tree.brightpath.surf
 0.0.0.0 tree.greenforesthub.lat
 0.0.0.0 trtmyanmar.com
 0.0.0.0 trustedbas.handker-unicamer.surf
@@ -90692,11 +90707,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 vibe.agilelid.lat
 0.0.0.0 vibe.quantumwave.surf
 0.0.0.0 vibe.silvermoonlight.lat
-0.0.0.0 vibe.urbanpulse.surf
 0.0.0.0 videomeetgoogle.com
-0.0.0.0 view.brightreef.surf
 0.0.0.0 view.brightskyway.lat
 0.0.0.0 view.ipfsway.lat
+0.0.0.0 view.logicreef.surf
 0.0.0.0 view.magicflowpoint.lat
 0.0.0.0 vincentdemiero.com
 0.0.0.0 visam.info
@@ -90717,26 +90731,25 @@ ff02::3 ip6-allhosts
 0.0.0.0 wascold.clogg-opposition.surf
 0.0.0.0 wave.goldenleafway.lat
 0.0.0.0 wave.mintur8ency.surf
-0.0.0.0 wearjora.com
 0.0.0.0 webcstore.pw
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
-0.0.0.0 wild.greenforest.surf
 0.0.0.0 wild.greenforesthub.lat
 0.0.0.0 wild.wildfirelake.lat
 0.0.0.0 wildlan.breadpotho1e.surf
-0.0.0.0 wind.winterpeak.surf
+0.0.0.0 wind.oceanblue.surf
 0.0.0.0 windomstatetheater.com
 0.0.0.0 wing.brightskyway.lat
 0.0.0.0 wittenhorst.eu
 0.0.0.0 wood-zone.weplord.lat
-0.0.0.0 wood.greenforest.surf
+0.0.0.0 wood.brightpath.surf
 0.0.0.0 wood.greenforesthub.lat
 0.0.0.0 wq278yz.qantuni.lat
 0.0.0.0 www.ardguisser.com
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.backupallfresh2030.com
+0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.chenwangqiao.com
@@ -90752,7 +90765,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kotojuki.com
 0.0.0.0 www.longfeng188.com
 0.0.0.0 www.medises.co.kr
-0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
@@ -90796,6 +90808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zeno.goldenleafway.lat
 0.0.0.0 zeno.mintur8ency.surf
+0.0.0.0 zeno.nanologic.surf
 0.0.0.0 zeno.purelogic.surf
 0.0.0.0 zeno.silvermoonlight.lat
 0.0.0.0 zeno.vmesscab.lat
@@ -90804,14 +90817,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 zeta.powertechlink.lat
 0.0.0.0 zeta.quantumwave.surf
 0.0.0.0 zeta.starlightnova.lat
-0.0.0.0 zeta.urbanpulse.surf
 0.0.0.0 zhigao5191.com
 0.0.0.0 zone.darkwinterlab.lat
-0.0.0.0 zone.winterpeak.surf
+0.0.0.0 zone.frostpoint.surf
+0.0.0.0 zone.oceanblue.surf
 0.0.0.0 zoom.brightskycore.lat
 0.0.0.0 zoom.installer-catip.surf
 0.0.0.0 zycdjz.com
-# Number of entries: 831
+# Number of entries: 844
 # End URLHaus
 
 # Start yoyo.org
