@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 May 2026 03:50:28 (UTC)
-# Number of unique domains: 87,386
+# Date: 12 May 2026 08:48:24 (UTC)
+# Number of unique domains: 87,376
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 a6561631dd9a
-127.0.0.53 a6561631dd9a
+127.0.1.1 dc31529174bc
+127.0.0.53 dc31529174bc
 
 # Start StevenBlack
 
@@ -90826,7 +90826,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-05-12 03:49:07 (UTC)                      #
+# Last updated: 2026-05-12 08:44:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -90896,7 +90896,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 banb3.wetshardauth.lat
 0.0.0.0 bandwid-route.mixzipcore64.lat
 0.0.0.0 bay-loyal.cloudmesh.lat
-0.0.0.0 bblissmassage.com
 0.0.0.0 bbos.minet.vn
 0.0.0.0 beartrend.logicstack.ink
 0.0.0.0 beoauto.alexion.rs
@@ -90916,7 +90915,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bombayonline.in
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 boosmars.lipshellcore.lat
-0.0.0.0 boydjackson.org
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
@@ -90931,7 +90929,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 ccleaner.gl
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 channe-grid.wetshardauth.lat
 0.0.0.0 chat-server.maverickpreviews.com
@@ -90945,7 +90942,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cl.ssouy.com
 0.0.0.0 clipaid.app
 0.0.0.0 cloud.cloudflowops.co
-0.0.0.0 cloudstay168.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cmd.cloudflowops.co
 0.0.0.0 cmdset.logicframe.pics
@@ -91025,7 +91021,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
-0.0.0.0 download.suxiazai.com
 0.0.0.0 downloadmaxfile.digital
 0.0.0.0 dowonline.ru
 0.0.0.0 dreamwatchevent.com
@@ -91040,6 +91035,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
+0.0.0.0 emoto.mk
 0.0.0.0 en.taichuan.com
 0.0.0.0 envset.infrasettopview.pics
 0.0.0.0 envsetproc.infrapointbase.pics
@@ -91058,15 +91054,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 fertas.com.tr
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
-0.0.0.0 fitforevercavan.ie
 0.0.0.0 flowmaster.cloudflowops.co
 0.0.0.0 flyingmutts.com
-0.0.0.0 fonij.cm
 0.0.0.0 forefern.pixelnode.lat
-0.0.0.0 fotosdepuebla.org
 0.0.0.0 frozi.cc
 0.0.0.0 ftpsrv.fastnetgateview.pics
 0.0.0.0 ftpsrv.framevector.ink
@@ -91090,8 +91082,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 gitlabhubs.logicstackhub.pics
 0.0.0.0 globalbank.us
 0.0.0.0 glokchapigui.co
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 google-services.cc
-0.0.0.0 gossipband.ie
 0.0.0.0 gr1m-mark.userssawtone.lat
 0.0.0.0 granitebroad.mixzipcore64.lat
 0.0.0.0 greenf.alexion.rs
@@ -91105,7 +91097,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 honestshape.wetshardauth.lat
-0.0.0.0 hotellacastellana.com.uy
 0.0.0.0 hotfix.cloudstack.pics
 0.0.0.0 hotfixpack.techopsruntime.pics
 0.0.0.0 hseda.com
@@ -91133,19 +91124,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 izogard.com
 0.0.0.0 jawaratekno.com
 0.0.0.0 jin.com.my
-0.0.0.0 jlwz.cn
 0.0.0.0 jobadm.fastnetgateview.pics
 0.0.0.0 jobadm.framevector.ink
 0.0.0.0 jobadm.pixelmesh.pics
 0.0.0.0 jobadmmgrs.webstackengine.pics
-0.0.0.0 jobhunters.ly
 0.0.0.0 joyeriatauro.com
 0.0.0.0 jyothishmathi.in
 0.0.0.0 kavacanada.ca
 0.0.0.0 kelven7or.mongofixcore.lat
 0.0.0.0 khoancatbetong89.vn
 0.0.0.0 kimyen.net
-0.0.0.0 kms.com.bd
 0.0.0.0 kokorostore.it
 0.0.0.0 konsor.ru
 0.0.0.0 kramersmarionnettes.com
@@ -91217,7 +91205,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 noithaticon.vn
 0.0.0.0 northglyp.devmatrix.lat
 0.0.0.0 not1fie-mesh.mixzipcore64.lat
-0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 oakbalancer.setqueueat.lat
@@ -91258,6 +91245,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 proxyservmgr.netlogicstack.co
 0.0.0.0 proxysserv.infrapointbase.pics
 0.0.0.0 proxysserv.openapiservicex.pics
+0.0.0.0 ptpilatesstudio.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 pway7.mongofixcore.lat
@@ -91295,7 +91283,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 run.bytevector.pics
 0.0.0.0 rxquickpay.com
 0.0.0.0 sablayan.seasonshotelmindoro.com
-0.0.0.0 save.jnrsmcu.com
+0.0.0.0 sakuraloyalty.com
+0.0.0.0 scainseto.com.br
 0.0.0.0 schenckel.com.br
 0.0.0.0 script1-gate.lipshellcore.lat
 0.0.0.0 sdvgpro.ru
@@ -91472,6 +91461,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.hostingcloud.science
+0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.konsor.ru
@@ -91523,7 +91513,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ziparkview.webstackengine.pics
 0.0.0.0 zirviss9.codeflux.lat
 0.0.0.0 zycdjz.com
-# Number of entries: 692
+# Number of entries: 682
 # End URLHaus
 
 # Start yoyo.org
