@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 23 May 2026 03:53:40 (UTC)
-# Number of unique domains: 88,475
+# Date: 23 May 2026 08:26:28 (UTC)
+# Number of unique domains: 88,469
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 ec44a0d99520
-127.0.0.53 ec44a0d99520
+127.0.1.1 ac23ddf9c3fb
+127.0.0.53 ac23ddf9c3fb
 
 # Start StevenBlack
 
@@ -92108,7 +92108,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-05-23 03:46:18 (UTC)                      #
+# Last updated: 2026-05-23 07:45:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -92144,7 +92144,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.idanburuku.sbs
 0.0.0.0 apple-service93.ru
 0.0.0.0 areyouready.co.za
-0.0.0.0 asiaengrs.com
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
 0.0.0.0 augsburg-auto.com
@@ -92201,12 +92200,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 controliumbt.com
 0.0.0.0 coralasargetia.ro
-0.0.0.0 corepilatesnicaragua.com
 0.0.0.0 corporacioncrf.com
 0.0.0.0 cpofficial.com
 0.0.0.0 creativevoltage.com
 0.0.0.0 crescentegramas.com.br
-0.0.0.0 crimefreesoftware.com
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 csg-app.com
@@ -92269,7 +92266,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fertas.com.tr
 0.0.0.0 fikvjna5.telemetry-orbit.digital
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
@@ -92432,10 +92428,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 runtime-processing-node.christmas
 0.0.0.0 rxquickpay.com
 0.0.0.0 sablayan.seasonshotelmindoro.com
+0.0.0.0 safewatertech.com
 0.0.0.0 sam-sa.net
 0.0.0.0 samsclass.info
 0.0.0.0 save.jnrsmcu.com
 0.0.0.0 scainseto.com.br
+0.0.0.0 schenckel.com.br
 0.0.0.0 sdvgpro.ru
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
@@ -92447,6 +92445,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shahamanatme.com
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
+0.0.0.0 shreesaiseva.org
 0.0.0.0 signal-core-engine.christmas
 0.0.0.0 signal-processing-core.christmas
 0.0.0.0 signal-routing-framework.christmas
@@ -92462,7 +92461,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sopranos-familytree.christmas
 0.0.0.0 spamgym.asia
 0.0.0.0 spgint.com
-0.0.0.0 spoar.org.in
 0.0.0.0 stack-control-plane.christmas
 0.0.0.0 stack-flow.christmas
 0.0.0.0 stackbridge.christmas
@@ -92472,9 +92470,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
-0.0.0.0 steam66.cn
 0.0.0.0 stg1-swaggrhockey.com
-0.0.0.0 stonecradle.com
 0.0.0.0 subterranean-mineral.christmas
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
@@ -92526,18 +92522,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
-0.0.0.0 webcstore.pw
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 windomstatetheater.com
 0.0.0.0 winter-pulse.christmas
 0.0.0.0 wittenhorst.eu
-0.0.0.0 woodenships-wholesale.com
 0.0.0.0 www.ardguisser.com
 0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.backupallfresh2030.com
-0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.chenwangqiao.com
@@ -92553,6 +92546,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.konsor.ru
 0.0.0.0 www.longfeng188.com
 0.0.0.0 www.medises.co.kr
+0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
@@ -92591,7 +92585,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 478
+# Number of entries: 472
 # End URLHaus
 
 # Start yoyo.org
