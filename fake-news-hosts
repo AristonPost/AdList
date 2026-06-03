@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 03 June 2026 04:54:02 (UTC)
-# Number of unique domains: 87,247
+# Date: 03 June 2026 11:11:54 (UTC)
+# Number of unique domains: 87,262
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 02a8f8efe3e8
-127.0.0.53 02a8f8efe3e8
+127.0.1.1 2a55f88f692c
+127.0.0.53 2a55f88f692c
 
 # Start StevenBlack
 
@@ -20529,9 +20529,9 @@ ff02::3 ip6-allhosts
 # Start hostsVN
 
 # Title: hostsVN
-# Last modified: 02 Jun 2026 13:35 UTC+7
-# Version: 2606021335
-# Blocked: 1.741 domains
+# Last modified: 03 Jun 2026 14:20 UTC+7
+# Version: 2606031420
+# Blocked: 1.746 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -20560,6 +20560,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpm.j.eclick.vn
 0.0.0.0 d.eclick.vn
 0.0.0.0 dmp.eclick.vn
+0.0.0.0 ds.eclick.vn
 0.0.0.0 e.eclick.vn
 0.0.0.0 eclick.vn
 0.0.0.0 emarketing.eclick.vn
@@ -21896,6 +21897,11 @@ ff02::3 ip6-allhosts
 #[engagelab.com]
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 webpushstat-sgp.engagelab.com
+#[smartads.tech]
+0.0.0.0 smartads.tech
+0.0.0.0 p.smartads.tech
+0.0.0.0 st.smartads.tech
+0.0.0.0 t.smartads.tech
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -78073,7 +78079,7 @@ ff02::3 ip6-allhosts
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 02 Jun 2026 at 16:46:35 GMT
+# Last updated: Wed, 03 Jun 2026 at 06:35:01 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -78908,7 +78914,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.publeadmedia.com
 0.0.0.0 track.rediff.com
 0.0.0.0 track.searchignite.com
-0.0.0.0 track.upaknee.com
 0.0.0.0 track.vivid.com
 0.0.0.0 track.xapads.com
 0.0.0.0 track.zipalerts.com
@@ -90969,7 +90974,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-03 04:44:08 (UTC)                      #
+# Last updated: 2026-06-03 11:05:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -91002,7 +91007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aehcwen.123betyek.com
 0.0.0.0 agqjwmu.betyekritzo.com
-0.0.0.0 alarmline.com.br
+0.0.0.0 alineeleuterio.com.br
 0.0.0.0 alioss.cdn-go.com.cn
 0.0.0.0 allendostmen.com
 0.0.0.0 alternativas.ru
@@ -91012,16 +91017,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.ezilax.com
 0.0.0.0 app.appzcvb.com
 0.0.0.0 apple-service93.ru
-0.0.0.0 areyouready.co.za
 0.0.0.0 atasapka.com.tr
+0.0.0.0 audicontadores.com
 0.0.0.0 augsburg-auto.com
+0.0.0.0 aumri.ae
 0.0.0.0 autobaenasl.com
 0.0.0.0 backupso.com
 0.0.0.0 bbos.minet.vn
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 bgtwfmx.rikashart.com
-0.0.0.0 blessdayservices.org
-0.0.0.0 bmdcompany.com
 0.0.0.0 bombayonline.in
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 bridgeroad.maverickpreviews.com
@@ -91037,62 +91041,67 @@ ff02::3 ip6-allhosts
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.file6.goodid.com
+0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
 0.0.0.0 checkinetverifk.com
 0.0.0.0 chinaapper.com
-0.0.0.0 chuguadventures.co.tz
+0.0.0.0 chiptune.com
 0.0.0.0 chungminhtaichinhsaigon.net
 0.0.0.0 citnflk.arayemek.com
 0.0.0.0 cl.ssouy.com
 0.0.0.0 cloud55file.cc
+0.0.0.0 cloudaryx.cloud
+0.0.0.0 cloudnewsfeed.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.unionlever.com
 0.0.0.0 cnc.reaperc2.xyz
 0.0.0.0 co-emas.com
-0.0.0.0 compuserviceonline.com.br
+0.0.0.0 continentalgroup.net.in
 0.0.0.0 controliumbt.com
 0.0.0.0 coralasargetia.ro
 0.0.0.0 corporacioncrf.com
+0.0.0.0 cpofficial.com
 0.0.0.0 creativevoltage.com
 0.0.0.0 crescentegramas.com.br
 0.0.0.0 crimefreesoftware.com
-0.0.0.0 crystalpvp.ru
-0.0.0.0 cs.go.kg
 0.0.0.0 csg-app.com
 0.0.0.0 cspzm3hg.luxerabet1068.com
 0.0.0.0 ct3-24.ru
 0.0.0.0 cw5zuej3.baxus.net
 0.0.0.0 d.14yaa.com
 0.0.0.0 d.wanyouxi7.com
+0.0.0.0 damiancollier.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcrun.co.uk
-0.0.0.0 dcwblida.dz
 0.0.0.0 delp-heizungsbau.de
 0.0.0.0 derekludlow.com
 0.0.0.0 dexios.co.za
 0.0.0.0 dezcom.com
 0.0.0.0 dhddzix.betbet.city
 0.0.0.0 dhnconstrucciones.com.ar
-0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
+0.0.0.0 dialkwik.in
 0.0.0.0 djineca.adabiyat.org
 0.0.0.0 dkgxlcw.venusbetyek.com
 0.0.0.0 dl.1003b.56a.com
+0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dobboeu.channelsbetyek.com
 0.0.0.0 doc.e-statements.app
 0.0.0.0 donkeytourscroatia.com
+0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
+0.0.0.0 down.pcclear.com
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
+0.0.0.0 download.suxiazai.com
+0.0.0.0 dowonline.ru
 0.0.0.0 dqtglfv.goldledgers.com
-0.0.0.0 dreamwatchevent.com
-0.0.0.0 dubaitechnicalservice.ae
+0.0.0.0 drevos.ro
 0.0.0.0 dufnsng.daqotransformers.com
 0.0.0.0 dusttv.com
 0.0.0.0 dweixin.cn
@@ -91100,20 +91109,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 ebzwaki.bakhtbetyek.com
 0.0.0.0 ekffxlo.shart90bet.com
 0.0.0.0 ekqtbnv.overlokcu.com
-0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
 0.0.0.0 en.taichuan.com
+0.0.0.0 epanpano.com
 0.0.0.0 esqbzfn.bet365iran.com
 0.0.0.0 estudio.ythan.com.br
+0.0.0.0 evangroup.ru
 0.0.0.0 eventsyouwant.com
 0.0.0.0 everycarebd.com
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
-0.0.0.0 fd.v2downf.shop
 0.0.0.0 fertas.com.tr
 0.0.0.0 ff4ekbmd.7lf.net
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.uhsea.com
+0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
 0.0.0.0 frozi.cc
@@ -91123,15 +91134,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gestionycobranzas.com
 0.0.0.0 gfwbeo2g.7lf.net
-0.0.0.0 giga.miraibotnet.su
 0.0.0.0 gloason.com
+0.0.0.0 globalbank.us
 0.0.0.0 gnetier6.hegong-tools.com
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 gozilwl.overlokcu.com
 0.0.0.0 greenf.alexion.rs
+0.0.0.0 grupomcperu.com
 0.0.0.0 gutando.com
+0.0.0.0 hasalltalent.com
 0.0.0.0 hfsdguf.asyabet303.bet
 0.0.0.0 hitman-pro.ru
+0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hshpzhf.digibetyek.com
 0.0.0.0 i-ramps.com
@@ -91157,6 +91170,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 khoancatbetong89.vn
 0.0.0.0 kimyen.net
 0.0.0.0 klga3rph.easyprocode.com
+0.0.0.0 kokorostore.it
 0.0.0.0 konsor.ru
 0.0.0.0 kramersmarionnettes.com
 0.0.0.0 kuyquso.akharinbama.ir
@@ -91165,13 +91179,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
-0.0.0.0 m.jkoa.co.kr
+0.0.0.0 lomejordesalamanca.es
+0.0.0.0 luizmatoso.com.br
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maibnyf.303-bet.buzz
 0.0.0.0 maidforyou1985.com
-0.0.0.0 meetvideogoogle.com
-0.0.0.0 metrics.gocloudmaps.com
+0.0.0.0 mail.swingologygolfschools.com
 0.0.0.0 mgjfhpa.overlokcu.com
+0.0.0.0 mitreart.com
 0.0.0.0 mjvdhq4d.destek1.com
 0.0.0.0 mobshah.com
 0.0.0.0 mogimall.com
@@ -91180,6 +91195,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 muledo.com
 0.0.0.0 mundocarnes.cl
 0.0.0.0 muriaspetin.es
+0.0.0.0 mx9x.com
 0.0.0.0 n.vs108.com
 0.0.0.0 nafnvgy.enf90.app
 0.0.0.0 ncxps.com
@@ -91196,7 +91212,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 o24o.ru
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 olftxqs.dgyekbet1.com
+0.0.0.0 onfiltre.com.tr
+0.0.0.0 owlcity.ru
 0.0.0.0 oxfordmobilexray.com
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p4nkss83.alsulmicpa.com
@@ -91210,15 +91229,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 planetariumobil.ro
 0.0.0.0 plasteredplayn.com
 0.0.0.0 pljiquv.destek1.com.tr
-0.0.0.0 pns.org.pk
-0.0.0.0 postelnini.mk
 0.0.0.0 preciosasjoyitas.com.mx
+0.0.0.0 protherapycenter.com
 0.0.0.0 ps10z3qz.eutoor.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 pyfptfv.anadoluslot.bet
 0.0.0.0 pzacsqp.ariash.art
-0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qxvudcz.bet1bartar.com
 0.0.0.0 r8cgf6ux.luxerabet100.com
 0.0.0.0 ramirex.ro
@@ -91228,9 +91245,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 redlk.com
 0.0.0.0 refaccionesalma.com.mx
 0.0.0.0 reifenquick.de
-0.0.0.0 rheddh.com
+0.0.0.0 reutilizemais.co.mz
 0.0.0.0 riderspin.com
-0.0.0.0 ritubohara.com
 0.0.0.0 robertrowe.com
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 rvubnzq.akharinbama.ir
@@ -91238,6 +91254,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rxquickpay.com
 0.0.0.0 sablayan.seasonshotelmindoro.com
 0.0.0.0 samsclass.info
+0.0.0.0 save.jnrsmcu.com
 0.0.0.0 sax166rh.funkboi.com
 0.0.0.0 scainseto.com.br
 0.0.0.0 schenckel.com.br
@@ -91245,16 +91262,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
-0.0.0.0 seismophonic.com
 0.0.0.0 separadordecc.com
 0.0.0.0 sg123.net
 0.0.0.0 shaderm.com
 0.0.0.0 shahamanatme.com
 0.0.0.0 shop.mediasova.ru
+0.0.0.0 shqdown.ggzuhao.com
+0.0.0.0 sinergiaconstruccion.com.mx
 0.0.0.0 sk-comtel.com
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
-0.0.0.0 softcatalog.ru
 0.0.0.0 solar-sanat.net
 0.0.0.0 spgint.com
 0.0.0.0 spoar.org.in
@@ -91264,9 +91281,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 steam66.cn
-0.0.0.0 stonecradle.com
 0.0.0.0 store-standoff2-gold.shop
-0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
 0.0.0.0 swiftfusion.tech
@@ -91275,6 +91290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
 0.0.0.0 tehnomag.rs
+0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.cn
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 tfasyxh.arayemek.com
@@ -91285,12 +91301,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 tiacreation.club
 0.0.0.0 toolshare.com.tr
-0.0.0.0 top8onlinegame.com
 0.0.0.0 tradedsglobal.com
 0.0.0.0 transparenciacanaa.com.br
-0.0.0.0 transporteloggi.com
 0.0.0.0 trtmyanmar.com
 0.0.0.0 ukguk71.ru
+0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
 0.0.0.0 usfltzp.anadoluslot.bet
@@ -91298,10 +91313,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 vagler.ru
 0.0.0.0 vanta.st
 0.0.0.0 vcc-library.uk
+0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
-0.0.0.0 videomeetgoogle.com
-0.0.0.0 videoviralviews.com
 0.0.0.0 vincentdemiero.com
 0.0.0.0 visam.info
 0.0.0.0 vizyonuniversitesi.com.tr
@@ -91311,55 +91325,57 @@ ff02::3 ip6-allhosts
 0.0.0.0 vxpkpgb.khaled-salah.com
 0.0.0.0 vzfelbc.1shartbet1.com
 0.0.0.0 webcstore.pw
-0.0.0.0 widexenmexico.com.mx
+0.0.0.0 website.mypetapp.co.za
 0.0.0.0 windomstatetheater.com
-0.0.0.0 www.ardguisser.com
+0.0.0.0 wittenhorst.eu
+0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.backupallfresh2030.com
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
-0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.chenwangqiao.com
 0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.hostingcloud.science
-0.0.0.0 www.hotelrhousecuscoperu.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.konsor.ru
+0.0.0.0 www.medises.co.kr
+0.0.0.0 www.mevetlab.cl
 0.0.0.0 www.mobimpex.ro
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.newkey.co.kr
+0.0.0.0 www.notbak.com
 0.0.0.0 www.ojang.pe.kr
-0.0.0.0 www.okhan.net
 0.0.0.0 www.playtown.co.za
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.saf-oil.ru
-0.0.0.0 www.sgeseducation.com
+0.0.0.0 www.salonmarketing.ca
 0.0.0.0 www.silver-hubdachwohnwagen.de
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.support-data.com
 0.0.0.0 www.tdejb.com
+0.0.0.0 www.tecunonline.com
+0.0.0.0 www.test.peperoncinochepassione.it
 0.0.0.0 www.udobrit.ru
 0.0.0.0 www.vuelaviajero.com
 0.0.0.0 www.website.mypetapp.co.za
 0.0.0.0 www.websitedesigningindia.biz
 0.0.0.0 www.xn--on3b15m2lco2u.com
-0.0.0.0 www.zamilgroups.com
 0.0.0.0 xavytub.alternatifdekorasyon.com
 0.0.0.0 xelecqe.yutongdrying.com
 0.0.0.0 xemhang.vn
 0.0.0.0 xenon.studio
 0.0.0.0 xn--yh4bx88a.com
-0.0.0.0 xuezha.net
 0.0.0.0 xzhuzft.asyabet303.bet
 0.0.0.0 ydcpmjs.303-bet.xyz
 0.0.0.0 yhyrxap.bahisbey90.com
 0.0.0.0 youtransfer.net
 0.0.0.0 ysivuys.betexper.bet
 0.0.0.0 ysqlyfg.betfire90.bet
+0.0.0.0 zenglobalenerji.com
 0.0.0.0 zfkzwhk.bakhtazmaeii.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zhlwyqr.3sefr3.ir
@@ -91367,7 +91383,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zrgxhan.alternatifdekorasyon.com
 0.0.0.0 zxzhjlk.artenadigital.com
 0.0.0.0 zycdjz.com
-# Number of entries: 393
+# Number of entries: 404
 # End URLHaus
 
 # Start yoyo.org
