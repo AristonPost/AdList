@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 02 July 2026 04:06:13 (UTC)
-# Number of unique domains: 88,199
+# Date: 02 July 2026 09:24:23 (UTC)
+# Number of unique domains: 88,195
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 0740cbe977d3
-127.0.0.53 0740cbe977d3
+127.0.1.1 04fd862069fa
+127.0.0.53 04fd862069fa
 
 # Start StevenBlack
 
@@ -20542,9 +20542,9 @@ ff02::3 ip6-allhosts
 # Start hostsVN
 
 # Title: hostsVN
-# Last modified: 30 Jun 2026 22:43 UTC+7
-# Version: 2606302243
-# Blocked: 1.745 domains
+# Last modified: 02 Jul 2026 11:12 UTC+7
+# Version: 2607021112
+# Blocked: 1.746 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -21577,6 +21577,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 piwik.rta.vn
 #[accesstrade.vn]
 0.0.0.0 ad.accesstrade.vn
+0.0.0.0 content.accesstrade.vn
 0.0.0.0 partner.accesstrade.vn
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 track.accesstrade.vn
@@ -91892,7 +91893,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-02 03:59:12 (UTC)                      #
+# Last updated: 2026-07-02 09:16:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -91920,7 +91921,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 abdulahad.net
 0.0.0.0 absoluteinvestimentos.com.br
 0.0.0.0 acc.jiangsujiaxue.com
-0.0.0.0 accesstelematics.com
 0.0.0.0 acessaurl.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 admin.byte.in.ua
@@ -91979,7 +91979,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 coralasargetia.ro
 0.0.0.0 corporacioncrf.com
-0.0.0.0 corwineagles.com
 0.0.0.0 cpofficial.com
 0.0.0.0 creativevoltage.com
 0.0.0.0 crescentegramas.com.br
@@ -92005,11 +92004,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 dexios.co.za
 0.0.0.0 dezcom.com
 0.0.0.0 dialkwik.in
-0.0.0.0 digital-magicians.com
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divvanews.com
 0.0.0.0 djaczx9h.btyek.online
-0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 doc.e-statements.app
@@ -92017,7 +92014,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
@@ -92030,7 +92026,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dreamwatchevent.com
 0.0.0.0 dshm5yet.betbuf.live
 0.0.0.0 dusttv.com
-0.0.0.0 dweixin.cn
 0.0.0.0 dynga.pl
 0.0.0.0 easybrand.vn
 0.0.0.0 easyfiles.cc
@@ -92048,6 +92043,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 farschid.de
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 fileza.xyz
 0.0.0.0 finpremium.ru
@@ -92086,7 +92082,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 itssprout.com
 0.0.0.0 j1yidzep.boombasket.bet
 0.0.0.0 j2rfzlmu.enf90.net
-0.0.0.0 jawaratekno.com
+0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jim-s.com
 0.0.0.0 jlwz.cn
@@ -92194,6 +92190,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shaderm.com
 0.0.0.0 shahamanatme.com
 0.0.0.0 shop.mediasova.ru
+0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sk-comtel.com
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
@@ -92203,7 +92200,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 spgint.com
 0.0.0.0 spoar.org.in
 0.0.0.0 squvbf6p.btyek.one
-0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
@@ -92221,6 +92217,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 temirtau-adm.ru
+0.0.0.0 tengfeidn.cn
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 thebrighttable.com
 0.0.0.0 theholidayroads.com
@@ -92236,13 +92233,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ttt.falsafekonkour.site
 0.0.0.0 tu.feyhaum.com
 0.0.0.0 tuasesoriadigital.es
-0.0.0.0 twu-hwt.org
 0.0.0.0 uamhqvjx.abresanishahri.store
 0.0.0.0 uni.site.je
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
-0.0.0.0 uzdating1.shop
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -92323,7 +92318,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhigao5191.com
 0.0.0.0 zi6uvzi9.btyek.beauty
 0.0.0.0 zthayuyp.1x303.casino
-# Number of entries: 426
+0.0.0.0 zycdjz.com
+# Number of entries: 421
 # End URLHaus
 
 # Start yoyo.org
