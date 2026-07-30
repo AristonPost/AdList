@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 30 July 2026 02:50:48 (UTC)
-# Number of unique domains: 103,480
+# Date: 30 July 2026 08:38:03 (UTC)
+# Number of unique domains: 103,484
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 3a89633aa6bb
-127.0.0.53 3a89633aa6bb
+127.0.1.1 e81c77c3ca81
+127.0.0.53 e81c77c3ca81
 
 # Start StevenBlack
 
@@ -20606,8 +20606,8 @@ ff02::3 ip6-allhosts
 # Start hostsVN
 
 # Title: hostsVN
-# Last modified: 28 Jul 2026 14:31 UTC+7
-# Version: 2607281431
+# Last modified: 30 Jul 2026 14:09 UTC+7
+# Version: 2607301409
 # Blocked: 1.747 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -107223,7 +107223,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-30 02:38:14 (UTC)                      #
+# Last updated: 2026-07-30 08:32:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -107232,6 +107232,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0022a601.pphost.net
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
+0.0.0.0 abdulahad.net
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 admin.byte.in.ua
@@ -107310,6 +107311,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcwblida.dz
 0.0.0.0 deagroup-ks.com
 0.0.0.0 deliverymailreport.co.za
+0.0.0.0 delp-heizungsbau.de
 0.0.0.0 dexios.co.za
 0.0.0.0 dezcom.com
 0.0.0.0 disk.accord1key.cn
@@ -107318,11 +107320,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.proxiespool.wiki
-0.0.0.0 doc.e-statements.app
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
@@ -107369,7 +107371,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 genddos.st
 0.0.0.0 gestionycobranzas.com
 0.0.0.0 globalbank.us
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 grantexx.com
 0.0.0.0 greenf.alexion.rs
 0.0.0.0 grupomcperu.com
@@ -107384,14 +107385,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
 0.0.0.0 htdentshop.com
+0.0.0.0 i-love-git.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 ijexgroup.com.br
+0.0.0.0 ikincielesyaciankara.com.tr
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
-0.0.0.0 ixirgroup.com
 0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
@@ -107415,12 +107417,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 luizmatoso.com.br
-0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
 0.0.0.0 mail.fairgroovetr.blog
 0.0.0.0 mail.rarewingvm.blog
 0.0.0.0 malaysianpastrybakery.org
+0.0.0.0 mandarin.net.au
 0.0.0.0 meetvideogoogle.com
 0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 miriamgualda.com.br
@@ -107442,7 +107444,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ojang.pe.kr
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
-0.0.0.0 opencode.ai
 0.0.0.0 orienttaxtile.com
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
@@ -107488,6 +107489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 seismophonic.com
 0.0.0.0 semencepourlavie.org
 0.0.0.0 separadordecc.com
+0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
@@ -107539,9 +107541,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 twu-hwt.org
 0.0.0.0 ufavalkplus.com
 0.0.0.0 un1rw11q4u.com
+0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
-0.0.0.0 vcc-library.uk
 0.0.0.0 venom.rotero.vc
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
@@ -107594,6 +107596,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.silver-hubdachwohnwagen.de
 0.0.0.0 www.springhillmontessori.com
 0.0.0.0 www.starcountry.net
+0.0.0.0 www.steamrub.com
 0.0.0.0 www.support-data.com
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tecunonline.com
@@ -107608,9 +107611,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 xshop.com.tr
 0.0.0.0 youtransfer.net
 0.0.0.0 zamilgroups.com
+0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 382
+# Number of entries: 386
 # End URLHaus
 
 # Start yoyo.org
