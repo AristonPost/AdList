@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 04 September 2026 04:03:12 (UTC)
-# Number of unique domains: 83,358
+# Date: 04 September 2026 11:00:40 (UTC)
+# Number of unique domains: 83,353
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 06d1f48553cc
-127.0.0.53 06d1f48553cc
+127.0.1.1 fd3be18e97bc
+127.0.0.53 fd3be18e97bc
 
 # Start StevenBlack
 
@@ -87067,7 +87067,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-04 03:41:32 (UTC)                      #
+# Last updated: 2026-09-04 10:01:54 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -87083,6 +87083,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 3.zhzy999.net
 0.0.0.0 3.zhzy999.net3.zhzy999.net
 0.0.0.0 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
+0.0.0.0 3brosstore.com
 0.0.0.0 999.34c9f78b4ef541baac4a6e84d4f832a7.lol
 0.0.0.0 abonent-app.ru
 0.0.0.0 acc.jiangsujiaxue.com
@@ -87099,6 +87100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allendostmen.com
 0.0.0.0 alphapicaficagency.com
 0.0.0.0 alphasaling.site
+0.0.0.0 altamoorgoods.com
 0.0.0.0 alternativas.ru
 0.0.0.0 app.appzcvb.com
 0.0.0.0 archivoscrosoft.com
@@ -87110,10 +87112,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 b2b.jewmailer.net
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+0.0.0.0 beak.in
 0.0.0.0 benotrobot.online
 0.0.0.0 bito.com.pk
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
+0.0.0.0 blit.co.za
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 bmdcompany.com
 0.0.0.0 bnet-api.playm8ru.win
@@ -87133,9 +87137,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
-0.0.0.0 cheatclients.com
 0.0.0.0 checkfivem.com
 0.0.0.0 chiptune.com
+0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cl.ssouy.com
 0.0.0.0 cloud.pearlpeel.com
@@ -87175,8 +87179,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
@@ -87197,10 +87199,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
 0.0.0.0 fd.v2downf.shop
-0.0.0.0 fdstat.vip
 0.0.0.0 fern-plume.com
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
@@ -87208,7 +87208,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
 0.0.0.0 funneldiy.com
-0.0.0.0 fz.tiansys.cn
 0.0.0.0 gaiadeqi.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 geoxsecurity.ro
@@ -87250,17 +87249,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 konsor.ru
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 luizmatoso.com.br
-0.0.0.0 lumacrea.com
 0.0.0.0 luminouspower.com.pk
-0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
 0.0.0.0 mail.brightroseax.blog
 0.0.0.0 mail.emeraldstonegc.blog
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
@@ -87268,6 +87265,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mogimall.com
 0.0.0.0 mrsweaterltd.com
 0.0.0.0 muaklekcoop.com
+0.0.0.0 muledo.com
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mx9x.com
 0.0.0.0 mysura.it
@@ -87275,6 +87273,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ncxps.com
 0.0.0.0 node-slate.com
 0.0.0.0 noithaticon.vn
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odinclient.dev
@@ -87285,7 +87284,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
-0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pedianow.org
 0.0.0.0 pfatrivandrum.org
@@ -87336,7 +87334,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
 0.0.0.0 shqdown.ggzuhao.com
-0.0.0.0 shreesaiseva.org
 0.0.0.0 siaasesoria.com.mx
 0.0.0.0 signageinsignia.co.za
 0.0.0.0 sk-comtel.com
@@ -87354,7 +87351,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
-0.0.0.0 swiftfusion.tech
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
@@ -87377,7 +87373,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
 0.0.0.0 topmark-tuitioncentre.co.uk
-0.0.0.0 tpp.om-stock.com
 0.0.0.0 tr.zhzy999.net
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
@@ -87459,7 +87454,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 388
+# Number of entries: 383
 # End URLHaus
 
 # Start yoyo.org
