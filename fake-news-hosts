@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 10 September 2026 04:10:57 (UTC)
-# Number of unique domains: 84,027
+# Date: 10 September 2026 11:01:53 (UTC)
+# Number of unique domains: 84,030
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 e06e3835d317
-127.0.0.53 e06e3835d317
+127.0.1.1 5729c09fa2ee
+127.0.0.53 5729c09fa2ee
 
 # Start StevenBlack
 
@@ -87754,7 +87754,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-10 03:14:34 (UTC)                      #
+# Last updated: 2026-09-10 10:48:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -87774,6 +87774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 addurltogoogle.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
+0.0.0.0 adopdf.shop
 0.0.0.0 aftelecom.com.br
 0.0.0.0 aidlifempowerment.com
 0.0.0.0 airtickts.com
@@ -87782,28 +87783,28 @@ ff02::3 ip6-allhosts
 0.0.0.0 allendostmen.com
 0.0.0.0 alphapicaficagency.com
 0.0.0.0 alphasaling.site
-0.0.0.0 altamoorgoods.com
 0.0.0.0 alternativas.ru
+0.0.0.0 api.vexxuhq.site
 0.0.0.0 app.appzcvb.com
 0.0.0.0 archivoscrosoft.com
 0.0.0.0 archway.cozyvistany.com
 0.0.0.0 areyouready.co.za
 0.0.0.0 atasapka.com.tr
-0.0.0.0 atom.freehosting.dev
 0.0.0.0 audicontadores.com
 0.0.0.0 b2b.jewmailer.net
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-0.0.0.0 beak.in
 0.0.0.0 bito.com.pk
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
+0.0.0.0 blit.co.za
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 blueoceanealtd.co.ke
 0.0.0.0 bmdcompany.com
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
+0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
@@ -87824,9 +87825,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cl.ssouy.com
 0.0.0.0 cloud.pearlpeel.com
 0.0.0.0 clubdetiroelpicarcho.com
-0.0.0.0 cn.unionlever.com
 0.0.0.0 co-emas.com
 0.0.0.0 coconutoficial.com.br
+0.0.0.0 communication-hub.vg
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
@@ -87834,7 +87835,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpc188.day
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
-0.0.0.0 cu.srijanajha.com.np
 0.0.0.0 d.14yaa.com
 0.0.0.0 d.wanyouxi7.com
 0.0.0.0 damiancollier.com
@@ -87844,7 +87844,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 deagroup-ks.com
 0.0.0.0 deliverymailreport.co.za
 0.0.0.0 delp-heizungsbau.de
-0.0.0.0 detierra.cl
 0.0.0.0 dexios.co.za
 0.0.0.0 dezcom.com
 0.0.0.0 dinamikakargo.com
@@ -87858,7 +87857,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
@@ -87903,8 +87901,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
-0.0.0.0 hseda.com
-0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 igra123.com
 0.0.0.0 ikincielesyaciankara.com.tr
@@ -87927,17 +87923,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 liikepalvelu.com
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 loop-lumen.com
 0.0.0.0 luizmatoso.com.br
-0.0.0.0 lumacrea.com
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
 0.0.0.0 malupieng.com.br
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
@@ -87951,6 +87946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
 0.0.0.0 noithaticon.vn
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 ojang.pe.kr
@@ -87972,7 +87968,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 postelnini.mk
 0.0.0.0 practisingcertificateprotection.com
 0.0.0.0 preciosasjoyitas.com.mx
+0.0.0.0 productoslili.cl
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -88004,7 +88002,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 scooter.cozyvistany.com
 0.0.0.0 screenconnect.pro
 0.0.0.0 scrroeder.com
-0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
@@ -88022,12 +88019,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 snowproject.lol
 0.0.0.0 soft.110route.com
 0.0.0.0 software-gateway.click
+0.0.0.0 solar-sanat.net
 0.0.0.0 spa-com.com
 0.0.0.0 spgint.com
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
-0.0.0.0 streammobs.com
 0.0.0.0 studiogioeli.it
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
@@ -88040,6 +88038,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 teleabonent.ru
+0.0.0.0 tengfeidn.cn
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 theholidayroads.com
@@ -88069,6 +88068,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
+0.0.0.0 webcstore.pw
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 windomstatetheater.com
@@ -88087,9 +88087,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.first-security-verden.de
+0.0.0.0 www.gestroom.it
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.kenwillzltd.com
@@ -88101,6 +88101,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nccommunication.be
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.notbak.com
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
 0.0.0.0 www.pingu.surf
 0.0.0.0 www.pointtohealth.com
@@ -88127,8 +88128,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtransfer.net
 0.0.0.0 zamilgroups.com
 0.0.0.0 zetaval.metcalfphoto.com
+0.0.0.0 zhigao5191.com
+0.0.0.0 zunimar.cl
 0.0.0.0 zycdjz.com
-# Number of entries: 370
+# Number of entries: 373
 # End URLHaus
 
 # Start yoyo.org
