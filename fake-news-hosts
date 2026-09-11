@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 11 September 2026 04:10:23 (UTC)
-# Number of unique domains: 83,897
+# Date: 11 September 2026 11:00:13 (UTC)
+# Number of unique domains: 83,901
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 299540ab7b21
-127.0.0.53 299540ab7b21
+127.0.1.1 bdf32bf19904
+127.0.0.53 bdf32bf19904
 
 # Start StevenBlack
 
@@ -87625,7 +87625,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-11 03:57:22 (UTC)                      #
+# Last updated: 2026-09-11 10:32:26 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -87675,6 +87675,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
+0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
@@ -87691,7 +87692,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 chiptune.com
 0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
-0.0.0.0 cl.ssouy.com
 0.0.0.0 cloud.pearlpeel.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.unionlever.com
@@ -87746,11 +87746,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 envs.sh
 0.0.0.0 epanpano.com
 0.0.0.0 epsinf.com
-0.0.0.0 eurofarm.ge
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.uhsea.com
 0.0.0.0 fileget.plumbco.co.nz
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
@@ -87759,14 +87759,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
 0.0.0.0 fz.tiansys.cn
-0.0.0.0 gaiadeqi.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestionycobranzas.com
 0.0.0.0 gestroom.it
 0.0.0.0 globalbank.us
 0.0.0.0 globalsupportupdate.top
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 grantexx.com
 0.0.0.0 grupomcperu.com
 0.0.0.0 gutando.com
@@ -87777,14 +87775,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
+0.0.0.0 ikincielesyaciankara.com.tr
 0.0.0.0 impectorinternational.com
+0.0.0.0 indusenterprises.co
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
-0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
@@ -87798,7 +87798,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 letstalkhomes.ca
-0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 loop-lumen.com
@@ -87808,6 +87807,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
+0.0.0.0 malupieng.com.br
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
@@ -87824,6 +87825,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noithaticon.vn
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
@@ -87891,6 +87893,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 software-gateway.click
 0.0.0.0 solar-sanat.net
 0.0.0.0 spgint.com
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
@@ -87940,7 +87943,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 windomstatetheater.com
-0.0.0.0 wordtax.ink
 0.0.0.0 wwalucircle.com
 0.0.0.0 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 0.0.0.0 www.ardguisser.com
@@ -87952,10 +87954,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
 0.0.0.0 www.chenwangqiao.com
 0.0.0.0 www.controliumbt.com
+0.0.0.0 www.craftsparkdimensions.com
 0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.first-security-verden.de
+0.0.0.0 www.gestroom.it
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
 0.0.0.0 www.hseda.com
@@ -87998,7 +88002,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhigao5191.com
 0.0.0.0 zunimar.cl
 0.0.0.0 zycdjz.com
-# Number of entries: 369
+# Number of entries: 373
 # End URLHaus
 
 # Start yoyo.org
