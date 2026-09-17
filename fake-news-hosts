@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 17 September 2026 04:30:23 (UTC)
-# Number of unique domains: 85,890
+# Date: 17 September 2026 11:24:56 (UTC)
+# Number of unique domains: 85,894
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 47fc8da42666
-127.0.0.53 47fc8da42666
+127.0.1.1 7f6d634e7b3e
+127.0.0.53 7f6d634e7b3e
 
 # Start StevenBlack
 
@@ -89573,13 +89573,14 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-17 04:17:18 (UTC)                      #
+# Last updated: 2026-09-17 10:59:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 0following.com
+0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
 0.0.0.0 198-macros.com
 0.0.0.0 198348.gl
@@ -89608,6 +89609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 audicontadores.com
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+0.0.0.0 beak.in
 0.0.0.0 bito.com.pk
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
@@ -89616,18 +89618,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
-0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 breezeclient.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
 0.0.0.0 cambodiatouristservice.com
-0.0.0.0 casasmediterraneas.com
 0.0.0.0 cat.dashabi.in
 0.0.0.0 cat.xiaojiji.nl
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
+0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
@@ -89679,7 +89680,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
@@ -89709,6 +89709,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 floppaclient.com
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
+0.0.0.0 foundrysourcings.co.uk
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
 0.0.0.0 funnymap.net
@@ -89741,7 +89742,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 get.ctivated.win
 0.0.0.0 get.sctivated.win
 0.0.0.0 ghostclient.net
-0.0.0.0 glbeletronica.com.br
 0.0.0.0 globalbank.us
 0.0.0.0 gpsmarocpro.com
 0.0.0.0 grupomcperu.com
@@ -89756,6 +89756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
+0.0.0.0 indonesias.me
 0.0.0.0 indusenterprises.co
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
@@ -89774,6 +89775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kimyen.net
 0.0.0.0 konsor.ru
 0.0.0.0 kryptonclient-cracked.com
+0.0.0.0 kryptonclient.vip
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 lindnerelektroanlagen.de
@@ -89819,6 +89821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opalcraftsmp.com
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
@@ -89833,7 +89836,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 prestige-client.org
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 public.demo.securecloudsandbox.com
-0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 q7k2m9xb.us-theeloncode.com
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qv.co.ke
@@ -89879,21 +89881,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 soft.110route.com
 0.0.0.0 speddebug.com
 0.0.0.0 spgint.com
+0.0.0.0 srsorvete.com.br
 0.0.0.0 srv.conti.pk
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
+0.0.0.0 streammobs.com
 0.0.0.0 studiogioeli.it
 0.0.0.0 support.clz.kr
 0.0.0.0 surun.info
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
-0.0.0.0 taizi.fdstat.vip
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
 0.0.0.0 taunahi.st
-0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
 0.0.0.0 tengfeidn.cn
 0.0.0.0 tenis-team-km.com
@@ -89913,13 +89916,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 trtmyanmar.com
 0.0.0.0 twitch.tj
 0.0.0.0 twu-hwt.org
+0.0.0.0 uasputnik.com
 0.0.0.0 uno-play.online
 0.0.0.0 uno-play.xyz
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
 0.0.0.0 userhotels.org
-0.0.0.0 vdsina.vg
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -89953,18 +89956,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.gestroom.it
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
-0.0.0.0 www.hseda.com
 0.0.0.0 www.intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.kenwillzltd.com
 0.0.0.0 www.khavar.com
 0.0.0.0 www.konsor.ru
+0.0.0.0 www.kryptonclient.lol
 0.0.0.0 www.medises.co.kr
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.nccommunication.be
 0.0.0.0 www.newkey.co.kr
 0.0.0.0 www.notbak.com
+0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
 0.0.0.0 www.pointtohealth.com
 0.0.0.0 www.reifenquick.de
@@ -89991,7 +89995,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zenithclient.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 414
+# Number of entries: 418
 # End URLHaus
 
 # Start yoyo.org
