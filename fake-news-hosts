@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 21 September 2026 04:28:38 (UTC)
-# Number of unique domains: 82,744
+# Date: 21 September 2026 12:32:46 (UTC)
+# Number of unique domains: 82,736
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 75c47fd96e8f
-127.0.0.53 75c47fd96e8f
+127.0.1.1 76e5b3106ead
+127.0.0.53 76e5b3106ead
 
 # Start StevenBlack
 
@@ -86463,7 +86463,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-21 04:22:15 (UTC)                      #
+# Last updated: 2026-09-21 12:20:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -86472,13 +86472,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 0following.com
 0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
-0.0.0.0 198-macros.com
 0.0.0.0 198348.gl
-0.0.0.0 22qq-client.com
 0.0.0.0 4eclient.com
 0.0.0.0 abilityindisabilityindia.org
+0.0.0.0 abitcoinbull.com
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
+0.0.0.0 activatef.win
 0.0.0.0 addurltogoogle.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
@@ -86489,15 +86489,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 allendostmen.com
 0.0.0.0 alphapicaficagency.com
 0.0.0.0 alternativas.ru
-0.0.0.0 anyhoo.testeaza.eu
 0.0.0.0 app.appzcvb.com
 0.0.0.0 areyouready.co.za
 0.0.0.0 atasapka.com.tr
 0.0.0.0 audicontadores.com
+0.0.0.0 autoclinic.autos
+0.0.0.0 babaszepsegverseny.hu
 0.0.0.0 backupso.com
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-0.0.0.0 beak.in
 0.0.0.0 becof.org
+0.0.0.0 beoauto.alexion.rs
 0.0.0.0 bito.com.pk
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
@@ -86507,10 +86508,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
-0.0.0.0 breezeclient.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 brightworks.cz
 0.0.0.0 bserail.com
+0.0.0.0 buruujtech.com
 0.0.0.0 cambodiatouristservice.com
 0.0.0.0 casasmediterraneas.com
 0.0.0.0 cat.dashabi.in
@@ -86522,10 +86523,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
-0.0.0.0 cheetoclient.com
 0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
-0.0.0.0 cid.gov.so
 0.0.0.0 cl.ssouy.com
 0.0.0.0 cloud.pearlpeel.com
 0.0.0.0 clubdetiroelpicarcho.com
@@ -86540,7 +86539,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpc188.day
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
-0.0.0.0 ctsfactory.com
 0.0.0.0 d.14yaa.com
 0.0.0.0 d.wanyouxi7.com
 0.0.0.0 dailyushistory.com
@@ -86554,17 +86552,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 dezcom.com
 0.0.0.0 dinamikakargo.com
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 divvanews.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
-0.0.0.0 dnswwt.club
 0.0.0.0 doc.e-statements.app
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 down.54nb.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.kaobeitu.com
@@ -86574,6 +86571,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 dreamwatchevent.com
 0.0.0.0 duct-master.com
 0.0.0.0 dynga.pl
+0.0.0.0 easyrentbyowner.com
+0.0.0.0 ebullientlife.in
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 en.taichuan.com
@@ -86581,32 +86580,33 @@ ff02::3 ip6-allhosts
 0.0.0.0 envs.sh
 0.0.0.0 epanpano.com
 0.0.0.0 epsinf.com
+0.0.0.0 fabrics.lahoreshoes.com
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 file.blackint3.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
+0.0.0.0 fluidfilm.bg
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
 0.0.0.0 forgewillow.com
-0.0.0.0 friendsofsclarc.org
+0.0.0.0 foundationforwomenshealth.com
 0.0.0.0 fukt.link
 0.0.0.0 fullstacknir.com
-0.0.0.0 funnymap.net
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 galerisenimutiara.com
-0.0.0.0 gamblerigmod.org
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 genovaw.com
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestionycobranzas.com
 0.0.0.0 gestroom.it
-0.0.0.0 ghostclient.net
+0.0.0.0 glbeletronica.com.br
 0.0.0.0 globalbank.us
+0.0.0.0 greenf.alexion.rs
 0.0.0.0 grupomcperu.com
 0.0.0.0 harmeetmotors.com
-0.0.0.0 hasalltalent.com
+0.0.0.0 hewadexchange.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
@@ -86617,8 +86617,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
 0.0.0.0 indonesias.me
-0.0.0.0 innovantksa.com
-0.0.0.0 invmove.com
+0.0.0.0 indusenterprises.co
+0.0.0.0 iniciaonline.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
@@ -86632,21 +86632,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
 0.0.0.0 konsor.ru
-0.0.0.0 kryptonclient-cracked.com
+0.0.0.0 lahoreshoes.com
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 loop-lumen.com
-0.0.0.0 luizmatoso.com.br
-0.0.0.0 luminexclient.com
+0.0.0.0 lumacrea.com
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
+0.0.0.0 mail1.mycollege.com.my
 0.0.0.0 malupieng.com.br
-0.0.0.0 mandarin.net.au
 0.0.0.0 meteorclients.com
 0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 miriamgualda.com.br
@@ -86661,33 +86660,26 @@ ff02::3 ip6-allhosts
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
-0.0.0.0 noamaddons.com
 0.0.0.0 noithaticon.vn
-0.0.0.0 nova-client.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
-0.0.0.0 odinclient.com
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
+0.0.0.0 onyx-medical.com
 0.0.0.0 opalcraftsmp.com
 0.0.0.0 opsecmod.st
-0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 phantom-client.com
-0.0.0.0 planetariumobil.ro
-0.0.0.0 polarclient.net
-0.0.0.0 polinexclient.org
 0.0.0.0 portal.onepansol.site
 0.0.0.0 postelnini.mk
 0.0.0.0 practisingcertificateprotection.com
 0.0.0.0 preciosasjoyitas.com.mx
-0.0.0.0 prestige-client.org
 0.0.0.0 prestigeclient.st
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 public.demo.securecloudsandbox.com
@@ -86695,6 +86687,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qiniuyunxz.yxflzs.com
 0.0.0.0 qv.co.ke
 0.0.0.0 ramirex.ro
+0.0.0.0 raqmnh.com
 0.0.0.0 rcf.co.mz
 0.0.0.0 rdm.91yunma.cn
 0.0.0.0 reauthenticator.com
@@ -86712,6 +86705,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sales.ifree.page
 0.0.0.0 samiksha.com.sg
 0.0.0.0 sandboxle.com.cn
+0.0.0.0 scainseto.com.br
 0.0.0.0 scanbot.me
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
@@ -86725,18 +86719,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
 0.0.0.0 shqdown.ggzuhao.com
-0.0.0.0 sigmaclient.net
 0.0.0.0 sirenasultana.com
 0.0.0.0 sk-comtel.com
-0.0.0.0 skyblock-addons.com
-0.0.0.0 skyblock-extras.org
+0.0.0.0 skolazasisanjepasa.com
 0.0.0.0 skymoders.top
 0.0.0.0 smartermail.host
-0.0.0.0 spgint.com
+0.0.0.0 soft.110route.com
+0.0.0.0 srrealestate.techzonecam.com
 0.0.0.0 srsorvete.com.br
 0.0.0.0 srv.conti.pk
 0.0.0.0 star.zcnet.net
-0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
@@ -86765,6 +86757,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thisisafalsepositive.st
 0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 tiacreation.club
+0.0.0.0 togethers.tv
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
 0.0.0.0 topmark-tuitioncentre.co.uk
@@ -86772,12 +86765,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 tr.zhzy999.net
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
-0.0.0.0 twitch.tj
 0.0.0.0 twu-hwt.org
-0.0.0.0 universami.ge
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
+0.0.0.0 vektorex.com
 0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 vgd.vg
@@ -86847,7 +86839,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhigao5191.com
 0.0.0.0 zhostz.com
 0.0.0.0 zycdjz.com
-# Number of entries: 380
+# Number of entries: 372
 # End URLHaus
 
 # Start yoyo.org
