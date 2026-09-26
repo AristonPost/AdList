@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 September 2026 04:33:52 (UTC)
-# Number of unique domains: 82,744
+# Date: 26 September 2026 11:10:07 (UTC)
+# Number of unique domains: 82,750
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 31cd4852e3cd
-127.0.0.53 31cd4852e3cd
+127.0.1.1 5de8936297de
+127.0.0.53 5de8936297de
 
 # Start StevenBlack
 
@@ -86462,7 +86462,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-26 04:17:15 (UTC)                      #
+# Last updated: 2026-09-26 11:02:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -86516,6 +86516,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
+0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
@@ -86538,6 +86539,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 crazypianoswebshop.nl
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
+0.0.0.0 ctsfactory.com
 0.0.0.0 d.14yaa.com
 0.0.0.0 d.wanyouxi7.com
 0.0.0.0 dailyushistory.com
@@ -86551,7 +86553,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dezcom.com
 0.0.0.0 dinamikakargo.com
 0.0.0.0 disk.accord1key.cn
-0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 doc.e-statements.app
@@ -86566,7 +86567,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
-0.0.0.0 dreamwatchevent.com
 0.0.0.0 duct-master.com
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
@@ -86586,7 +86586,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 ficus.in
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 floppaclient.com
@@ -86616,12 +86615,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
+0.0.0.0 hseda.com
 0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
 0.0.0.0 indonesias.me
+0.0.0.0 iniciaonline.com
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
@@ -86638,7 +86639,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 konakonacricket.com
 0.0.0.0 konsor.ru
 0.0.0.0 kryptonclient-cracked.com
-0.0.0.0 kupunasvolpiano.com
 0.0.0.0 landonirwin.com
 0.0.0.0 larpdebug.com
 0.0.0.0 lawfirm.paperbirdtech.com
@@ -86674,6 +86674,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noithaticon.vn
 0.0.0.0 nordertextil.de
 0.0.0.0 nova-client.com
+0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 obearo.com
 0.0.0.0 odinclient.com
@@ -86696,11 +86697,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 polinexclient.org
 0.0.0.0 portal.onepansol.site
 0.0.0.0 postelnini.mk
+0.0.0.0 power.belyxhost.in
 0.0.0.0 practisingcertificateprotection.com
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prestigeclient.st
 0.0.0.0 profileone.jo3.org
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -86729,6 +86732,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 scanbot.me
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
+0.0.0.0 scrroeder.com
+0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
@@ -86779,7 +86784,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tpp.om-stock.com
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
-0.0.0.0 twitch.tj
 0.0.0.0 twu-hwt.org
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
@@ -86790,6 +86794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
+0.0.0.0 webcstore.pw
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 wielixclient.com
@@ -86820,6 +86825,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kenwillzltd.com
 0.0.0.0 www.khavar.com
 0.0.0.0 www.konsor.ru
+0.0.0.0 www.medises.co.kr
 0.0.0.0 www.myvcart.com
 0.0.0.0 www.namuvpn.com
 0.0.0.0 www.newkey.co.kr
@@ -86849,7 +86855,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 382
+# Number of entries: 388
 # End URLHaus
 
 # Start yoyo.org
