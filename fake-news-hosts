@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 29 September 2026 05:19:40 (UTC)
-# Number of unique domains: 81,559
+# Date: 29 September 2026 12:33:15 (UTC)
+# Number of unique domains: 81,564
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 ddfdd84afc6d
-127.0.0.53 ddfdd84afc6d
+127.0.1.1 5f579276b2c2
+127.0.0.53 5f579276b2c2
 
 # Start StevenBlack
 
@@ -85288,13 +85288,12 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-29 05:06:14 (UTC)                      #
+# Last updated: 2026-09-29 12:12:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-0.0.0.0 123.ywxww.net
 0.0.0.0 1717.1000uc.com
 0.0.0.0 198-macros.com
 0.0.0.0 198348.gl
@@ -85302,6 +85301,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 22qq-client.com
 0.0.0.0 4eclient.com
 0.0.0.0 4flng-filedrive.sbs
+0.0.0.0 6ak-tehnik.si
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
 0.0.0.0 adcentral.com.mx
@@ -85312,7 +85312,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alarmline.com.br
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
-0.0.0.0 altamoorgoods.com
 0.0.0.0 alternativas.ru
 0.0.0.0 app.appzcvb.com
 0.0.0.0 areyouready.co.za
@@ -85325,7 +85324,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
-0.0.0.0 blit.co.za
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 bmdcompany.com
 0.0.0.0 bnet-api.playm8ru.win
@@ -85343,7 +85341,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
@@ -85354,6 +85351,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cl.ssouy.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.devglobal.biz
+0.0.0.0 cn.unionlever.com
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
@@ -85373,6 +85371,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deagroup-ks.com
 0.0.0.0 debugify.net
 0.0.0.0 delp-heizungsbau.de
+0.0.0.0 delta-canvas.com
 0.0.0.0 dezcom.com
 0.0.0.0 dinamikakargo.com
 0.0.0.0 disk.accord1key.cn
@@ -85391,6 +85390,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
+0.0.0.0 download.youlovemybiba.com
 0.0.0.0 dreamwatchevent.com
 0.0.0.0 duct-master.com
 0.0.0.0 electri.billregulator.com
@@ -85408,6 +85408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 farschid.de
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 file.blackint3.com
+0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
 0.0.0.0 floppaclient.com
@@ -85423,7 +85424,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 gamblerigmod.org
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geoxsecurity.ro
+0.0.0.0 gestroom.it
 0.0.0.0 globalbank.us
+0.0.0.0 grandarcbuilders.com
 0.0.0.0 greenf.alexion.rs
 0.0.0.0 grupomcperu.com
 0.0.0.0 harmeetmotors.com
@@ -85433,6 +85436,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hitstation.nl
 0.0.0.0 hobobot.net
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
@@ -85459,7 +85463,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
-0.0.0.0 loop-lumen.com
 0.0.0.0 luizmatoso.com.br
 0.0.0.0 lumacrea.com
 0.0.0.0 luminexclient.com
@@ -85476,17 +85479,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
 0.0.0.0 mkconstructions.net
-0.0.0.0 mm-mvshahacademy.ac.ke
 0.0.0.0 mnurlogistics.az
 0.0.0.0 mogimall.com
 0.0.0.0 moniquejhingon.com
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
+0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mysura.it
+0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
 0.0.0.0 noamaddons.com
 0.0.0.0 noithaticon.vn
-0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 nova-client.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
@@ -85513,7 +85516,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prestigeclient.st
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
-0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -85525,6 +85527,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reauthenticator.com
 0.0.0.0 records.dennisign.se
 0.0.0.0 reifenquick.de
+0.0.0.0 reinigung-kosanke.de
 0.0.0.0 reservphotoinstay.one
 0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
@@ -85543,7 +85546,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
 0.0.0.0 scrroeder.com
-0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
@@ -85561,6 +85563,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 soft.110route.com
 0.0.0.0 spgint.com
 0.0.0.0 srsorvete.com.br
+0.0.0.0 star.zcnet.net
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
@@ -85589,7 +85593,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tiacreation.club
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
-0.0.0.0 tpp.om-stock.com
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 trtmyanmar.com
 0.0.0.0 trust-soft.cc
@@ -85597,6 +85600,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
+0.0.0.0 vdsina.vg
+0.0.0.0 versaclean.com.br
 0.0.0.0 veryboys.com
 0.0.0.0 visam.info
 0.0.0.0 vizyonuniversitesi.com.tr
@@ -85664,7 +85669,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 371
+# Number of entries: 376
 # End URLHaus
 
 # Start yoyo.org
