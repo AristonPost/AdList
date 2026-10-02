@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 01 October 2026 22:33:04 (UTC)
-# Number of unique domains: 80,305
+# Date: 02 October 2026 05:10:33 (UTC)
+# Number of unique domains: 80,291
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 1bafd907e65c
-127.0.0.53 1bafd907e65c
+127.0.1.1 448a7be4fae6
+127.0.0.53 448a7be4fae6
 
 # Start StevenBlack
 
@@ -83996,7 +83996,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-01 22:27:16 (UTC)                      #
+# Last updated: 2026-10-02 05:02:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -84008,10 +84008,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 198348.gl
 0.0.0.0 22qq-client.com
 0.0.0.0 4eclient.com
-0.0.0.0 6tu2zzl7q5wtdm6icmutlb6ifr7zz3z2svxvieaz7u4pqxrbblc7ltid.onion
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
-0.0.0.0 acrilicoporto.pt
 0.0.0.0 adcentral.com.mx
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
@@ -84023,6 +84021,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
 0.0.0.0 alternativas.ru
+0.0.0.0 api.wipmania.net
 0.0.0.0 app.appzcvb.com
 0.0.0.0 app.ezmarketz.com
 0.0.0.0 areyouready.co.za
@@ -84042,7 +84041,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blogs.sokun.jp
 0.0.0.0 bmdcompany.com
 0.0.0.0 bnet-api.playm8ru.win
-0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 bserail.com
@@ -84060,18 +84058,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
 0.0.0.0 chiroartist.com
+0.0.0.0 chrome.windows-browser.net
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cid.gov.so
 0.0.0.0 cl.ssouy.com
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cn.devglobal.biz
-0.0.0.0 cn.unionlever.com
 0.0.0.0 compuserviceonline.com.br
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
 0.0.0.0 coralasargetia.ro
 0.0.0.0 cpc188.day
-0.0.0.0 cpofficial.com
 0.0.0.0 crazypianoswebshop.nl
 0.0.0.0 crystalpvp.ru
 0.0.0.0 d.14yaa.com
@@ -84084,7 +84081,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 deagroup-ks.com
 0.0.0.0 debugify.net
 0.0.0.0 delp-heizungsbau.de
-0.0.0.0 delphiaonline.top
 0.0.0.0 delta-canvas.com
 0.0.0.0 dezcom.com
 0.0.0.0 dinamikakargo.com
@@ -84105,7 +84101,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
-0.0.0.0 download.youlovemybiba.com
 0.0.0.0 dreamwatchevent.com
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
@@ -84116,7 +84111,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 epanpano.com
 0.0.0.0 epsinf.com
 0.0.0.0 escrowbank.co
-0.0.0.0 evacompltd.site
 0.0.0.0 fa.windows32.men
 0.0.0.0 fakers.co.jp
 0.0.0.0 farschid.de
@@ -84137,7 +84131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fussionmd.com
 0.0.0.0 fz.tiansys.cn
 0.0.0.0 galerisenimutiara.com
-0.0.0.0 gammanort.thekielement.com
+0.0.0.0 garogradba.mk
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestroom.it
@@ -84156,8 +84150,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 hobobot.net
 0.0.0.0 hotelhungry.com
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 icoffeecloud.com
-0.0.0.0 idid.pl
+0.0.0.0 icupsa.com.mx
 0.0.0.0 ignetwork.us
 0.0.0.0 igra123.com
 0.0.0.0 impectorinternational.com
@@ -84167,11 +84162,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
 0.0.0.0 jawaratekno.com
+0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
 0.0.0.0 johnsonsvalves.cam
 0.0.0.0 kavacanada.ca
-0.0.0.0 kazdiyden.ru
 0.0.0.0 kenwillzltd.com
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
@@ -84197,7 +84192,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 maple30.com
 0.0.0.0 meteorclients.com
 0.0.0.0 meteorrejects.net
-0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 mibd.org
 0.0.0.0 miriamgualda.com.br
 0.0.0.0 mitreart.com
@@ -84210,7 +84204,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 muledo.com
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 muriaspetin.es
-0.0.0.0 mx9x.com
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
 0.0.0.0 ncxps.com
@@ -84219,6 +84212,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nota-fical-online.lat
 0.0.0.0 noxxclient.org
 0.0.0.0 nsci.space
+0.0.0.0 nusatoyota.co.id
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 obearo.com
 0.0.0.0 odinclient.com
@@ -84228,12 +84222,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
 0.0.0.0 opsecmod.st
-0.0.0.0 otkrytkadnya.ru
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
-0.0.0.0 pevrix.com
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 phantom-client.com
 0.0.0.0 photolivebook.pro
@@ -84248,7 +84240,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prestigeclient.st
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
-0.0.0.0 protherapycenter.com
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvphood.cc
 0.0.0.0 pvsa.gxfugy.cn
@@ -84262,25 +84253,24 @@ ff02::3 ip6-allhosts
 0.0.0.0 reauthenticator.com
 0.0.0.0 records.dennisign.se
 0.0.0.0 reifenquick.de
-0.0.0.0 reinigung-kosanke.de
 0.0.0.0 reservphotoinstay.one
 0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
-0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
 0.0.0.0 romeopirlanta.com
 0.0.0.0 royalcuts.co.uk
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 sablayan.seasonshotelmindoro.com
 0.0.0.0 safeifm.com
+0.0.0.0 sales.ifree.page
 0.0.0.0 samiksha.com.sg
+0.0.0.0 sandiegomobiletire.com
 0.0.0.0 scainseto.com.br
 0.0.0.0 scanbot.me
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
 0.0.0.0 scrroeder.com
-0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
@@ -84289,7 +84279,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 seputartuban.com
 0.0.0.0 sg123.net
 0.0.0.0 shqdown.ggzuhao.com
-0.0.0.0 simplecheck.online
 0.0.0.0 sirenasultana.com
 0.0.0.0 sk-comtel.com
 0.0.0.0 skyblock-addons.com
@@ -84303,11 +84292,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
-0.0.0.0 streammobs.com
 0.0.0.0 support.clz.kr
 0.0.0.0 sushiandpoke.pt
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
+0.0.0.0 swiftfusion.tech
 0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
@@ -84315,7 +84304,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 taunahi.st
 0.0.0.0 tecunonline.com
 0.0.0.0 tehnomag.rs
-0.0.0.0 telpak.icu
 0.0.0.0 tengfeidn.cn
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
@@ -84335,8 +84323,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trtmyanmar.com
 0.0.0.0 tutpaste.com
 0.0.0.0 twitch.tj
-0.0.0.0 twu-hwt.org
-0.0.0.0 uasputnik.com
+0.0.0.0 universami.ge
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update-acrobatdc.shop
@@ -84346,7 +84333,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
-0.0.0.0 webpagehelp.online
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 widexenmexico.com.mx
 0.0.0.0 wielixclient.com
@@ -84362,9 +84348,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.benshamcentre.co.uk
 0.0.0.0 www.blackhattoolz.com
 0.0.0.0 www.bratusferramentas.grupomoltz.com.br
-0.0.0.0 www.cakkaao.com
 0.0.0.0 www.chenwangqiao.com
 0.0.0.0 www.controliumbt.com
+0.0.0.0 www.correa.ind.br
 0.0.0.0 www.crazywickedaddiction.com
 0.0.0.0 www.cutting-edge.in
 0.0.0.0 www.drgenov.com
@@ -84410,7 +84396,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 409
+# Number of entries: 395
 # End URLHaus
 
 # Start yoyo.org
