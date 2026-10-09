@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 09 October 2026 05:41:04 (UTC)
-# Number of unique domains: 80,208
+# Date: 09 October 2026 12:58:26 (UTC)
+# Number of unique domains: 80,205
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 16487ea2cdc8
-127.0.0.53 16487ea2cdc8
+127.0.1.1 5af9091b0caa
+127.0.0.53 5af9091b0caa
 
 # Start StevenBlack
 
@@ -83911,7 +83911,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-09 05:32:07 (UTC)                      #
+# Last updated: 2026-10-09 12:47:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -83924,10 +83924,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 3.zhzy999.net
 0.0.0.0 3.zhzy999.net3.zhzy999.net
 0.0.0.0 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
-0.0.0.0 3brosstore.com
 0.0.0.0 4eclient.com
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
+0.0.0.0 adcentral.com.mx
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aetherius.live
@@ -83944,6 +83944,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 areyouready.co.za
 0.0.0.0 argon-client.com
 0.0.0.0 ascomsecurity.com.au
+0.0.0.0 atasapka.com.tr
 0.0.0.0 athuselevadores.com.br
 0.0.0.0 b.clu-e.eu
 0.0.0.0 backupso.com
@@ -83962,6 +83963,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bridgeroad.maverickpreviews.com
 0.0.0.0 bserail.com
 0.0.0.0 bumcoinc.site
+0.0.0.0 c2.teamzeroday.net
 0.0.0.0 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 0.0.0.0 cambodiatouristservice.com
 0.0.0.0 casasmediterraneas.com
@@ -83970,11 +83972,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
+0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 celebratingseniors.net
-0.0.0.0 cepde.org
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
-0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cid.gov.so
 0.0.0.0 cl.ssouy.com
@@ -83997,7 +83998,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 debugify.net
 0.0.0.0 deffnelreports.bramblequarz.ru
 0.0.0.0 delp-heizungsbau.de
-0.0.0.0 delta-canvas.com
 0.0.0.0 dezcom.com
 0.0.0.0 dfd.zhzy999.net
 0.0.0.0 dinamikakargo.com
@@ -84013,6 +84013,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 donutsmpclient.com
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
@@ -84072,14 +84073,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 igra123.com
 0.0.0.0 ikovrsps.com
 0.0.0.0 impectorinternational.com
-0.0.0.0 indonesias.me
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
-0.0.0.0 ita-airwaysva.com
 0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
+0.0.0.0 jawaratekno.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
@@ -84093,11 +84092,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
-0.0.0.0 loop-lumen.com
 0.0.0.0 luizmatoso.com.br
 0.0.0.0 lumacrea.com
 0.0.0.0 luminexclient.net
-0.0.0.0 luminouspower.com.pk
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
@@ -84118,7 +84115,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mrsweaterltd.com
 0.0.0.0 muaklekcoop.com
 0.0.0.0 muledo.com
-0.0.0.0 multiplay.at
 0.0.0.0 munihuacho.gob.pe
 0.0.0.0 mysura.it
 0.0.0.0 n.vs108.com
@@ -84136,6 +84132,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opsecmod.st
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
@@ -84168,7 +84165,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 rheddh.com
-0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
 0.0.0.0 romeopirlanta.com
 0.0.0.0 royalindiancurryclub.com
@@ -84182,7 +84178,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 scoala1gherla.ro
 0.0.0.0 screenconnect.pro
 0.0.0.0 scrroeder.com
-0.0.0.0 sdufkghdfshds.cfd
 0.0.0.0 sec.dashabi.in
 0.0.0.0 sec.xiaojiji.nl
 0.0.0.0 sec.xiaoshabi.nl
@@ -84223,12 +84218,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 tengfeidn.cn
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
+0.0.0.0 thehaider.com
 0.0.0.0 theholidayroads.com
 0.0.0.0 themaintechnician.us
 0.0.0.0 thementordirectory.com
 0.0.0.0 theoremaoliveoil.com
 0.0.0.0 thisisafalsepositive.st
 0.0.0.0 tiacreation.club
+0.0.0.0 ticpc8a.com
 0.0.0.0 tmcksa.com
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
@@ -84248,7 +84245,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vizyonuniversitesi.web.tr
 0.0.0.0 vrajras.com
 0.0.0.0 w.zhzy999.net
-0.0.0.0 webcstore.pw
+0.0.0.0 w5q.eu
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 wicresetconnect.com
 0.0.0.0 widexenmexico.com.mx
@@ -84313,7 +84310,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 397
+# Number of entries: 394
 # End URLHaus
 
 # Start yoyo.org
