@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 17 October 2026 03:57:26 (UTC)
-# Number of unique domains: 79,212
+# Date: 17 October 2026 10:27:19 (UTC)
+# Number of unique domains: 79,222
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 a45a5fe2b046
-127.0.0.53 a45a5fe2b046
+127.0.1.1 ebf9e6a41709
+127.0.0.53 ebf9e6a41709
 
 # Start StevenBlack
 
@@ -82895,7 +82895,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-17 03:49:19 (UTC)                      #
+# Last updated: 2026-10-17 10:17:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -82912,6 +82912,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 6sim.vip
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
+0.0.0.0 adcentral.com.mx
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aftelecom.com.br
@@ -82966,6 +82967,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cid.gov.so
+0.0.0.0 cl.ssouy.com
+0.0.0.0 cloubflare.net
 0.0.0.0 clownguard.us
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 cmp4.top
@@ -83016,7 +83019,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
-0.0.0.0 embedone.com
 0.0.0.0 en.taichuan.com
 0.0.0.0 epanpano.com
 0.0.0.0 epstexsecutor.com
@@ -83042,6 +83044,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geoxsecurity.ro
+0.0.0.0 gestroom.it
 0.0.0.0 getoutofthebackseat.com
 0.0.0.0 ggi.dietondemand.com
 0.0.0.0 globalbank.us
@@ -83057,8 +83060,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
+0.0.0.0 horno-rafelet.es
 0.0.0.0 hotelhungry.com
 0.0.0.0 hseda.com
+0.0.0.0 htdentshop.com
 0.0.0.0 ibidasjohnnraplc.com
 0.0.0.0 icoffeecloud.com
 0.0.0.0 ignetwork.us
@@ -83069,6 +83074,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
+0.0.0.0 itbakersfield.com
 0.0.0.0 itco.pe
 0.0.0.0 itssprout.com
 0.0.0.0 jawaratekno.com
@@ -83090,7 +83096,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 livinginpurpose.co.za
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
-0.0.0.0 lumacrea.com
+0.0.0.0 luizmatoso.com.br
 0.0.0.0 luminexclient.com
 0.0.0.0 luminexclient.net
 0.0.0.0 luminouspower.com.pk
@@ -83134,10 +83140,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 okhan.net
 0.0.0.0 oknoplastik.sk
 0.0.0.0 onfiltre.com.tr
+0.0.0.0 oopz.app
 0.0.0.0 opsecmod.st
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 pay.aqiu6.com
+0.0.0.0 pcupd.com
 0.0.0.0 pfatrivandrum.org
 0.0.0.0 phantom-client.com
 0.0.0.0 photolivebook.pro
@@ -83167,6 +83176,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reutilizemais.co.mz
 0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
+0.0.0.0 rosirs-edu.com
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 runelite.cc
 0.0.0.0 safeifm.com
@@ -83197,13 +83207,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 spaceware.cc
 0.0.0.0 spgint.com
 0.0.0.0 srsorvete.com.br
-0.0.0.0 stanarcservice.com
 0.0.0.0 star.zcnet.net
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.youdm.cn
 0.0.0.0 stdown.dinju.com
 0.0.0.0 steelstanleystaystrong.top
+0.0.0.0 streammobs.com
 0.0.0.0 sugarfreedcup.co.za
 0.0.0.0 support.clz.kr
 0.0.0.0 sushiandpoke.pt
@@ -83237,7 +83247,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tribot.co.uk
 0.0.0.0 trtmyanmar.com
 0.0.0.0 twitch.tj
-0.0.0.0 universami.ge
+0.0.0.0 twu-hwt.org
 0.0.0.0 up.sb
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
@@ -83317,7 +83327,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
 0.0.0.0 zycdjz.com
-# Number of entries: 417
+# Number of entries: 427
 # End URLHaus
 
 # Start yoyo.org
