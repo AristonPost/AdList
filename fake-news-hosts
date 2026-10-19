@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 19 October 2026 04:13:05 (UTC)
-# Number of unique domains: 78,837
+# Date: 19 October 2026 12:46:48 (UTC)
+# Number of unique domains: 78,841
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -26,8 +26,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-127.0.1.1 a069081b1f4b
-127.0.0.53 a069081b1f4b
+127.0.1.1 af43b5cffd1e
+127.0.0.53 af43b5cffd1e
 
 # Start StevenBlack
 
@@ -82517,7 +82517,7 @@ ff02::3 ip6-allhosts
 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-19 04:02:11 (UTC)                      #
+# Last updated: 2026-10-19 12:32:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -82558,6 +82558,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 0.0.0.0 beak.in
 0.0.0.0 beoauto.alexion.rs
+0.0.0.0 betmagik.com
 0.0.0.0 blankeyeo.com
 0.0.0.0 blessdayservices.org
 0.0.0.0 blogs.sokun.jp
@@ -82589,7 +82590,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkfivem.com
 0.0.0.0 cheetoclient.com
-0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 cid.gov.so
 0.0.0.0 cl.ssouy.com
@@ -82601,7 +82601,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 coolairesgroup.com
 0.0.0.0 cpc188.day
-0.0.0.0 cpxlt.cn
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 d.14yaa.com
@@ -82637,7 +82636,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
-0.0.0.0 dreambot.info
+0.0.0.0 download.vertex-software.digital
 0.0.0.0 dynga.pl
 0.0.0.0 electri.billregulator.com
 0.0.0.0 elisans.novayonetim.com
@@ -82668,6 +82667,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fullstacknir.com
 0.0.0.0 funnymap.net
 0.0.0.0 fz.tiansys.cn
+0.0.0.0 gabyagozetim.com
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 gboutros.howto.rocks
 0.0.0.0 geoxsecurity.ro
@@ -82689,7 +82689,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 helpdesk09-26.com
 0.0.0.0 hitman-pro.ru
 0.0.0.0 hitstation.nl
-0.0.0.0 horno-rafelet.es
 0.0.0.0 hotelhungry.com
 0.0.0.0 hseda.com
 0.0.0.0 htdentshop.com
@@ -82709,6 +82708,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
 0.0.0.0 jlwz.cn
+0.0.0.0 jumalputty.com
 0.0.0.0 kavacanada.ca
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
@@ -82717,13 +82717,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 kryptonclient-cracked.com
 0.0.0.0 landonirwin.com
 0.0.0.0 lawfirm.paperbirdtech.com
+0.0.0.0 leafdraft18.com
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 livinginpurpose.co.za
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 londonairportstransfer.co.uk
 0.0.0.0 luizmatoso.com.br
-0.0.0.0 lumacrea.com
 0.0.0.0 luminexclient.com
 0.0.0.0 luminexclient.net
 0.0.0.0 luminouspower.com.pk
@@ -82754,6 +82754,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ncxps.com
 0.0.0.0 nd.tdpqnf.com
 0.0.0.0 noithaticon.vn
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 nova-75.com
 0.0.0.0 nova-client.com
 0.0.0.0 obearo.com
@@ -82778,9 +82779,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 polinexclient.org
 0.0.0.0 porterneuman.mx
 0.0.0.0 postelnini.mk
+0.0.0.0 power-shell.cc
 0.0.0.0 prestigeclient.st
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 project0.cc
+0.0.0.0 ps-ps.cc
 0.0.0.0 public.demo.securecloudsandbox.com
 0.0.0.0 pvsa.gxfugy.cn
 0.0.0.0 qiniuyunxz.yxflzs.com
@@ -82802,6 +82805,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 riderspin.com
 0.0.0.0 robertrowe.com
 0.0.0.0 royalindiancurryclub.com
+0.0.0.0 runelight.net
 0.0.0.0 runelite.cc
 0.0.0.0 safeifm.com
 0.0.0.0 sales.ifree.page
@@ -82872,6 +82876,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uu.v2raynapps.com.cn
 0.0.0.0 veryboys.com
 0.0.0.0 viewgit.sbs
+0.0.0.0 vine-linen.com
 0.0.0.0 visam.info
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vizyonuniversitesi.web.tr
@@ -82899,7 +82904,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.drgenov.com
 0.0.0.0 www.duelvalenza.it
 0.0.0.0 www.first-security-verden.de
-0.0.0.0 www.gestroom.it
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hqsblog.com
 0.0.0.0 www.hseda.com
@@ -82938,13 +82942,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 xshop.com.tr
 0.0.0.0 yakult-hk.com
-0.0.0.0 yokobd.com
 0.0.0.0 youtransfer.net
 0.0.0.0 zamatours.net
 0.0.0.0 zamilgroups.com
 0.0.0.0 zhigao5191.com
+0.0.0.0 zimzar.site
 0.0.0.0 zycdjz.com
-# Number of entries: 422
+# Number of entries: 426
 # End URLHaus
 
 # Start yoyo.org
